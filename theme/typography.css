@@ -16,18 +16,13 @@
  * All Genericons.
  */
 [class*="genericon"] {
-	display: inline-block;
-	width: 32px;
-	height: 32px;
-	margin-right: 5px;
+	margin-right: 0.5ex;
 	-webkit-font-smoothing: antialiased;
-	font-size: 32px;
-	/*line-height: 1;*/
+	font-size: 120%;
 	font-family: 'Genericons';
 	text-decoration: inherit;
 	font-weight: normal;
 	font-style: normal;
-	vertical-align: top;
 }
 
 /* IE7 */
@@ -44,3 +39,4 @@
 .genericon-comment:before { content: '\f300'; }
 .genericon-menu:before { content: '\f419'; }
 .genericon-github:before { content: '\e800'; }
+.genericon-copy:before { content: '\e801'; }

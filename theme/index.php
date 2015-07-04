@@ -41,7 +41,10 @@
 
 
 	        <div id="footer">
-        	        <p>&copy; 2004-<?php echo date('Y'); ?> Wildcat Zsonglőr Oldalak - már több mint 10 éve a weben</p>
+        	        <p>
+				<span class="genericon-copy"></span>2004-<?php echo date('Y'); ?> Wildcat Zsonglőr Oldalak &nbsp;
+				<span class="genericon-github"></span><a href="https://github.com/encse/wildcat">Github</a>
+			</p>
         	</div> <!--footer-->
 
 	</div> <!-- wrapper-inner -->
