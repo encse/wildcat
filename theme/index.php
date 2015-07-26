@@ -43,7 +43,7 @@
 	        <div id="footer">
         	        <p>
 				<span class="genericon-copy"></span>2004-<?php echo date('Y'); ?> Wildcat Zsonglőr Oldalak &nbsp;
-				<span class="genericon-github"></span><a href="https://github.com/encse/wildcat">Github</a>
+				<span class="genericon-gitlab"></span><a href="https://gitlab.com/encse/wildcat">Gitlab</a>
 			</p>
         	</div> <!--footer-->
 
@@ -59,4 +59,3 @@
 	</script>
 </body>
 </html>
-
