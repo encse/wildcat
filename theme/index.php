@@ -14,7 +14,7 @@
 <body>
         <div id="header">
 		<?php wildcat_generate_divs(["header-tree", "header-cloud-1", "header-cloud-2", "header-csoka"]) ?>
-                <h1>alma <a href="<?php echo get_option('home'); ?>/">Wildcat <span>Zsonglőr Oldalak<span></a><span class="genericon-menu" id="nav-toggle"></span></h1>
+                <h1><a href="<?php echo get_option('home'); ?>/">Wildcat <span>Zsonglőr Oldalak<span></a><span class="genericon-menu" id="nav-toggle"></span></h1>
         </div>
 
         <div id="wrapper-inner">
