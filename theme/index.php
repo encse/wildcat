@@ -44,7 +44,7 @@
         	        <p>
 				<span class="genericon-copy"></span>2004-<?php echo date('Y'); ?> Wildcat Zsonglőr Oldalak &nbsp;
 				<span class="genericon-git"></span><a href="https://github.com/encse/wildcat">GitHub</a> 
-				<a href="https://github.com/encse/wildcat/commit/<?php include(ABSPATH.'.version'); ?>">version <?php include(ABSPATH.'.version');?></a>
+				<a href="https://github.com/encse/wildcat/commit/<?php include(ABSPATH.'version.txt'); ?>">version <?php include(ABSPATH.'.version');?></a>
 			</p>
         	</div> <!--footer-->
 
