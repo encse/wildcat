@@ -24,7 +24,7 @@ function video_func( $atts, $content = null ) {
 		ob_start();
 		print <<< CODE
 			<div class="video">
-			<video  controls loop poster="{$poster}">
+			<video playsinline controls loop poster="{$poster}">
 			  <source src="{$mp4}" type="video/mp4">
 				Your browser does not support the video tag.
 			</video>
