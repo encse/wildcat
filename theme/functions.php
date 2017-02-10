@@ -13,7 +13,7 @@ function wildcat_recent_comments(){
                	 	'date_query' => array(
                         	array(
                                 	'column' => 'comment_date',
-                                  	'after' => '1 year ago',
+                                  	'after' => '5 year ago',
                           	)
                  	)
          	)
