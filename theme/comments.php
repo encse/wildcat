@@ -35,7 +35,7 @@
 			</div>
 
 		<?php endforeach; ?> 
-	<?php else if ('open' == $post->comment_status) : ?>
+	<?php elseif ('open' == $post->comment_status) : ?>
 		<h2 class="comments-title"><span class="genericon-comment"></span>Szólj hozzá</h2>
 	<?php endif; ?>
 
