@@ -55,11 +55,11 @@
 					</li>
 				<?php else : ?>
 					<li>
-						<label for="author">Neved *</label>
+						<label for="author">Neved</label>
 						<input type="text" name="author" id="author" value="<?php echo $comment_author; ?>" size="22" tabindex="1" />
 					</li>
 					<li>
-						<label for="email">Email/gravatar *</label>
+						<label for="email">Email/gravatar</label>
 						<input type="text" name="email" id="email" value="<?php echo $comment_author_email; ?>" size="22" tabindex="2" />
 					</li>
 
