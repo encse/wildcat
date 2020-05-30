@@ -148,7 +148,7 @@ A három labdás trükkök után rögtön belevághatsz a buzogányos trükkökb
  
 # <a name="441-es-html"></a>441-es
 
-![441](videos/poster/441.jpg)
+![441](videos/poster/chops.jpg)
 
 A 441 egy siteswap kód. Dobj [körbe](#kor-kifele-html) két labdát az egyik kezedben majd egyet vízszintesen a másik kezedbe. Itt újra kettőt körben, aztán vissza vízszintesen. A vízszintes dobás ugyanaz mint a [Kaszkád](#kaszkad-html) és a [Koszorú](#koszoru-html) figuráknál.
 
