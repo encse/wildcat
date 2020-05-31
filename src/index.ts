@@ -2,29 +2,29 @@ import fs from 'fs';
 import path from 'path';
 import MarkdownIt from 'markdown-it'
 
-function files(md: string): { filn: string, content: string }[] {
-    const lines = md.split('\n');
-    const rx = /# <a name=\"(.*)"><\/a>(.*)/;
-    let i = 0;
-    const blocks: { filn: string, content: string }[] = [];
-    while (i < lines.length) {
-        const m = lines[i].match(rx);
+// function files(md: string): { filn: string, content: string }[] {
+//     const lines = md.split('\n');
+//     const rx = /# <a name=\"(.*)"><\/a>(.*)/;
+//     let i = 0;
+//     const blocks: { filn: string, content: string }[] = [];
+//     while (i < lines.length) {
+//         const m = lines[i].match(rx);
 
-        if (m) {
-            const filn = m[1];
-            let content = "# " + m[2] + "\n";
-            i++;
-            while (i < lines.length && !lines[i].match(rx)) {
-                content += lines[i] + "\n";
-                i++;
-            }
-            blocks.push({ filn, content });
-        } else {
-            i++;
-        }
-    }
-    return blocks;
-}
+//         if (m) {
+//             const filn = m[1];
+//             let content = "# " + m[2] + "\n";
+//             i++;
+//             while (i < lines.length && !lines[i].match(rx)) {
+//                 content += lines[i] + "\n";
+//                 i++;
+//             }
+//             blocks.push({ filn, content });
+//         } else {
+//             i++;
+//         }
+//     }
+//     return blocks;
+// }
 
 const md = MarkdownIt({
     html: true
@@ -60,16 +60,15 @@ md.renderer.rules.link_open = function (tokens, idx, options, _, self) {
     return self.renderToken(tokens, idx, options);
 };
 
-const readme = fs.readFileSync("../images/README.md", "utf8");
-
-for (let { filn, content } of files(readme)) {
+function generate(fpat: string) {
+    const content = fs.readFileSync(fpat, "utf-8");
     const html = md.render(content);
-    const loc = 'build/' + filn + '.html';
+    const loc = fpat.replace('.md', '.html').replace('pages', 'build');
     
     if (!fs.existsSync(path.parse(loc).dir)) {
         fs.mkdirSync(path.parse(loc).dir);
     }
-    const en = filn.startsWith('/en/');
+    const en = fpat.indexOf('/en/') > 0;
     let lang = en ? 'en' : 'hu';
     let title = en ? 'Wildcat Jugglers tutorial' : 'Wildcat Zsonglőr oldalak';
     let nav = en ? 
@@ -124,3 +123,16 @@ for (let { filn, content } of files(readme)) {
         </html>
     `);
 }
+
+function process(dir) {
+    const items = fs.readdirSync(dir);
+    items.forEach(item => {
+        const p = dir + "/" + item;
+        if (fs.lstatSync(p).isDirectory()) {
+            process(p);
+        } else {
+            generate(p)
+        }
+    })
+}
+process('pages');
