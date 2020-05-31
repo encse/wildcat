@@ -100,7 +100,7 @@ for (let { filn, content } of files(readme)) {
         </article>
         </main>
         <footer>
-        © 2004-2020 Wildcat Zsonglőr Oldalak <a href="">GitHub</>
+        © 2004-2020 Wildcat Zsonglőr Oldalak | <a href="https://github.com/encse/wildcat/">GitHub</a>
         </footer>
         </body>
         </html>
