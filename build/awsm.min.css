@@ -109,12 +109,10 @@ p + ul, p + ol{
   margin-top:-0.75em;
 }
 p img, p picture{
-  float:right;
   margin-bottom:0.5em;
   margin-left:0.5em;
 }
 p picture img{
-  float:none;
   margin:0;
 }
 

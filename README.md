@@ -1,4 +1,18 @@
 
+# <a name="tortenet.html"></a>Történet
+
+A Wildcat Zsonglőr Oldalak története 2004-re nyúlik vissza. Bizony, az már több mint tíz éve volt… Akkoriban kezdtem zsonglőrködni, amit a főnökömtől és Lukács haveromtól tanultam az irodában. Az első hétvégét gyakorlatilag végigzsonglőrködtem zokniból készült kis labdákkal. Aztán nemsokára megtanultam néggyel is játszani, és akkor vettem magamnak egy garnitúra igazi labdát.
+
+Közben a neten megtaláltam a Wildcat Jugglers Tutorialt, és mivel akkoriban még nem volt ilyesmi magyar nyelven, nekiálltam lefordítani. Nagyjából így nézett ki az egyik első változat:
+
+![tutorialpagev0](images/tutorialpagev0.png)
+
+Eleinte az amerikai címen volt elérhető a magyar változat is, de később mindenféle letöltési korlátok miatt szétválltunk. Rob előfizetett valahol máshol, én meg elindítottam a csókavárat.
+
+Egy kedves, játékos oldalt akartam csinálni, ezért megkértem egy meseillusztrátort, hogy rajzoljon pár képet. Ezekből építkezek a mai napig. Persze közben vagy százszor alakítottam át mindent, hiszen mégiscsak programozó vagyok vagymi. 2015-ben egy letisztultabb, mobilbarát változatra tértem át, kevesebb tartalommal, de az összes régi trükkleírással. Sajnos a zsonglőrködés ma nem olyan népszerű mint az elején volt. Éppen a felfutó ágba szálltam bele én is. Mondjuk még előfordulhat, hogy később megint felpörög.
+
+Sokmindent megtanultam a zsonglőrködésről, és nem utolsó sorban a weboldal készítésről, ezért kétszeresen is szeretem ezt a kis oldalt.
+
 # <a name="index.html"></a>Trükkök
 
 A zsonglőrködés alapjait kis türelemmel bárki elsajátíthatja. Persze hosszú évekig tartó gyakorlás kell ahhoz, hogy valakiből profi zsonglőr legyen, de egy-egy trükk elsajátítása mindig újabb lökést ad a következő akadály leküzdéséhez.
@@ -9,140 +23,140 @@ Ez az oldal egy amerikai zsonglőr klub (Wildcat Jugglers) honlapjának magyar v
 
 Lássuk, hogy lehet belőled zsonglőr…
 
-1.  [Kaszkád - lépésről lépésre](#kaszkad-lepesrol-lepesre.html)
+- [Kaszkád - lépésről lépésre](#kaszkad-lepesrol-lepesre.html)
 
 ## Zsonglőrködés két labdával
 
 Ezek a trükkök magukban is érdekesek, de gyakorlásuk segít az összetettebb 3 labdás zsonglőr trükkökben, és persze a négy labdás zsonglőrködésben is.
 
-1.  [Kör befelé](#kor-befele.html)
-1.  [Kör kifelé](#kor-kifele.html)
-1.  [Oszlopok](#oszlopok.html)
+-  [Kör befelé](#kor-befele.html)
+-  [Kör kifelé](#kor-kifele.html)
+-  [Oszlopok](#oszlopok.html)
 
 ## Zsonglőrködés három labdával
 
 Az alapoktól a középhaladó szintig megtalálsz minden trükköt amire szükséged lehet.
 ### Kaszkád
 
-1.  [Kaszkád](#kaszkad.html)
-1.  [Fordított kaszkád](#forditott-kaszkad.html)
-1.  [Fordított kaszkád, keresztezett kézzel](#forditott-kaszkad-keresztezett-kezzel.html)
-1.  [Kéz alatt](#kez-alatt.html)
-1.  [Kaszkád a fej fölött](#kaszkad-a-fej-folott.html)
+-  [Kaszkád](#kaszkad.html)
+-  [Fordított kaszkád](#forditott-kaszkad.html)
+-  [Fordított kaszkád, keresztezett kézzel](#forditott-kaszkad-keresztezett-kezzel.html)
+-  [Kéz alatt](#kez-alatt.html)
+-  [Kaszkád a fej fölött](#kaszkad-a-fej-folott.html)
 
 ### Felül
 
-1.  [Átadás felül](#atadas-felul.html)
-1.  ["Majdnem" koszorú](#majdnem-koszoru.html)
-1.  [Tenisz](#tenisz.html)
+-  [Átadás felül](#atadas-felul.html)
+-  ["Majdnem" koszorú](#majdnem-koszoru.html)
+-  [Tenisz](#tenisz.html)
 
 ### Jojó variációk
 
-1.  [Jojó](#jojo.html)
-1.  [Ójoj](#ojoj.html)
-1.  [Dupla jojó](#dupla-jojo.html)
-1.  [Keringő jojó](#keringo-jojo.html)
-1.  [Kétoldali jojó](#ketoldali-jojo.html)
-1.  [Imitált "egyet fel, kettőt fel"](#imitalt-egyet-fel-kettot-fel.html)
+-  [Jojó](#jojo.html)
+-  [Ójoj](#ojoj.html)
+-  [Dupla jojó](#dupla-jojo.html)
+-  [Keringő jojó](#keringo-jojo.html)
+-  [Kétoldali jojó](#ketoldali-jojo.html)
+-  [Imitált "egyet fel, kettőt fel"](#imitalt-egyet-fel-kettot-fel.html)
 
 ### Mills Mess variációk
 
-1.  [Mills mess](#mills-mess.html)
-1.  [Hamis koszorú](#hamis-koszoru.html)
-1.  [Fél mess](#fel-mess.html)
-1.  [Boston mess](#boston-mess.html)
+-  [Mills mess](#mills-mess.html)
+-  [Hamis koszorú](#hamis-koszoru.html)
+-  [Fél mess](#fel-mess.html)
+-  [Boston mess](#boston-mess.html)
 
 ### Hát mögötti dobások
 
-1.  [Elkapás a hát mögött](#elkapas-a-hat-mogott.html)
-1.  [Átadás a hát mögött](#atadas-a-hat-mogott.html)
-1.  [Indítás a hát mögül](#inditas-a-hat-mogul.html)
+-  [Elkapás a hát mögött](#elkapas-a-hat-mogott.html)
+-  [Átadás a hát mögött](#atadas-a-hat-mogott.html)
+-  [Indítás a hát mögül](#inditas-a-hat-mogul.html)
 
 ### Trükkös elkapások
 
-1.  [Marok](#marok.html)
-1.  [Villa](#villa.html)
-1.  [Labda elkapása nyakkal…](#labda-elkapasa-nyakkal.html)
-1.  [Pingvin](#pingvin.html)
+-  [Marok](#marok.html)
+-  [Villa](#villa.html)
+-  [Labda elkapása nyakkal…](#labda-elkapasa-nyakkal.html)
+-  [Pingvin](#pingvin.html)
 
 ### Egyet fel, kettőt fel trükkök
 
-1.  [Egyet fel, kettőt fel - mérleg](#egyet-fel-kettot-fel-merleg.html)
-1.  [Egyet fel, kettőt fel - tenisz](#egyet-fel-kettot-fel-tenisz.html)
-1.  [Egyet fel, kettőt fel - hopp](#egyet-fel-kettot-fel-hopp.html)
-1.  [Egyet fel, kettőt fel - végtelen](#egyet-fel-kettot-fel-vegtelen.html)
-1.  [Egyet fel, kettőt fel - koszorú](#egyet-fel-kettot-fel-koszoru.html)
-1.  [Szivárvány](#szivarvany.html)
-1.  [Gyár](#gyar.html)
+-  [Egyet fel, kettőt fel - mérleg](#egyet-fel-kettot-fel-merleg.html)
+-  [Egyet fel, kettőt fel - tenisz](#egyet-fel-kettot-fel-tenisz.html)
+-  [Egyet fel, kettőt fel - hopp](#egyet-fel-kettot-fel-hopp.html)
+-  [Egyet fel, kettőt fel - végtelen](#egyet-fel-kettot-fel-vegtelen.html)
+-  [Egyet fel, kettőt fel - koszorú](#egyet-fel-kettot-fel-koszoru.html)
+-  [Szivárvány](#szivarvany.html)
+-  [Gyár](#gyar.html)
 
 ### 423 trükkök
 
-1.  [Alap 423](#alap-423.html)
-1.  [W](#w.html)
-1.  [Jobb, közép, bal](#jobb-kozep-bal.html)
-1.  [Igazi tenisz](#igazi-tenisz.html)
-1.  [Kiragadás](#kiragadas.html)
-1.  [Burke's Barrage](#burkes-barrage.html)
-1.  [Ál mess](#al-mess.html)
+-  [Alap 423](#alap-423.html)
+-  [W](#w.html)
+-  [Jobb, közép, bal](#jobb-kozep-bal.html)
+-  [Igazi tenisz](#igazi-tenisz.html)
+-  [Kiragadás](#kiragadas.html)
+-  [Burke's Barrage](#burkes-barrage.html)
+-  [Ál mess](#al-mess.html)
 
 ### Koszorú variációk
 
-1.  [Koszorú](#koszoru.html)
-1.  [Fordított koszorú](#forditott-koszoru.html)
+-  [Koszorú](#koszoru.html)
+-  [Fordított koszorú](#forditott-koszoru.html)
 
 ### Szögletes zsonglőrködés
 
-1.  [Doboz](#doboz.html)
-1.  [Drop box](#drop-box.html)
-1.  [441-es](#441-es.html)
+-  [Doboz](#doboz.html)
+-  [Drop box](#drop-box.html)
+-  [441-es](#441-es.html)
 
 ### Vegyes
 
-1.  [Guruló labda](#gurulo-labda.html)
-1.  [Inga](#inga.html)
-1.  [A fejed körül…](#a-fejed-korul.html)
-1.  [Hasogatás](#hasogatas.html)
-1.  [Villanás](#villanas.html)
-1.  [Láb alatt](#lab-alatt.html)
-1.  [Swoop](#swoop.html)
-1.  [Kártyakeverés](#kartyakeveres.html)
-1.  [Hamis koszorú - jojó](#hamis-koszoru-jojo.html)
-1.  [Kerge hold](#kerge-hold.html)
+-  [Guruló labda](#gurulo-labda.html)
+-  [Inga](#inga.html)
+-  [A fejed körül…](#a-fejed-korul.html)
+-  [Hasogatás](#hasogatas.html)
+-  [Villanás](#villanas.html)
+-  [Láb alatt](#lab-alatt.html)
+-  [Swoop](#swoop.html)
+-  [Kártyakeverés](#kartyakeveres.html)
+-  [Hamis koszorú - jojó](#hamis-koszoru-jojo.html)
+-  [Kerge hold](#kerge-hold.html)
 
 ## Zsonglőrködés négy labdával
 
 Ha már jól mennek a két és háromlabdás trükkök, megpróbálkozhatsz négy labdával is zsonglőrködni. Erre a szintre nagyjából két hónap intenzív gyakorlással juthatsz el.
-1.  [Szökőkút négy labdával (aszinkron)](#szokokut-negy-labdaval-aszinkron.html)
-1.  [Szökőkút négy labdával (szinkron)](#szokokut-negy-labdaval-szinkron.html)
-1.  [Oszlopok négy labdával](#oszlopok-negy-labdaval.html)
-1.  [Dugattyúk](#dugattyuk.html)
-1.  [Wimpy](#wimpy.html)
+-  [Szökőkút négy labdával (aszinkron)](#szokokut-negy-labdaval-aszinkron.html)
+-  [Szökőkút négy labdával (szinkron)](#szokokut-negy-labdaval-szinkron.html)
+-  [Oszlopok négy labdával](#oszlopok-negy-labdaval.html)
+-  [Dugattyúk](#dugattyuk.html)
+-  [Wimpy](#wimpy.html)
 
 ## Zsonglőrködés öt labdával
 
 Fél év zsonglőrködés után érdemes belefogni az öt labdás trükkökbe. Ezek már lényegesen nehezebbek, és csak kitartó gyakorlással sajátíthatók el.
-1.  [Kaszkád öt labdával](#kaszkad-ot-labdaval.html)
-1.  [Szétváló labdák](#szetvalo-labdak.html)
+-  [Kaszkád öt labdával](#kaszkad-ot-labdaval.html)
+-  [Szétváló labdák](#szetvalo-labdak.html)
 
 ## Zsonglőrködés buzogánnyal
 
 A három labdás trükkök után rögtön belevághatsz a buzogányos trükkökbe. Nem árt egy kis változatosság.
-1.  [Kaszkád](#kaszkad-2.html)
-1.  [Duplázás](#duplazas.html)
-1.  ["Majdnem" koszorú](#majdnem-koszoru-2.html)
-1.  [Átadás felül](#atadas-felul-2.html)
-1.  [Megfordítva](#megforditva.html)
-1.  [Láb alatt](#lab-alatt-2.html)
-1.  [Mindkét láb alatt](#mindket-lab-alatt.html)
+-  [Kaszkád](#kaszkad-2.html)
+-  [Duplázás](#duplazas.html)
+-  ["Majdnem" koszorú](#majdnem-koszoru-2.html)
+-  [Átadás felül](#atadas-felul-2.html)
+-  [Megfordítva](#megforditva.html)
+-  [Láb alatt](#lab-alatt-2.html)
+-  [Mindkét láb alatt](#mindket-lab-alatt.html)
 
 ## Karika zsonglőrködés
 
 Érdemes a karikákat is kipróbálni.
-1.  [Kaszkád karikával](#kaszkad-karikaval.html)
+-  [Kaszkád karikával](#kaszkad-karikaval.html)
 
 ## Miegymás
 
-1.  [Bumeráng befőttesgumiból](#bumerang-befottesgumibol.html)
+-  [Bumeráng befőttesgumiból](#bumerang-befottesgumibol.html)
 
  ![img](/images/dobol-macska.png)
 
@@ -504,13 +518,13 @@ Mindenek előtt tanuld meg a [Villanást](#villanas.html), és esetleg próbálj
 
 Tanácsok az első lépésekhez:
 
-1. Használj babzsákot, úgy kevesebb időt kell a leesett labdák keresgélésével töltened!
-1. Gyakorold szorgalmasan a villanást!
-1. Zsonglőrködés közben felfelé nézz – én már ez első dobás előtt felnézek. Vannak, akik a röppálya tetejét nézik, és olyanok is, akik a metszéspontot a csúcs alatt.
-1. Valójában lassabb és kiegyensúlyozottabb a dolog mint amilyennek tűnik. Amikor először csináltam, nagyon kapkodtam és túl feszült is voltam. Csak nyugalom!
-1. Ne nagyon mozgasd a könyöködet… az a jó, ha a tested mellett van, és nem verdes össze-vissza.
-1. Mint minden zsonglőr trükknél, itt is a dobások a fontosak: ha jók a dobások, könnyű lesz elkapni is…
-1. Ha esetleg gondot okozna, hogy tarts egyszerre három labdát a kezedben, mellékelek egy képet is. Máshogyis lehet, de nekem így kényelmes. A számok azt mutatják, milyen sorrendben dobom fel a labdákat.
+- Használj babzsákot, úgy kevesebb időt kell a leesett labdák keresgélésével töltened!
+- Gyakorold szorgalmasan a villanást!
+- Zsonglőrködés közben felfelé nézz – én már ez első dobás előtt felnézek. Vannak, akik a röppálya tetejét nézik, és olyanok is, akik a metszéspontot a csúcs alatt.
+- Valójában lassabb és kiegyensúlyozottabb a dolog mint amilyennek tűnik. Amikor először csináltam, nagyon kapkodtam és túl feszült is voltam. Csak nyugalom!
+- Ne nagyon mozgasd a könyöködet… az a jó, ha a tested mellett van, és nem verdes össze-vissza.
+- Mint minden zsonglőr trükknél, itt is a dobások a fontosak: ha jók a dobások, könnyű lesz elkapni is…
+- Ha esetleg gondot okozna, hogy tarts egyszerre három labdát a kezedben, mellékelek egy képet is. Máshogyis lehet, de nekem így kényelmes. A számok azt mutatják, milyen sorrendben dobom fel a labdákat.
 
  ![img](/images/holding5.jpg)
 
@@ -710,10 +724,10 @@ Induljunk ki [két egymás mellett](#oszlopok.html) dobált labdából! A harmad
 A háromlabdás [Kaszkád](#kaszkad.html) biztos ismeretében nyugodt lélekkel állhatsz neki a trükk elsajátításának. Tulajdonképpen ez az egyik "legegyszerűbb" ötlabdás trükk, szinte pontról-pontra megyegyezik a kaszkáddal, legalábbis ha már sikerült jól begyakorolni…
 
 Nézzük apránként:
-1. Fogj három labdát a jobb kezedbe (illetőleg az ügyesebbikbe), kettőt pedig a másikba.
-1. A jobb kezedből egy labdát dobj át a balba.
-1. A fogadó oldalon dobd fel a két labdát úgy, hogy szétválva, egyik a bal, másik a jobb kezedbe essen.
-1. Most a jobb kezedből dobj fel két labdát ugyanígy, és ezzel körbe is értünk…
+- Fogj három labdát a jobb kezedbe (illetőleg az ügyesebbikbe), kettőt pedig a másikba.
+- A jobb kezedből egy labdát dobj át a balba.
+- A fogadó oldalon dobd fel a két labdát úgy, hogy szétválva, egyik a bal, másik a jobb kezedbe essen.
+- Most a jobb kezedből dobj fel két labdát ugyanígy, és ezzel körbe is értünk…
 
 
 # <a name="szivarvany.html"></a>Szivárvány
@@ -794,143 +808,143 @@ The tutorial is also available in [Hungarian](/).
 
 Let's see how to become a juggler…
 
-1.  [Learning the Cascade](#/en/learningthecascade.html)
+-  [Learning the Cascade](#/en/learningthecascade.html)
 
 ## Two in One Hand
 
 These are nice tricks on their own. They also give the basis for the more complicated patterns with 3 or more balls.
 
-1.  [Inside](#/en/twoinonehand-inside.html)
-1.  [Outside](#/en/twoinonehand-outside.html)
-1.  [Columns](#/en/twoinonehand-columns.html)
+-  [Inside](#/en/twoinonehand-inside.html)
+-  [Outside](#/en/twoinonehand-outside.html)
+-  [Columns](#/en/twoinonehand-columns.html)
 
 ## Three Balls
 
 Everything you need from the basics to intermediate level.
 ### Cascase Patterns
 
-1.  [Cascade](#/en/cascade.html)
-1.  [Reverse Cascade](#/en/reversecascade.html)
-1.  [Crossed Arm Reverse Cascade](#/en/crossedarmreversecascade.html)
-1.  [Under the Arm](#/en/underthearm.html)
-1.  [Overhead Cascade](#/en/overheadcascade.html)
+-  [Cascade](#/en/cascade.html)
+-  [Reverse Cascade](#/en/reversecascade.html)
+-  [Crossed Arm Reverse Cascade](#/en/crossedarmreversecascade.html)
+-  [Under the Arm](#/en/underthearm.html)
+-  [Overhead Cascade](#/en/overheadcascade.html)
 
 ### Over the Top Patterns
 
-1.  [Over the Top](#/en/overthetop.html)
-1.  [Half Shower](#/en/halfshower.html)
-1.  [Tennis](#/en/tennis.html)
+-  [Over the Top](#/en/overthetop.html)
+-  [Half Shower](#/en/halfshower.html)
+-  [Tennis](#/en/tennis.html)
 
 ### Yo-Yo Patterns
 
-1.  [Yo-Yo](#/en/yo-yo.html)
-1.  [Oy-Oy](#/en/oy-oy.html)
-1.  [Double Yo-Yo](#/en/doubleyo-yo.html)
-1.  [Yo-Yo Orbit](#/en/yo-yoorbit.html)
-1.  [Yo-Yo On Both Sides](#/en/yo-yoonbothsides.html)
-1.  [Fake One-up Two-up](#/en/fakeone-uptwo-up.html)
+-  [Yo-Yo](#/en/yo-yo.html)
+-  [Oy-Oy](#/en/oy-oy.html)
+-  [Double Yo-Yo](#/en/doubleyo-yo.html)
+-  [Yo-Yo Orbit](#/en/yo-yoorbit.html)
+-  [Yo-Yo On Both Sides](#/en/yo-yoonbothsides.html)
+-  [Fake One-up Two-up](#/en/fakeone-uptwo-up.html)
 
 ### Mills Mess Patterns
 
-1.  [Mills mess](#/en/millsmess.html)
-1.  [False Shower](#/en/falseshower.html)
-1.  [Half Mess](#/en/halfmess.html)
-1.  [Boston mess](#/en/bostonmess.html)
+-  [Mills mess](#/en/millsmess.html)
+-  [False Shower](#/en/falseshower.html)
+-  [Half Mess](#/en/halfmess.html)
+-  [Boston mess](#/en/bostonmess.html)
 
 ### Behind the Back Patterns
 
-1.  [Behind the Back Catch](#/en/behindthebackcatch.html)
-1.  [Behind the Back](#/en/behindtheback.html)
-1.  [Behind the Back Start](#/en/behindthebackstart.html)
+-  [Behind the Back Catch](#/en/behindthebackcatch.html)
+-  [Behind the Back](#/en/behindtheback.html)
+-  [Behind the Back Start](#/en/behindthebackstart.html)
 
 ### Special Catches
 
-1.  [Clawing](#/en/clawing.html)
-1.  [Fork Catch](#/en/forkcatch.html)
-1.  [Neck Catch](#/en/neckcatch.html)
-1.  [Penguin Catches](#/en/penguincatches.html)
+-  [Clawing](#/en/clawing.html)
+-  [Fork Catch](#/en/forkcatch.html)
+-  [Neck Catch](#/en/neckcatch.html)
+-  [Penguin Catches](#/en/penguincatches.html)
 
 ### One-up Two-up Patterns
 
-1.  [One-up Two-up](#/en/one-uptwo-up.html)
-1.  [One-up Two-up Tennis](#/en/one-uptwo-uptennis.html)
-1.  [One-up Two-up Hops](#/en/one-uptwo-uphops.html)
-1.  [One-up Two-up Infinity](#/en/one-uptwo-upinfinity.html)
-1.  [One-up Two-up Shower](#/en/one-uptwo-upshower.html)
-1.  [Rainbow Cross](#/en/rainbowcross.html)
-1.  [Factory](#/en/factory.html)
+-  [One-up Two-up](#/en/one-uptwo-up.html)
+-  [One-up Two-up Tennis](#/en/one-uptwo-uptennis.html)
+-  [One-up Two-up Hops](#/en/one-uptwo-uphops.html)
+-  [One-up Two-up Infinity](#/en/one-uptwo-upinfinity.html)
+-  [One-up Two-up Shower](#/en/one-uptwo-upshower.html)
+-  [Rainbow Cross](#/en/rainbowcross.html)
+-  [Factory](#/en/factory.html)
 
 ### 423 Patterns
 
-1.  [423](#/en/423.html)
-1.  [W](#/en/w.html)
-1.  [Right Middle Left](#/en/rightmiddleleft.html)
-1.  [Real Tennis](#/en/realtennis.html)
-1.  [Take Outs](#/en/takeouts.html)
-1.  [Burke's Barrage](#/en/burkesbarrage.html)
-1.  [Fake Mess](#/en/fakemess.html)
+-  [423](#/en/423.html)
+-  [W](#/en/w.html)
+-  [Right Middle Left](#/en/rightmiddleleft.html)
+-  [Real Tennis](#/en/realtennis.html)
+-  [Take Outs](#/en/takeouts.html)
+-  [Burke's Barrage](#/en/burkesbarrage.html)
+-  [Fake Mess](#/en/fakemess.html)
 
 ### Shower Patterns
 
-1.  [Shower](#/en/shower.html)
-1.  [Inverted Shower](#/en/invertedshower.html)
+-  [Shower](#/en/shower.html)
+-  [Inverted Shower](#/en/invertedshower.html)
 
 ### Box
 
-1.  [Box](#/en/box.html)
-1.  [Drop box](#/en/dropbox.html)
-1.  [441](#/en/441.html)
+-  [Box](#/en/box.html)
+-  [Drop box](#/en/dropbox.html)
+-  [441](#/en/441.html)
 
 ### Miscellaneous
 
-1.  [Roll a Ball Off Your Head](#/en/rollaballoffyourhead.html)
-1.  [Pendulum](#/en/pendulum.html)
-1.  [Around Head](#/en/aroundhead.html)
-1.  [Chops](#/en/chops.html)
-1.  [Flash](#/en/flash.html)
-1.  [Under the Leg](#/en/undertheleg.html)
-1.  [Swoop](#/en/swoop.html)
-1.  [Slam](#/en/slam.html)
-1.  [False Shower Yo-Yo](#/en/falseshoweryo-yo.html)
-1.  [Orbit](#/en/orbit.html)
+-  [Roll a Ball Off Your Head](#/en/rollaballoffyourhead.html)
+-  [Pendulum](#/en/pendulum.html)
+-  [Around Head](#/en/aroundhead.html)
+-  [Chops](#/en/chops.html)
+-  [Flash](#/en/flash.html)
+-  [Under the Leg](#/en/undertheleg.html)
+-  [Swoop](#/en/swoop.html)
+-  [Slam](#/en/slam.html)
+-  [False Shower Yo-Yo](#/en/falseshoweryo-yo.html)
+-  [Orbit](#/en/orbit.html)
 
 ## Four Balls
 
 Once you learned to juggle two and three balls, you can try four balls. You can get to this level after 2-3 months of daily practicing.
 
-1.  [Asynchronous Fountain](#/en/fourballasynchronousfountain.html)
-1.  [Synchronous Fountain](#/en/fourballsynchronousfountain.html)
-1.  [Columns](#/en/fourballcolumns.html)
-1.  [Pistons](#/en/fourballpistons.html)
-1.  [Synchronous Half Shower](#/en/fourballsynchronoushalfshower.html)
+-  [Asynchronous Fountain](#/en/fourballasynchronousfountain.html)
+-  [Synchronous Fountain](#/en/fourballsynchronousfountain.html)
+-  [Columns](#/en/fourballcolumns.html)
+-  [Pistons](#/en/fourballpistons.html)
+-  [Synchronous Half Shower](#/en/fourballsynchronoushalfshower.html)
 
 ## Five Balls
 
 You can start working on these after half of year - a year of intensive practice. These patterns are much harder to learn and master.
 
-1.  [Cascade](#/en/fiveballcascade.html)
-1.  [Splits](#/en/fiveballsplits.html)
+-  [Cascade](#/en/fiveballcascade.html)
+-  [Splits](#/en/fiveballsplits.html)
 
 ## Three Clubs
 
 You can start practicing clubs right after learning the three balls cascade.
 
-1.  [Cascade](#/en/clubcascade.html)
-1.  [Doubles](#/en/clubdoubles.html)
-1.  [Half Shower](#/en/clubhalfshower.html)
-1.  [Over the Top](#/en/cluboverthetop.html)
-1.  [Reverse Spin](#/en/clubreversespin.html)
-1.  [Under the Leg](#/en/clubundertheleg.html)
-1.  [Under Both Legs](#/en/clubunderbothlegs.html)
+-  [Cascade](#/en/clubcascade.html)
+-  [Doubles](#/en/clubdoubles.html)
+-  [Half Shower](#/en/clubhalfshower.html)
+-  [Over the Top](#/en/cluboverthetop.html)
+-  [Reverse Spin](#/en/clubreversespin.html)
+-  [Under the Leg](#/en/clubundertheleg.html)
+-  [Under Both Legs](#/en/clubunderbothlegs.html)
 
 ## Three Rings
 
 It's worth trying the rings as well.
-1.  [Cascade](#/en/ringcascade.html)
+-  [Cascade](#/en/ringcascade.html)
 
 ## Non-Juggling Stuff
 
-1.  [Boomerang Rubber Band (twanging)](#/en/boomerang-rubber-band.html)
+-  [Boomerang Rubber Band (twanging)](#/en/boomerang-rubber-band.html)
 
  ![img](/images/dobol-macska.png)
 
@@ -1118,15 +1132,15 @@ Before trying this, you should know how to do a three ball [Flash](flash.html). 
  [Four Balls](fourballasynchronousfountain.html) before learning five. The patterns for four and five are completely different, but just getting used to having more balls in the air might be a good idea. As the name implies, the Five Ball Cascade is the exact same pattern as the three ball [Cascade](cascade.html), only with two extra balls. The first three throws of a five ball cascade are the same as a three ball [Flash](flash.html). Once you throw those three balls up, it's just a matter of replacing them with the two balls in your hands as they come down. I know that's easier said than done.
 
 Here are a few tips:
-1. Use beanbags. You'll spend less time chasing balls rolling or bouncing.
-1. Keep practicing the three ball [Flash](flash.html).
-1. Some people watch the top of the two peaks the balls make, some watch the intersection of the paths just before the peaks. In any case, you should be looking up. I look up before I make my first throw.
-1. It is slower and more relaxed than it looks when someone else is doing it. I think I was rushing it when I first started. I was also too tense. Relax.
-1. Try not to move your elbows too much. They should be near your sides, not flailing all over the place.
-1. As with any juggling pattern, the throws are more important than the catches. If you make good throws, the catches should be easy.
-1. Here's how I hold three balls in one hand. There are other ways to do it, but this works for me. I throw them in the order that they're numbered.
+- Use beanbags. You'll spend less time chasing balls rolling or bouncing.
+- Keep practicing the three ball [Flash](flash.html).
+- Some people watch the top of the two peaks the balls make, some watch the intersection of the paths just before the peaks. In any case, you should be looking up. I look up before I make my first throw.
+- It is slower and more relaxed than it looks when someone else is doing it. I think I was rushing it when I first started. I was also too tense. Relax.
+- Try not to move your elbows too much. They should be near your sides, not flailing all over the place.
+- As with any juggling pattern, the throws are more important than the catches. If you make good throws, the catches should be easy.
+- Here's how I hold three balls in one hand. There are other ways to do it, but this works for me. I throw them in the order that they're numbered.
 
-![Holding5](Images/Holding5.jpg)
+![Holding5](/images/holding5.jpg)
 
 # <a name="/en/fiveballsplits.html"></a>Five Ball Splits
 

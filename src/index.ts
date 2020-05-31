@@ -74,18 +74,29 @@ for (let { filn, content } of files(readme)) {
         fs.mkdirSync(path.parse(loc).dir);
     }
     const en = filn.startsWith('/en/');
+    let lang = en ? 'en' : 'hu';
     let title = en ? 'Wildcat Jugglers tutorial' : 'Wildcat Zsonglőr oldalak';
-    let tricks = en ? '<a href="/en">Tricks</a>' : '<a href="/">Trükkök</a>';
+    let tricks = en ? '<a href="/en">Home</a>' : '<a href="/">Trükkök</a> | <a href="/tortenet.html">Történet</a>';
 
     fs.writeFileSync(loc, `
         <!DOCTYPE HTML>
-        <html>
+        <html lang="${lang}">
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title>Wildcat</title>
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/open-fonts@1.1.1/fonts/inter.min.css">
+            <link href="//fonts.googleapis.com/css?family=Merriweather&subset=latin" rel="stylesheet" type="text/css">
+            <link href="//fonts.googleapis.com/css?family=Francois One&subset=latin" rel="stylesheet" type="text/css">
+
             <link rel="stylesheet" href="/awsm.min.css">
+            <style>
+                * {
+                    font-family: 'Merriweather', sans-serif;
+                }
+                h1, h2, h3, h4, h5, h6 {
+                    font-family: 'Francois One', sans-serif;
+                }
+            </style>
         </head>
         <body>
         <header>
