@@ -73,6 +73,9 @@ for (let { filn, content } of files(readme)) {
     if (!fs.existsSync(path.parse(loc).dir)) {
         fs.mkdirSync(path.parse(loc).dir);
     }
+    const en = filn.startsWith('/en/');
+    let title = en ? 'Wildcat Jugglers tutorial' : 'Wildcat Zsonglőr oldalak';
+    let tricks = en ? '<a href="/en">Tricks</a>' : '<a href="/">Trükkök</a>';
 
     fs.writeFileSync(loc, `
         <!DOCTYPE HTML>
@@ -86,9 +89,9 @@ for (let { filn, content } of files(readme)) {
         </head>
         <body>
         <header>
-        <h1>Wildcat Zsonglőr oldalak</h1>
+        <h1>${title}</h1>
         <nav>
-            <a href="/">Trükkök</a>
+            ${tricks}
         </nav>
         </header>
         <main>

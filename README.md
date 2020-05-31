@@ -62,7 +62,7 @@ Az alapoktól a középhaladó szintig megtalálsz minden trükköt amire szüks
 
 1.  [Marok](#marok.html) 
 1.  [Villa](#villa.html) 
-1.  [Labda elkapása nyakkal...](#labda-elkapasa-nyakkal.html) 
+1.  [Labda elkapása nyakkal…](#labda-elkapasa-nyakkal.html) 
 1.  [Pingvin](#pingvin.html) 
 
 ### Egyet fel, kettőt fel trükkök
@@ -100,7 +100,7 @@ Az alapoktól a középhaladó szintig megtalálsz minden trükköt amire szüks
 
 1.  [Guruló labda](#gurulo-labda.html) 
 1.  [Inga](#inga.html) 
-1.  [A fejed körül...](#a-fejed-korul.html) 
+1.  [A fejed körül…](#a-fejed-korul.html) 
 1.  [Hasogatás](#hasogatas.html) 
 1.  [Villanás](#villanas.html) 
 1.  [Láb alatt](#lab-alatt.html) 
@@ -777,29 +777,36 @@ A labdák egymás útját keresztezik, majd a másik kézben landolnak. Ha páro
 
 
 
-# <a name="en/index.html"></a>Tricks
+# <a name="/en/index.html"></a>Tricks
 
-A zsonglőrködés alapjait kis türelemmel bárki elsajátíthatja. Persze hosszú évekig tartó gyakorlás kell ahhoz, hogy valakiből profi zsonglőr legyen, de egy-egy trükk elsajátítása mindig újabb lökést ad a következő akadály leküzdéséhez.
+Wildcat Jugglers were a group of students who met once a week to juggle. The club met at Thunder Bay Junior High in Alpena, Michigan. 
 
-Ez az oldal egy amerikai zsonglőr klub (Wildcat Jugglers) honlapjának magyar változata. Rob Abrammal, a klub vezetőjével együttműködve hoztuk létre azért, hogy azok számára is elérhetővé tegyük, akik szeretnének megtanulni zsonglőrködni, de nem tudnak eléggé angolul ahhoz, hogy eredetiben olvassák. Az évek során persze sok minden változott, a klub szünetel, sőt az eredeti oldal is elköltözött már, jelenleg [itt található](http://www.tujuggle.com/WildcatJugglers/).
+This tutorial is designed to teach beginning to intermediate juggling patterns.
 
-## Első lépések
+For better written descriptions of these tricks, I highly recommend Jon Relf's [TWJC Tutorials](http://www.twjc.co.uk/tutorials.html). There you will find well thought out written descriptions of many more tricks than I have listed here. I also recommend buying 
+[Charlie Dancey's Encyclopedia of Ball Juggling](https://www.goodreads.com/book/show/969254.Charlie_Dancey_s_Encyclopaedia_of_Ball_Juggling). It's fun to read and has great illustrations.
 
-Lássuk, hogy lehet belőled zsonglőr…
+This list is organized by similar types of tricks. 
+
+The tutorial is also available in [Hungarian](/).
+
+## First steps
+
+Let's see how to become a juggler…
 
 1.  [Learning the Cascade](#/en/LearningTheCascade.html) 
 
 ## Two in One Hand
 
-Ezek a trükkök magukban is érdekesek, de gyakorlásuk segít az összetettebb 3 labdás zsonglőr trükkökben, és persze a négy labdás zsonglőrködésben is.
+These are nice tricks on their own. They also give the basis for the more complicated patterns with 3 or more balls.
 
 1.  [Inside](#/en/TwoInOneHand-Inside.html) 
 1.  [Outside](#/en/TwoInOneHand-Outside.html) 
 1.  [Columns](#/en/TwoInOneHand-Columns.html) 
 
-## Zsonglőrködés három labdával
+## Three Balls
 
-Az alapoktól a középhaladó szintig megtalálsz minden trükköt amire szükséged lehet.
+Everything you need from the basics to intermediate level.
 ### Cascase Patterns
 
 1.  [Cascade](#/en/Cascade.html) 
@@ -889,7 +896,8 @@ Az alapoktól a középhaladó szintig megtalálsz minden trükköt amire szüks
 
 ## Four Balls
 
-Ha már jól mennek a két és háromlabdás trükkök, megpróbálkozhatsz négy labdával is zsonglőrködni. Erre a szintre nagyjából két hónap intenzív gyakorlással juthatsz el.
+Once you learned to juggle two and three balls, you can try four balls. You can get to this level after 2-3 months of daily practicing.
+
 1.  [Asynchronous Fountain](#/en/FourBallAsynchronousFountain.html) 
 1.  [Synchronous Fountain](#/en/FourBallSynchronousFountain.html) 
 1.  [Columns](#/en/FourBallColumns.html) 
@@ -898,13 +906,15 @@ Ha már jól mennek a két és háromlabdás trükkök, megpróbálkozhatsz nég
 
 ## Five Balls
 
-Fél év zsonglőrködés után érdemes belefogni az öt labdás trükkökbe. Ezek már lényegesen nehezebbek, és csak kitartó gyakorlással sajátíthatók el.
+You can start working on these after half of year - a year of intensive practice. These patterns are much harder to learn and master.
+
 1.  [Cascade](#/en/FiveBallCascade.html) 
 1.  [Splits](#/en/FiveBallSplits.html) 
 
 ## Three Clubs
 
-A három labdás trükkök után rögtön belevághatsz a buzogányos trükkökbe. Nem árt egy kis változatosság.
+You can start practicing clubs right after learning the three balls cascade.
+
 1.  [Cascade](#/en/ClubCascade.html) 
 1.  [Doubles](#/en/ClubDoubles.html) 
 1.  [Half Shower](#/en/ClubHalfShower.html) 
@@ -915,7 +925,7 @@ A három labdás trükkök után rögtön belevághatsz a buzogányos trükkökb
 
 ## Three Rings
 
-Érdemes a karikákat is kipróbálni.
+It's worth trying the rings as well.
 1.  [Cascade](#/en/RingCascade.html) 
 
 ## Non-Juggling Stuff
@@ -924,79 +934,79 @@ A három labdás trükkök után rögtön belevághatsz a buzogányos trükkökb
 
  ![img](/images/dobol-macska.png) 
 
-# <a name="en/441.html"></a>441
+# <a name="/en/441.html"></a>441
 
 ![441](/videos/mp4/441.mp4)
 
 441 is a siteswap name. Check for tutorials on the internet, if you don't know what [Siteswaps](http://en.wikipedia.org/wiki/Siteswap) are. To do this, you just do [Two in One Hand - Outside](TwoInOneHand-Outside.html) for two throws, then fire one across the bottom to the other hand. Do two in one hand there and throw that one across the bottom again. The bottom throw is the same throw that's used in the [Box](Box.html) or the [Shower](Shower.html).
 
-# <a name="en/AroundHead.html"></a>Around Head
+# <a name="/en/AroundHead.html"></a>Around Head
 
 ![AroundHead](/videos/mp4/aroundHead.mp4)
 
 This pattern is a lot like the [Pendulum](Pendulum.html). Do [Two in One Hand - Outside](TwoInOneHand-Outside.html). Every time the ball finishes circling your head, drop it into the pattern and grab the ball from the two in one hand as it peaks.
 
-# <a name="en/423.html"></a>423
+# <a name="/en/423.html"></a>423
 
 ![423](/videos/mp4/423.mp4)
 
 I named this by its siteswap name. Check for tutorials on the internet, if you don't know what [Siteswaps](http://en.wikipedia.org/wiki/Siteswap) are. The throwing pattern of this is the same as several tricks with different names. By throwing the balls in the same order, but changing the path they follow, you can make some tricks that look completely different from this one. Check out [Right, Middle, Left](RightMiddleLeft.html), [W](W.html), [Take Outs](TakeOuts.html), and [Fake Mess](FakeMess.html) for some other tricks with the siteswap 423.
 
 
-# <a name="en/BehindTheBack.html"></a>Behind the Back
+# <a name="/en/BehindTheBack.html"></a>Behind the Back
 
 ![BehindTheBack](/videos/mp4/behindTheBack.mp4)
 Before trying to do this while juggling, practice throwing one ball behind your back and catching it with the other hand. When you try to do this while juggling, start the throw as soon as you catch the ball. If you wait until it's time to throw, there won't be time to do it.
 
-# <a name="en/BehindTheBackCatch.html"></a>Behind the Back Catch
+# <a name="/en/BehindTheBackCatch.html"></a>Behind the Back Catch
 
 ![BehindTheBackCatch](/videos/mp4/behindTheBackCatch.mp4)
 
 Practice catching a ball behind your back without juggling. It's not as hard as it might look. Just as you don't look at your hands when you juggle any other pattern, you don't need to see your hand to catch behind your back. Watch the ball as long as you can before it goes out of sight behind your back. If you see it peak, your hand will know where it's going to land.
 
-# <a name="en/BehindTheBackStart.html"></a>Behind the Back Start
+# <a name="/en/BehindTheBackStart.html"></a>Behind the Back Start
 
 ![BehindTheBackStart](/videos/mp4/behindTheBackStart.mp4)
 
 Throw all three balls behind your back. I throw the one near my fingertips the highest. Claw the bottom two and start juggling. It would be best to try throwing all three up in front of you and start juggling before you try behind your back.
 
-# <a name="en/BostonMess.html"></a>Boston Mess
+# <a name="/en/BostonMess.html"></a>Boston Mess
 
 ![BostonMess](/videos/mp4/bostonMess.mp4)
 
 This trick is also know as the Half Boston Mess. One arm always stays on top, when the arm on top alternates in each succession of throws this trick is called the [Full Boston Mess](http://juggle.wikia.com/wiki/Boston_mess). That hand throws each ball straight up in succession and then starts over with the first ball.
 
-# <a name="en/Box.html"></a>Box
+# <a name="/en/Box.html"></a>Box
 
 ![Box](/videos/mp4/box.mp4)
 
 For the Box, two balls go up and down in columns and the other gets thrown straight across the bottom. I have a tendency to hand the ball back and forth across the bottom which doesn't look good at all. Practice throwing it straight across the bottom.
 
-# <a name="en/BurkesBarrage.html"></a>Burke's Barrage
+# <a name="/en/BurkesBarrage.html"></a>Burke's Barrage
 
 ![BurkesBarrage](/videos/mp4/burkesBarrage.mp4)
 
 Burke's Barrage is a lot like [Take Outs](TakeOuts.html). In [Take Outs](TakeOuts.html), you carry the ball up and around the other two ball. When doing Burke's Barrage, you pause slightly until there's time to carry the ball between the other two.
 
-# <a name="en/Cascade.html"></a>Cascade
+# <a name="/en/Cascade.html"></a>Cascade
 
 ![Cascade](/videos/mp4/cascade.mp4)
 
 This is the basic move in juggling. Check out [Learning the Three Ball Cascade](LearningTheCascade.html) if you don't know how to do this and want to learn.
 
-# <a name="en/Chops.html"></a>Chops
+# <a name="/en/Chops.html"></a>Chops
 
 ![Chops](/videos/mp4/chops.mp4)
 
 This is a variation of the [Cascade](Cascade.html). Start by grabbing one ball at the top of its path. Then quickly move your hand downward between the other two balls. The throw will be a normal [Cascade](Cascade.html) throw. At first you may want to just do one chop with one hand and work your way up to continuous chops.
 
-# <a name="en/Clawing.html"></a>Clawing
+# <a name="/en/Clawing.html"></a>Clawing
 
 ![Clawing](/videos/mp4/clawing.mp4)
 
 Clawing is just an overhand grab of a ball. Just reach up and grab the ball with your palm down. At first, just try one catch with one hand. Once you master that, try every catch with one hand, then every catch with the other hand, and eventually work up to every catch with both hands.
 
-# <a name="en/ClubCascade.html"></a>Club Cascade
+# <a name="/en/ClubCascade.html"></a>Club Cascade
 Learning how to juggle clubs is a lot like learning to juggle a [Three Ball Cascade](Cascade.html). Start with one club and toss it back and forth. You should hold the club in the middle of the handle, not at the very end of the club (the knob). Imagine a line extending from the center of your chest straight out in front of you. When holding the club it should be held out at an angle of approximately 45° from this center line. When you throw it, swing it in front of your body to an angle about 45° out to the opposite side and then throw it. Practice making your throws somewhat low and quick. Beginning club jugglers tend to have high throws that just barely make it around. To me it looks better if the club snaps around and lands with a smack in your hand.
 
 ![OneClub](/videos/mp4/oneClub.mp4)
@@ -1013,25 +1023,25 @@ When you're ready to juggle three, it should look something like this.
 
 ![ClubCascade](/videos/mp4/clubCascade.mp4)
 
-# <a name="en/ClubDoubles.html"></a>Club Doubles
+# <a name="/en/ClubDoubles.html"></a>Club Doubles
 
 ![ClubDoubles](/videos/mp4/clubDoubles.mp4)
 
 Once you've learned the [Cascade](ClubCascade.html) with clubs, you can learn to throw doubles. This is what it looks like when every throw is a double, but you'll want to start by just throwing one double out of a regular [Cascade](ClubCascade.html) and work up to all doubles.
 
-# <a name="en/ClubHalfShower.html"></a>Club
+# <a name="/en/ClubHalfShower.html"></a>Club
 
 ![ClubHalfShower](/videos/mp4/clubHalfShower.mp4)
 
 Before learning to do a Half Shower, you should learn to throw one club [Over the Top](ClubOverTheTop.html). Once you've got that mastered, then just throw every club over the top continuously. When I throw the club over the top, I let the club slide through my hand until I'm holding onto the knob and throw it from there.
 
-# <a name="en/ClubOverTheTop.html"></a>Club Over the Top
+# <a name="/en/ClubOverTheTop.html"></a>Club Over the Top
 
 ![ClubOverTheTop](/videos/mp4/clubOverTheTop.mp4)
 
 Just throw a club over the top, catch it on the other side, and continue juggling.
 
-# <a name="en/ClubReverseSpin.html"></a>Club Reverse Spin
+# <a name="/en/ClubReverseSpin.html"></a>Club Reverse Spin
 
 ![ClubReverseSpin](/videos/mp4/clubbackflip.mp4)
 
@@ -1039,68 +1049,68 @@ Instead of spinning a club the [Regular Way](ClubCascade.html), you can spin it 
 
 ![ClubReverseSpinSide](/videos/mp4/clubbackflip-side.mp4)
 
-# <a name="en/ClubUnderBothLegs.html"></a>Club Under Both Legs
+# <a name="/en/ClubUnderBothLegs.html"></a>Club Under Both Legs
 
 ![ClubUnderBothLegs](/videos/mp4/clubunderbothlegs.mp4)
 
 If you can throw one club [Under the Leg](ClubUnderTheLeg.html), this is the next logical step!
 
-# <a name="en/ClubUnderTheLeg.html"></a>Club Under The Leg
+# <a name="/en/ClubUnderTheLeg.html"></a>Club Under The Leg
 
 ![ClubUnderTheLeg](/videos/mp4/clubunderleg.mp4)
 
 Throwing a club under your leg is just as easy as throwing a ball [Under the Leg](UnderTheLeg.html). As soon as you catch the club that you're going to throw under your leg, start moving for your leg right away. Don't wait until it's time to throw and then reach for your leg. If you have trouble reaching under your leg, you may want to let the club slide through your hand so that you're holding it by the knob. This will give you a little more reach.
 
-# <a name="en/CrossedArmReverseCascade.html"></a>Crossed Arm Reverse Cascade
+# <a name="/en/CrossedArmReverseCascade.html"></a>Crossed Arm Reverse Cascade
 
 ![CrossedArmReverseCascade](/videos/mp4/crossedreversecascade.mp4)
 
 This is the same as the [Reverse Cascade](ReverseCascade.html), but your arms are crossed.
 
-# <a name="en/DoubleYo-Yo.html"></a>Double Yo-Yo
+# <a name="/en/DoubleYo-Yo.html"></a>Double Yo-Yo
 
 ![DoubleYo-Yo](/videos/mp4/doubleyoyo.mp4)
 
 Do a [Yo-Yo](Yo-Yo.html), then continue then pretend the two yo-yo balls are connected with a string as you carry the two balls underneath and do a [Yo-Yo](Yo-Yo.html) on the other side.
 
-# <a name="en/DropBox.html"></a>Drop Box
+# <a name="/en/DropBox.html"></a>Drop Box
 
 ![DropBox](/videos/mp4/dropBox.mp4)
 
 This is a variation of the [Box](Box.html). The ball that normally travels back and forth along the bottom goes over the ball on one side instead of under it.
 
-# <a name="en/Factory.html"></a>Factory
+# <a name="/en/Factory.html"></a>Factory
 
 ![Factory](/videos/mp4/factory.mp4)
 
 This is also known as "The Machine". Do [Fake One-up Two-up](FakeOne-upTwo-up.html). When the carrying hand gets to the top, move it straight across the top of the other two balls. Let go of the ball you've been carrying. Now quickly [Claw](Clawing.html) one of the other two balls. Carry the ball you just clawed to the top and do it all over again, and again, and again . . .
 
-# <a name="en/FakeMess.html"></a>Fake Mess
+# <a name="/en/FakeMess.html"></a>Fake Mess
 
 ![FakeMess](/videos/mp4/fakeMess.mp4)
 
 Believe it or not, this is very closely related to the trick called [Right Middle Left](RightMiddleLeft.html). Do [Right Middle Left](RightMiddleLeft.html) and notice that one hand is just sitting there doing nothing at times during the trick. All you do is carry that ball under your other arm (don't let go!) and then carry it back in time for its next throw. Do that every time. Make the pattern sway back and forth a little to make it look more like [Mill's Mess](MillsMess.html).
 
-# <a name="en/FakeOne-upTwo-up.html"></a>Fake One-up Two-up
+# <a name="/en/FakeOne-upTwo-up.html"></a>Fake One-up Two-up
 
 ![FakeOne-upTwo-up](/videos/mp4/fakeoneuptwoup.mp4)
 
 Fake [One-up Two-up](One-upTwo-up.html) by doing [Two in One Hand - Columns](TwoInOneHand-Columns.html) while the other hand just carries the third ball up and down following the outside ball.
 
-# <a name="en/FalseShower.html"></a>False Shower
+# <a name="/en/FalseShower.html"></a>False Shower
 
 ![FalseShower](/videos/mp4/falseshower.mp4)
 
 This pattern is also called the Spiral or Windmill. To learn the False Shower, throw [One Over the Top](OverTheTop.html) and one
  [Under the Arm](UnderTheArm.html) at the same time. Work on making all the throws and carries follow a circular pattern.
 
-# <a name="en/FalseShowerYo-Yo.html"></a>False Shower Yo-Yo
+# <a name="/en/FalseShowerYo-Yo.html"></a>False Shower Yo-Yo
 
 ![FalseShowerYo-Yo](/videos/mp4/falseshoweryoyo.mp4)
 
 I don't know what the name of this pattern is, but it's one of my favorites. It's the same as the [False Shower](FalseShower.html) except that one hand is turned over, raised, and follows the ball under it like the [Yo-Yo](Yo-Yo.html) pattern.
 
-# <a name="en/FiveBallCascade.html"></a>Five Ball Cascade
+# <a name="/en/FiveBallCascade.html"></a>Five Ball Cascade
 
 ![FiveBallCascade](/videos/mp4/fiveBallCascade.mp4)
 
@@ -1118,7 +1128,7 @@ Here are a few tips:
 
 ![Holding5](Images/Holding5.jpg)
 
-# <a name="en/FiveBallSplits.html"></a>Five Ball Splits
+# <a name="/en/FiveBallSplits.html"></a>Five Ball Splits
 
 ![FiveBallSplits](/videos/mp4/fiveBallSplits.mp4)
 
@@ -1126,67 +1136,67 @@ This is a really easy five ball pattern. You can start working on it as soon as 
 
 When you throw two balls from one hand at the same time it's called a multiplex.
 
-# <a name="en/Flash.html"></a>Flash
+# <a name="/en/Flash.html"></a>Flash
 
 ![Flash](/videos/mp4/flash.mp4)
 
 When you do a Flash, throw all three balls in quick succession. All the balls should be in the air at the same time. You may want to clap your hands together while all balls are in the air to convince yourself that they're all up there. This is the first step in learning to juggle [Five Balls](FiveBallCascade.html). When juggling five the Flash would be the first three throws, then you just throw up another to replace each ball as it comes down.
 
-# <a name="en/ForkCatch.html"></a>Fork Catch
+# <a name="/en/ForkCatch.html"></a>Fork Catch
 
 ![ForkCatch](/videos/mp4/forkCatch.mp4)
 
 The Fork Catch is a way to catch a ball on the back of your hand. You can do this by spreading you index and middle fingers apart and letting the ball rest in between. Another method is to catch the ball on your index and ring fingers by holding your middle finger lower, which is the method I used in this video. As you catch the ball, start with your hand a little high and lower it to absorb the shock of the ball hitting. The idea is to prevent the ball from bouncing.
 
-# <a name="en/FourBallAsynchronousFountain.html"></a>Four Ball Asynchronous Fountain
+# <a name="/en/FourBallAsynchronousFountain.html"></a>Four Ball Asynchronous Fountain
 
 ![FourBallAsynchronousFountain](/videos/mp4/fourasynchronous.mp4)
 
 Before learning four balls, you need to learn [Two in One Hand - Outside](TwoInOneHand-Outside.html) in both your right and left hands. In this pattern, you throw from one hand first. When that ball reaches its peak, you throw from the other hand. Then it's just the same as doing two in one hand, only you're doing it with both hands. Notice that the balls never switch hands.
 
-# <a name="en/FourBallColumns.html"></a>Four Ball Columns
+# <a name="/en/FourBallColumns.html"></a>Four Ball Columns
 
 ![FourBallColumns](/videos/mp4/fourcolumns.mp4)
 
 This is just like [One-up Two-up](One-upTwo-up.html), except that the one-up is a two-up.
 
-# <a name="en/FourBallPistons.html"></a>Four Ball Pistons
+# <a name="/en/FourBallPistons.html"></a>Four Ball Pistons
 
 ![FourBallPistons](/videos/mp4/fourpistons.mp4)
 
 First learn [Two in One Hand - Columns](TwoInOneHand-Columns.html) in each hand. Then do both hands at the same time.
 
-# <a name="en/FourBallSynchronousFountain.html"></a>Four Ball Synchronous Fountain
+# <a name="/en/FourBallSynchronousFountain.html"></a>Four Ball Synchronous Fountain
 
 ![FourBallSynchronousFountain](/videos/mp4/foursynchronous.mp4)
 
 Before learning four balls, you need to learn [Two in One Hand - Outside](TwoInOneHand-Outside.html) in both your right and left hands. In this pattern, you throw them from both hands simultaneously. That's really all there is to it. Notice that the balls never switch hands.
 
-# <a name="en/FourBallSynchronousHalfShower.html"></a>Four Ball Synchronous Half Shower
+# <a name="/en/FourBallSynchronousHalfShower.html"></a>Four Ball Synchronous Half Shower
 
 ![FourBallSynchronousHalfShower](/videos/mp4/fourwimpy.mp4)
 
 Throw two balls at a time so they cross at the top. It's important to make sure one always goes over the other. If you can do [Rainbow Cross](RainbowCross.html) with three balls, then this shouldn't be too hard.
 
-# <a name="en/HalfMess.html"></a>Half Mess
+# <a name="/en/HalfMess.html"></a>Half Mess
 
 ![HalfMess](/videos/mp4/halfMess.mp4)
 
 Start with a [Reverse Cascade](ReverseCascade.html). Now throw one [Under Your Arm](UnderTheArm.html) and catch the next [Under Your Arm](UnderTheArm.html). Then go back to the [Reverse Cascade](ReverseCascade.html), making sure that you do the throw [Over the Top](OverTheTop.html) (as all the throws are in a [Reverse Cascade](ReverseCascade.html)). Immediately repeat this pattern.
 
-# <a name="en/HalfShower.html"></a>Half Shower
+# <a name="/en/HalfShower.html"></a>Half Shower
 
 ![HalfShower](/videos/mp4/halfShower.mp4)
 
 The Half Shower is just [Over the Top](OverTheTop.html) done continuously in one direction. Every throw from one hand goes over the top.
 
-# <a name="en/InvertedShower.html"></a>Inverted Shower
+# <a name="/en/InvertedShower.html"></a>Inverted Shower
 
 ![InvertedShower](/videos/mp4/invertedShower.mp4)
 
 You pretty much do what you see here. It's easier if you grab the balls from the top, but you'll block your audience's view of the ball. I find this trick very difficult. I tend to bump the ball with my wrist as I'm carring across the top. If you like the look of this trick, but find it too difficult, try the [Pendulum](Pendulum.html) instead.
 
-# <a name="en/LearningTheCascade.html"></a>Learning the Cascade
+# <a name="/en/LearningTheCascade.html"></a>Learning the Cascade
 If you are just learning to juggle for the first time, you should start with the cascade. Follow the link to see what the cascade looks like. Start with one ball. Scoop your hand under to the other side of your body as you throw. See the videos below to see how it should look. Keep your hand low to catch. Do not reach up to catch the ball, let gravity do its job! Most of the movement should be in your forearms. Your elbows should stay by your sides. Look up. You do not need to look at your hands to know where they are. You do not need to spend much time at this level if you are not having any problems.
 
 ![CascadeOneBall](/videos/mp4/cascadeOneBall.mp4)
@@ -1203,7 +1213,7 @@ You should spend a lot of time on this step and come back to it if you're having
 
 ![CascadeTwoBalls](/videos/mp4/cascadeTwoBalls.mp4)
 
-When you have that step mastered, you're ready for three balls. Are you excited? You should be. You've learned the hardest part by now. Start with two balls in one hand and one in the other. Your first throw is from the hand with two. The first two throws are the same as the throws you've been practicing. When that second ball reaches it's peak, throw the next ball. Your throws will alternate - left, right, left, right... Your throws are much more important than your catches. If you make good throws, your catches should be easy.
+When you have that step mastered, you're ready for three balls. Are you excited? You should be. You've learned the hardest part by now. Start with two balls in one hand and one in the other. Your first throw is from the hand with two. The first two throws are the same as the throws you've been practicing. When that second ball reaches it's peak, throw the next ball. Your throws will alternate - left, right, left, right… Your throws are much more important than your catches. If you make good throws, your catches should be easy.
 
 At this point, you may run into some more problems. Some people go too fast. It looks faster than it feels. Remember to wait for each ball to hit the top before throwing the next ball. If you watch the slow motion video below, you'll see that most of the time, there's only one ball in the air. By juggling higher, you'll be able to juggle slower. As you get more comfortable, you'll be able to juggle much lower and it will look better, but for right now, juggle a little over your head.
 
@@ -1213,7 +1223,7 @@ Sometimes people get stuck on a ball. They just can't seem to throw the fourth o
 
 Although you can learn to juggle with just about any kind of ball, beanbags work the best for learning because they don't roll as much and they don't bounce much at all.
 
-# <a name="en/MillsMess.html"></a>Mills Mess
+# <a name="/en/MillsMess.html"></a>Mills Mess
 
 ![MillsMess](/videos/mp4/millsMess.mp4)
 
@@ -1232,110 +1242,110 @@ The next step is to combine the two moves you've been practicing. That last litt
 
 Now look at the last video on this page. See how the top hand ends up with one ball in it? As soon as that top hand catches that ball, immediately throw the ball back toward the other side of your body. It will be the same throw you did as the very first throw, except from the opposite hand and in the opposite direction. From there, you do the same things you did the first time, but all in the opposite direction. Remember that every time your hands cross, you need to throw the the ball in the top hand back across your body and uncross and recross your hands again. Concentrate on getting the top two balls doing the correct thing and hopefully the bottom ball will take care of itself.
 
-# <a name="en/NeckCatch.html"></a>Neck Catch
+# <a name="/en/NeckCatch.html"></a>Neck Catch
 
 ![NeckCatch](/videos/mp4/neckCatch.mp4)
 
 Toss a ball a little higher than usual. Watch the ball go up, then back down and at the last possible second, bend down to catch it on your neck. The key is to watch the ball as long as possible. I don't like the way my arms look in this video, but you have to tip your head back and your shoulders up to make a spot for the ball to land without rolling out. This is easier to do with bean bags at first.
 
-# <a name="en/One-upTwo-up.html"></a>One-up Two-up
+# <a name="/en/One-upTwo-up.html"></a>One-up Two-up
 
 ![One-upTwo-up](/videos/mp4/oneuptwoup.mp4)
 
 To do One-up Two-up, do [Two in One Hand - Columns](TwoInOneHand-Columns.html), then just throw the other ball up and down by itself in the other hand. You can also switch the hand that catches the middle ball every time if you want to. After learning this trick, you may want to learn these variations: [One-up Two-up Tennis](One-upTwo-upTennis.html), [One-up Two-up Hops](One-upTwo-upHops.html), and [Rainbow Cross](RainbowCross.html).
 
-# <a name="en/One-upTwo-upHops.html"></a>One-up Two-up Hops
+# <a name="/en/One-upTwo-upHops.html"></a>One-up Two-up Hops
 
 ![One-upTwo-upHops](/videos/mp4/oneuptwouphops.mp4)
 
 Learn [One-up Two-up](One-upTwo-up.html) first. Now, take the middle ball and throw it so it hops over one ball, then the other, then back again.
 
-# <a name="en/One-upTwo-upInfinity.html"></a>One-up Two-up Infinity
+# <a name="/en/One-upTwo-upInfinity.html"></a>One-up Two-up Infinity
 
 ![One-upTwo-upInfinity](/videos/mp4/oneuptwoupinfinity.mp4)
 
 In this [One-up Two-up](One-upTwo-up.html) pattern, throw the single ball in an infinity sign shape (or sideways figure eight if you prefer) around the other two balls.
 
-# <a name="en/One-upTwo-upShower.html"></a>One-up Two-up Shower
+# <a name="/en/One-upTwo-upShower.html"></a>One-up Two-up Shower
 
 ![One-upTwo-upShower](/videos/mp4/oneuptwoupshower.mp4)
 
 This is another [One-up Two-up](One-upTwo-up.html) trick. The one up ball is thrown in a [Shower](Shower.html) pattern around the other two balls.
 
-# <a name="en/One-upTwo-upTennis.html"></a>One-up Two-up Tennis
+# <a name="/en/One-upTwo-upTennis.html"></a>One-up Two-up Tennis
 
 ![One-upTwo-upTennis](/videos/mp4/oneuptwouptennis.mp4)
 
 Learn [One-up Two-up](One-upTwo-up.html) first. Now, take the middle ball and throw it over the top instead of up and down in the middle.
 
-# <a name="en/Orbit.html"></a>Orbit
+# <a name="/en/Orbit.html"></a>Orbit
 
 ![Orbit](/videos/mp4/orbit.mp4)
 
 Start by doing [Two Balls in One Hand - Outside](TwoInOneHand-Outside.html). The third ball never leaves you other hand. You just carry the other ball in a circle around the top ball. Each time a ball reaches the top, make one circle around it.
 
-# <a name="en/OverTheTop.html"></a>Over the Top
+# <a name="/en/OverTheTop.html"></a>Over the Top
 
 ![OverTheTop](/videos/mp4/overTheTop.mp4)
 
 Over the Top is exactly what it sounds like. Juggle in a normal [Cascade](Cascade.html), then just throw one ball over the top of the other balls instead of underneath. The timing of the throw is the same as all other throws. It looks best if you move your hand outward slightly to make the throw more horizontal.
 
-# <a name="en/OverheadCascade.html"></a>Overhead Cascade
+# <a name="/en/OverheadCascade.html"></a>Overhead Cascade
 
 ![OverheadCascade](/videos/mp4/overheadCascade.mp4)
 
 This is the same as the [Cascade](Cascade.html), only done over your head. I first learned this while lying on my back on the floor. It feels like you're pushing the balls up instead of the way normal juggling throws feel. The trick feels exactly the same to me when I do it over my head or on my back.
 
-# <a name="en/Oy-Oy.html"></a>Oy-Oy
+# <a name="/en/Oy-Oy.html"></a>Oy-Oy
 
 ![Oy-Oy](/videos/mp4/oy-Oy.mp4)
 
 The Oy-Oy is the [Yo-Yo](Yo-Yo.html) upside-down.
 
-# <a name="en/Pendulum.html"></a>Pendulum
+# <a name="/en/Pendulum.html"></a>Pendulum
 
 ![Pendulum](/videos/mp4/pendulum.mp4)
 
 Do [Two in One Hand - Outside](TwoInOneHand-Outside.html) first. Hold the third ball in your other hand with your elbow in the air as in the video. Practice swinging this arm back and forth in sync with the other balls. When you get the rhythm right, let go of the ball in the pendulum hand just as the other ball is peaking. As your hand swings back out, catch the ball that was peaking.
 
-# <a name="en/PenguinCatches.html"></a>Penguin Catches
+# <a name="/en/PenguinCatches.html"></a>Penguin Catches
 
 ![PenguinCatches](/videos/mp4/penguinCatches.mp4)
 
 Penguin Catches are just catches with your hand twisted around backwards. They're a lot like
  [Behind the Back Catches](BehindTheBackCatch.html), but not behind your back.
 
-# <a name="en/RainbowCross.html"></a>Rainbow Cross
+# <a name="/en/RainbowCross.html"></a>Rainbow Cross
 
 ![RainbowCross](/videos/mp4/rainbowCross.mp4)
 
 Rainbow Cross is a simple variation of [One-up Two-up](One-upTwo-up.html). Instead of throwing the two outside balls straight up, cross them so that you catch them in opposite hands. The only problem is there is a potential for collisions. I always throw the ball from my right hand over the ball from my left hand. Another method is to throw one ball in front of the other.
 
-# <a name="en/RealTennis.html"></a>Real Tennis
+# <a name="/en/RealTennis.html"></a>Real Tennis
 
 ![RealTennis](/videos/mp4/realTennis.mp4)
 
 In this version of [Tennis](Tennis.html), the middle two balls go straight up and down, so they look more like a real tennis net. It's a variation of [Right Middle Left](RightMiddleLeft.html). Start with the hand holding two balls. Throw one ball straight up the middle, and throw the next ball from the same hand [Over the Top](OverTheTop.html). While that ball is in the air, throw the ball from the other hand straight up. Catch the over the top ball and immediately throw it over the top in the other direction.
 
-# <a name="en/ReverseCascade.html"></a>Reverse Cascade
+# <a name="/en/ReverseCascade.html"></a>Reverse Cascade
 
 ![ReverseCascade](/videos/mp4/reverseCascade.mp4)
 
 Before learning the Reverse Cascade, learn [Over the Top](OverTheTop.html), [Tennis](Tennis.html), and the [Half Shower](HalfShower.html). The Reverse Cascade is over the top done on every throw from both hands. When throwing over the top, throw shorter throws. Instead of throwing to the opposite side of your body, throw to the center of your body.
 
-# <a name="en/RightMiddleLeft.html"></a>Right Middle Left
+# <a name="/en/RightMiddleLeft.html"></a>Right Middle Left
 
 ![RightMiddleLeft](/videos/mp4/rightMiddleLeft.mp4)
 
 Learn [Two in One Hand - Columns](TwoInOneHand-Columns.html) first. Once you know how to do that in each hand, you just do it in one hand and then the other. Notice that your right hand throws two balls in a row, then the left hand throws two balls, etc.
 
-# <a name="en/RingCascade.html"></a>Ring Cascade
+# <a name="/en/RingCascade.html"></a>Ring Cascade
 
 ![RingCascade](/videos/mp4/ringCascade.mp4)
 
 To juggle rings, you release them a with your hands held a little higher, and you catch them with your hands higher. Other than that, it's just as easy as juggling balls. If you're juggling rings for an audience, you'll want to stand sideways so that they can see the rings. Otherwise, they practically disappear.
 
-# <a name="en/RollABallOffYourHead.html"></a>Roll a Ball Off Your Head
+# <a name="/en/RollABallOffYourHead.html"></a>Roll a Ball Off Your Head
 
 ![RollABallOffYourHead](/videos/mp4/rolloffhead.mp4)
 
@@ -1344,51 +1354,51 @@ Just roll a ball off your head. The only trick to this is to start moving the ba
 ![RollAllBallOffYourHead](/videos/mp4/rollalloffhead.mp4)
 
 
-# <a name="en/Shower.html"></a>Shower
+# <a name="/en/Shower.html"></a>Shower
 
 ![Shower](/videos/mp4/shower.mp4)
 
 This is the pattern most people try to learn on their own before they know how to juggle. This is not a good beginning pattern to learn. Beginners should always learn the [Cascade](Cascade.html). The Shower is much faster. Start with two balls in one hand and one in the other. Throw both balls from one hand in rapid succession. After both balls from the first hand are in the air, throw the third ball across the bottom. Just keep it going from here!
 
-# <a name="en/Slam.html"></a>Slam
+# <a name="/en/Slam.html"></a>Slam
 
 ![Slam](/videos/mp4/slam.mp4)
 
 The  Slam   is  also  known  as   the  Shuffle,   because  it  looks  like  you're  shuffling  a  deck  of  cards.   Do
  [Two in One Hand - Columns](TwoInOneHand-Columns.html) in you left hand.  Hold a ball in your right hand above the pattern and wait for the inside ball to peak. Now follow that ball down and as you pass it, release the ball in your right hand and claw catch the ball from the columns. Repeat.
 
-# <a name="en/Swoop.html"></a>Swoop
+# <a name="/en/Swoop.html"></a>Swoop
 
 ![Swoop](/videos/mp4/swoop.mp4)
 
 Start juggling [Two in One Hand - Columns](TwoInOneHand-Columns.html). Hold one ball in your other hand at the top of the pattern on the other side of your body. As the outside column ball peaks, drop the ball you were holding and [Claw](Clawing.html) the peaking ball. Notice that the middle ball just keeps going up and down. The outside balls get clawed, carried underneath, and thrown straight up again. It's easier to just do it than to think about it too much.
 
-# <a name="en/TakeOuts.html"></a>Take Outs
+# <a name="/en/TakeOuts.html"></a>Take Outs
 
 ![TakeOuts](/videos/mp4/takeOuts.mp4)
 
 I didn't think too much about this one as I was learning it. Start doing a [Cascade](Cascade.html), then reach over, grab a ball and carry it up and around the outside of the pattern. Your other hand will probably naturally do
  [Two in One Hand - Columns](TwoInOneHand-Columns.html) while you complete the carry. As your arm comes around, you throw under your arm and continue the pattern. It's really easier than it looks. Don't think too much and just do it.
 
-# <a name="en/Tennis.html"></a>Tennis
+# <a name="/en/Tennis.html"></a>Tennis
 
 ![Tennis](/videos/mp4/tennis.mp4)
 
 Tennis is a variation of [Over the Top](OverTheTop.html). Start by throwing one ball over the top. That ball is caught by the other hand and thrown back over the top in the other direction. This trick looks best if you move your hand outward slightly before throwing over the top. This causes the ball to be thrown more horizontally.
 
-# <a name="en/TwoInOneHand-Columns.html"></a>Two in One Hand - Columns
+# <a name="/en/TwoInOneHand-Columns.html"></a>Two in One Hand - Columns
 
 ![TwoInOneHand-Columns](/videos/mp4/twoinonecolumns.mp4)
 
 There's not much to say about this one. The balls go up and down in parallel columns. Your hand should move left and right, not in and out.
 
-# <a name="en/TwoInOneHand-Inside.html"></a>Two in One Hand - Inside
+# <a name="/en/TwoInOneHand-Inside.html"></a>Two in One Hand - Inside
 
 ![TwoInOneHand-Inside](/videos/mp4/twoinoneinside.mp4)
 
 The balls go around in a circle moving toward the center of your body. The circle the balls make should be in a plane parallel to your chest. Your hand should be moving from side to side, not in and out.
 
-# <a name="en/TwoInOneHand-Outside.html"></a>Two in One Hand - Outside
+# <a name="/en/TwoInOneHand-Outside.html"></a>Two in One Hand - Outside
 
 ![TwoInOneHand-Outside](/videos/mp4/twoinoneoutside.mp4)
 
@@ -1396,44 +1406,44 @@ The balls go around in a circle moving toward the outside of your body. The circ
 
 If you're interested in learning [Four Balls](FourBallAsynchronousFountain.html), you need to know how to do this trick very comfortably in both your left and right hands.
 
-# <a name="en/UnderTheArm.html"></a>Under the Arm
+# <a name="/en/UnderTheArm.html"></a>Under the Arm
 
 ![UnderTheArm](/videos/mp4/underTheArm.mp4)
 
 Throw a ball under your arm. What did you think I was going to say?
 
-# <a name="en/UnderTheLeg.html"></a>Under the Leg
+# <a name="/en/UnderTheLeg.html"></a>Under the Leg
 
 ![UnderTheLeg](/videos/mp4/underTheLeg.mp4)
 
 The trick to throwing a ball under your leg is to start moving toward your leg as soon as you catch the ball. If you wait until it's time to throw the ball to start moving toward your leg, you won't have enough time to do it.
 
-# <a name="en/W.html"></a>W
+# <a name="/en/W.html"></a>W
 
 ![W](/videos/mp4/w.mp4)
 
 This is almost identical to [Right Middle Left](RightMiddleLeft.html). The middle ball goes back and forth instead of up and down in a column.
 
-# <a name="en/Yo-Yo.html"></a>Yo-Yo
+# <a name="/en/Yo-Yo.html"></a>Yo-Yo
 
 ![Yo-Yo](/videos/mp4/yo-Yo.mp4)
 
 Before learning this trick, I suggest that you learn to [One-up Two-up](One-upTwo-up.html). [One-up Two-up](One-upTwo-up.html) is basically the same trick, but it's easier because you don't have to worry about how high you throw the balls as much, therefore there are fewer accidental collisions. Juggle [Two Balls in One Hand - Columns](TwoInOneHand-Columns.html). The other hand carries a ball in over the top of the inside ball. Try to follow it as exactly as possible. It should look like the bottom ball is attached to the top by a string.
 
-# <a name="en/Yo-YoOnBothSides.html"></a>Yo-Yo Orbit
+# <a name="/en/Yo-YoOnBothSides.html"></a>Yo-Yo Orbit
 
 ![Yo-YoOnBothSides](/videos/mp4/yo-yobothides.mp4)
 
 I don't know what to say about this. Just do it.
 
-# <a name="en/Yo-YoOrbit.html"></a>Yo-Yo Orbit
+# <a name="/en/Yo-YoOrbit.html"></a>Yo-Yo Orbit
 
 ![Yo-YoOrbit](/videos/mp4/yo-YoOrbit.mp4)
 
 Combine [Two in One Hand - Outside](TwoInOneHand-Outside.html) with [Yo-Yo](Yo-Yo.html) and this is what you get. Start by doing
  [Two in One Hand - Outside](TwoInOneHand-Outside.html) and just follow one of the balls around.
 
-# <a name="en/boomerang-rubber-band.html"></a>Boomerang Rubber Band (Twanging)
+# <a name="/en/boomerang-rubber-band.html"></a>Boomerang Rubber Band (Twanging)
 
 ![Boomerang Rubber Band](/videos/mp4/boomerangrubberband.mp4)
 
