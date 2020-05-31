@@ -5,7 +5,7 @@ A Wildcat Zsonglőr Oldalak története 2004-re nyúlik vissza. Bizony, az már 
 
 Közben a neten megtaláltam a Wildcat Jugglers Tutorialt, és mivel akkoriban még nem volt ilyesmi magyar nyelven, nekiálltam lefordítani. Nagyjából így nézett ki az egyik első változat:
 
-![tutorialpagev0](images/tutorialpagev0.png)
+![tutorialpagev0](/images/site-versions/tutorialpagev0.png)
 
 Eleinte az amerikai címen volt elérhető a magyar változat is, de később mindenféle letöltési korlátok miatt szétválltunk. Rob előfizetett valahol máshol, én meg elindítottam a csókavárat.
 

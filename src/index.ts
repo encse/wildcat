@@ -2,7 +2,6 @@ import fs from 'fs';
 import path from 'path';
 import MarkdownIt from 'markdown-it'
 
-
 function files(md: string): { filn: string, content: string }[] {
     const lines = md.split('\n');
     const rx = /# <a name=\"(.*)"><\/a>(.*)/;
@@ -31,7 +30,6 @@ const md = MarkdownIt({
     html: true
 });
 
-
 const defaultRender = md.renderer.rules.image;
 
 md.renderer.rules.image = function (tokens, idx, options, env, self) {
@@ -51,7 +49,6 @@ md.renderer.rules.image = function (tokens, idx, options, env, self) {
 
 
 md.renderer.rules.link_open = function (tokens, idx, options, _, self) {
-    // If you are sure other plugins can't add `target` - drop check below
     var aIndex = tokens[idx].attrIndex('href');
 
     let href = tokens[idx].attrs[aIndex][1];
@@ -60,7 +57,6 @@ md.renderer.rules.link_open = function (tokens, idx, options, _, self) {
         tokens[idx].attrs[aIndex][1] = href;
     }
 
-    // pass token to default renderer.
     return self.renderToken(tokens, idx, options);
 };
 
