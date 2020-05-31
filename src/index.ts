@@ -40,7 +40,7 @@ md.renderer.rules.image = function (tokens, idx, options, env, self) {
     if (src.endsWith(".mp4")) {
         const parts = src.split("/");
         const file = parts[parts.length-1];
-        const poster = "videos/poster/" + file.replace(".mp4", ".jpg");
+        const poster = "/videos/poster/" + file.replace(".mp4", ".jpg");
         return `<video loop playsinline autoplay src="${src}" poster="${poster}"></video>\n`
     }
 
