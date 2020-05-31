@@ -813,10 +813,6 @@ This tutorial is designed to teach beginning to intermediate juggling patterns.
 For better written descriptions of these tricks, I highly recommend Jon Relf's [TWJC Tutorials](http://www.twjc.co.uk/tutorials). There you will find well thought out written descriptions of many more tricks than I have listed here. I also recommend buying
 [Charlie Dancey's Encyclopedia of Ball Juggling](https://www.goodreads.com/book/show/969254.Charlie_Dancey_s_Encyclopaedia_of_Ball_Juggling). It's fun to read and has great illustrations.
 
-This list is organized by similar types of tricks.
-
-The tutorial is also available in [Hungarian](/).
-
 ## First steps
 
 Let's see how to become a juggler…
