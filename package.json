@@ -50,6 +50,8 @@
     "node": ">=8.9"
   },
   "dependencies": {
+    "@types/jsdom": "^16.2.3",
+    "jsdom": "^16.2.2",
     "markdown-it": "^11.0.0",
     "node-html-parser": "^1.2.18"
   },

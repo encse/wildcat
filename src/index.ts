@@ -1,4 +1,5 @@
 import fs from 'fs';
+import path from 'path';
 import MarkdownIt from 'markdown-it'
 
 
@@ -11,7 +12,7 @@ function files(md: string): { filn: string, content: string }[] {
         const m = lines[i].match(rx);
 
         if (m) {
-            const filn = m[1].replace("-html", ".html");
+            const filn = m[1];
             let content = "# " + m[2] + "\n";
             i++;
             while (i < lines.length && !lines[i].match(rx)) {
@@ -54,8 +55,8 @@ md.renderer.rules.link_open = function (tokens, idx, options, _, self) {
     var aIndex = tokens[idx].attrIndex('href');
 
     let href = tokens[idx].attrs[aIndex][1];
-    if (href.startsWith("#") && href.endsWith("-html")) {
-        href = href.substr(1).replace("-html", ".html");
+    if (href.startsWith("#")) {
+        href = href.substr(1);
         tokens[idx].attrs[aIndex][1] = href;
     }
 
@@ -67,7 +68,13 @@ const readme = fs.readFileSync("../images/README.md", "utf8");
 
 for (let { filn, content } of files(readme)) {
     const html = md.render(content);
-    fs.writeFileSync("build/" + filn, `
+    const loc = "build/" + filn;
+    
+    if (!fs.existsSync(path.parse(loc).dir)) {
+        fs.mkdirSync(path.parse(loc).dir);
+    }
+
+    fs.writeFileSync(loc, `
         <!DOCTYPE HTML>
         <html>
         <head>
@@ -75,7 +82,7 @@ for (let { filn, content } of files(readme)) {
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title>Wildcat</title>
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/open-fonts@1.1.1/fonts/inter.min.css">
-            <link rel="stylesheet" href="awsm.min.css">
+            <link rel="stylesheet" href="/awsm.min.css">
         </head>
         <body>
         <header>
