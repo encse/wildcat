@@ -8,7 +8,7 @@
   "scripts": {
     "build": "npm run clean && npm run copy && npx ts-node src/index.ts",
     "make-posters": "source ./makeposters.sh",
-    "clean": "trash build",
+    "clean": "rm -rf build",
     "copy": "cp -r resources/ build"
   },
   "dependencies": {
