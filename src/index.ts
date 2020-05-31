@@ -42,7 +42,7 @@ md.renderer.rules.image = function (tokens, idx, options, env, self) {
         const parts = src.split("/");
         const file = parts[parts.length-1];
         const poster = "videos/poster/" + file.replace(".mp4", ".jpg");
-        return `<video loop playsinline controls src="${src}" poster="${poster}" />\n`
+        return `<video loop playsinline autoplay src="${src}" poster="${poster}" />\n`
     }
 
     return defaultRender(tokens, idx, options, env, self);
