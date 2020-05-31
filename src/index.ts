@@ -76,7 +76,7 @@ for (let { filn, content } of files(readme)) {
     const en = filn.startsWith('/en/');
     let lang = en ? 'en' : 'hu';
     let title = en ? 'Wildcat Jugglers tutorial' : 'Wildcat Zsonglőr oldalak';
-    let tricks = en ? '<a href="/en">Home</a>' : '<a href="/">Trükkök</a> | <a href="/tortenet">Történet</a>';
+    let tricks = en ? '<a href="/en">Home</a> | <a href="/en/about">About</a>' : '<a href="/">Trükkök</a> | <a href="/tortenet">Történet</a>';
 
     fs.writeFileSync(loc, `
         <!DOCTYPE HTML>
