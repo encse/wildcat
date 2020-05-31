@@ -76,7 +76,7 @@ for (let { filn, content } of files(readme)) {
     const en = filn.startsWith('/en/');
     let lang = en ? 'en' : 'hu';
     let title = en ? 'Wildcat Jugglers tutorial' : 'Wildcat Zsonglőr oldalak';
-    let tricks = en ? '<a href="/en">Home</a> | <a href="/en/about">About</a>' : '<a href="/">Trükkök</a> | <a href="/tortenet">Történet</a>';
+    let tricks = en ? '<a href="/en">Home</a> | <a href="/en/about">About</a>' : '<a href="/hu">Trükkök</a> | <a href="/hu/tortenet">Történet</a>';
 
     fs.writeFileSync(loc, `
         <!DOCTYPE HTML>
@@ -88,7 +88,7 @@ for (let { filn, content } of files(readme)) {
             <link href="//fonts.googleapis.com/css?family=Merriweather&subset=latin" rel="stylesheet" type="text/css">
             <link href="//fonts.googleapis.com/css?family=Francois One&subset=latin" rel="stylesheet" type="text/css">
 
-            <link rel="stylesheet" href="/awsm.min.css">
+            <link rel="stylesheet" href="css/awsm.css">
             <style>
                 * {
                     font-family: 'Merriweather', sans-serif;

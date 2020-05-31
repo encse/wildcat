@@ -1,5 +1,5 @@
 
-# <a name="tortenet"></a>Történet
+# <a name="/hu/tortenet"></a>Történet
 
 A Wildcat Zsonglőr Oldalak története 2004-re nyúlik vissza. Bizony, az már több mint tíz éve volt… Akkoriban kezdtem zsonglőrködni, amit a főnökömtől és Lukács haveromtól tanultam az irodában. Az első hétvégét gyakorlatilag végigzsonglőrködtem zokniból készült kis labdákkal. Aztán nemsokára megtanultam néggyel is játszani, és akkor vettem magamnak egy garnitúra igazi labdát.
 
@@ -13,7 +13,7 @@ Egy kedves, játékos oldalt akartam csinálni, ezért megkértem egy meseillusz
 
 Sokmindent megtanultam a zsonglőrködésről, és nem utolsó sorban a weboldal készítésről, ezért kétszeresen is szeretem ezt a kis oldalt.
 
-# <a name="index"></a>Trükkök
+# <a name="/hu/index"></a>Trükkök
 
 A zsonglőrködés alapjait kis türelemmel bárki elsajátíthatja. Persze hosszú évekig tartó gyakorlás kell ahhoz, hogy valakiből profi zsonglőr legyen, de egy-egy trükk elsajátítása mindig újabb lökést ad a következő akadály leküzdéséhez.
 
@@ -160,46 +160,46 @@ A három labdás trükkök után rögtön belevághatsz a buzogányos trükkökb
 
  ![img](/images/dobol-macska.png)
 
-# <a name="441-es"></a>441-es
+# <a name="/hu/441-es"></a>441-es
 
 ![441](videos/mp4/441.mp4)
 
 A 441 egy siteswap kód. Dobj [körbe](#kor-kifele) két labdát az egyik kezedben majd egyet vízszintesen a másik kezedbe. Itt újra kettőt körben, aztán vissza vízszintesen. A vízszintes dobás ugyanaz mint a [Kaszkád](#kaszkad) és a [Koszorú](#koszoru) figuráknál.
 
-# <a name="a-fejed-korul"></a>A fejed körül…
+# <a name="/hu/a-fejed-korul"></a>A fejed körül…
 
 ![aroundhead](/videos/mp4/aroundhead.mp4)
 
 A trükk nagyon hasonlít az [Ingára](#inga). Alapja egy [kifelé forgó kör](#kor-kifele). A lényeg, hogy amikor a labda megkerüli a fejed, engedd el és kapd el azt a másik kettőből, amelyik éppen fent van.
 
-# <a name="al-mess"></a>Ál mess
+# <a name="/hu/al-mess"></a>Ál mess
 
 ![fakemess](/videos/mp4/fakemess.mp4)
 
 Akár hiszed, akár nem, ez a trükk nagyon közel áll a [Jobb, közép, bal](#jobb-kozep-bal) figurához. Miközben azt csinálod az egyik kezed nem dolgozik, csak tartja a labdát. Mindössze annyit kell tenned, hogy ezt a lustálkodó kezet átdugod a másik alatt (de ne dobd el a labdát belőle!), aztán amikor rákerül a sor, gyorsan visszahúzod és folytatod mintha misem történt volna. Ha ügyesen csinálod, nagyon hasonlítani fog a [Mills messben](#mills-mess) megismert oda-vissza forgáshoz.
 
 
-# <a name="alap-423"></a>Alap 423
+# <a name="/hu/alap-423"></a>Alap 423
 
 ![423](/videos/mp4/423.mp4)
 
 A trükköt siteswap kódja alapján neveztem el. A mintából  kis módosítással sok más trükk is származtatható. Ugyanebben a sorrendben dobálva (ugyanezzel a siteswap kóddal), de más pályán vezetve a labdákat, teljesen más figurákat kaphatunk, például: [jobb, közép, bal](#jobb-kozep-bal), [W](#w), [Kiragadás](#kiragadas), [Ál mess](#al-mess) …
 
 
-# <a name="atadas-a-hat-mogott"></a>Átadás a hát mögött
+# <a name="/hu/atadas-a-hat-mogott"></a>Átadás a hát mögött
 
 ![behindtheback](/videos/mp4/behindtheback.mp4)
 
 Először zsonglőrködés nélkül gyakorold be a hát mögötti dobást. Élesben arra kell majd figyelned, hogy amint elkapod a labdát, rögtön indulj el vele a hátad mögé, különben nem lesz időd befejezni a mozdulatot a következő labda érkezéséig.
 
 
-# <a name="atadas-felul-2"></a>Átadás felül
+# <a name="/hu/atadas-felul-2"></a>Átadás felül
 
 ![cluboverthetop](/videos/mp4/cluboverthetop.mp4)
 
 Az egyik buzogányt a többi fölött dobd át, kapd el a másik kezeddel, és folytasd a zsonglőrködést.
 
-# <a name="atadas-felul"></a>Átadás felül
+# <a name="/hu/atadas-felul"></a>Átadás felül
 
 ![overthetop](/videos/mp4/overthetop.mp4)
 
@@ -208,14 +208,14 @@ Ezt a trükköt a [Kaszkád](#kaszkad) közben lehet "bedobni".
 Zsonglőrködés közben az egyik labdát felül dob át a szokásos alsó dobás helyett! Az időzítés és minden más marad ugyanaz, csak ennyi a különbség. Szebben néz ki, ha a kicsit kijjebb viszed a kezed és laposabban dobod át a labdát a többi fölött.
 
 
-# <a name="boston-mess"></a>Boston mess
+# <a name="/hu/boston-mess"></a>Boston mess
 
 ![bostonmess](/videos/mp4/bostonmess.mp4)
 
 A trükk Fél Boston mess néven is ismert. Az egyik kéz végig felül marad és egyenesen felfelé dobálja a labdákat, amikor mindhármat feldobta, elkezdi előről.
 
 
-# <a name="bumerang-befottesgumibol"></a>Bumeráng befőttesgumiból
+# <a name="/hu/bumerang-befottesgumibol"></a>Bumeráng befőttesgumiból
 
 Nem zsonglőr trükk, de nagyon népszerű a zsonglőrtalálkozókon (legalábbis ahol eddig jártam). Sajnos nincs felvételem róla, mert a befőttes gumik idehaza pont olyan színűek, mint a padló… A trükk lényege, hogy ellövünk egy befőttes gumit, ami aztán bumeráng módjára visszagurul a földön.
 
@@ -230,42 +230,42 @@ Most, miközben lenyomod a mutatóujjadat, vidd előre a hüvelykujjadat amíg a
 Nekem egy óra alatt sikerült megtanulni, de utána nagyon fájt a kezem: ez a gyakorlat minden bizonnyal olyan izmokat igényel, amit semmi másra sem használunk. Egy jó tanács: friss befőttes gumit használj, a kinyúltak nem jók. Kezdetben valószínűleg elhasználsz párat azzal, hogy az ujjadon próbálgatod, és amikor végre sikerül ellőni, nem gurulnak vissza. Kitartás!
 
 
-# <a name="burkes-barrage"></a>Burke's Barrage
+# <a name="/hu/burkes-barrage"></a>Burke's Barrage
 
 ![burkesbarrage](/videos/mp4/burkesbarrage.mp4)
 
 Ez a trükk nagyon hasonlít a [Kiragadáshoz](#kiragadas). A különbség az, hogy míg ott a kiragadott labdát körbe vezetjük a minta külső ívén, itt a másik két labda **között** húzzuk át.
 
 
-# <a name="doboz"></a>Doboz
+# <a name="/hu/doboz"></a>Doboz
 
 ![box](/videos/mp4/box.mp4)
 
 A doboznál két labda mozog függőlegesen felváltva, egy pedig alul vízszintesen. Sajnos hajlamos vagyok arra, hogy az alsó labdát a dobás helyett átadjam egyik kezemből a másikba, ami egyáltalán nem szép. Jól gyakorold be a vízszintes dobást!
 
 
-# <a name="drop-box"></a>Drop box
+# <a name="/hu/drop-box"></a>Drop box
 
 ![dropbox](/videos/mp4/dropbox.mp4)
 
 Ez a [Doboz](#doboz) egy variációja. A vízszintesen mozgó labda nem alul halad, hanem az egyik oldalon a függőlegesen mozgó labda fölött.
 
 
-# <a name="dugattyuk"></a>Dugattyúk
+# <a name="/hu/dugattyuk"></a>Dugattyúk
 
 ![fourpistons](/videos/mp4/fourpistons.mp4)
 
 Először tanuld meg az [Oszlopok](#oszlopok) figurát mindkét kezeddel, aztán próbáld egyszerre mindkét oldalon…
 
 
-# <a name="dupla-jojo"></a>Dupla jojó
+# <a name="/hu/dupla-jojo"></a>Dupla jojó
 
 ![doubleyoyo](/videos/mp4/doubleyoyo.mp4)
 
  [Jojózz](#jojo) egyet valamelyik oldalon, aztán – mintha a két labda össze lenne kötve -, húzd át őket alul és jojózz a másik oldalon is.
 
 
-# <a name="duplazas"></a>Duplázás
+# <a name="/hu/duplazas"></a>Duplázás
 
 ![clubdoubles](/videos/mp4/clubdoubles.mp4)
 
@@ -276,21 +276,21 @@ A [Kaszkád](#kaszkad-2) után nekiláthatsz a duplázás elsajátításának. F
 Duplázáskor egyszerűen magasabbra kell dobni a buzogányt. Nem kell jobban megpörgetni, csak egy kicsit magasabbra dobni. Mivel így hosszabb ideig van a levegőben, többet is pörög.
 
 
-# <a name="egyet-fel-kettot-fel-hopp"></a>Egyet fel, kettőt fel – hopp
+# <a name="/hu/egyet-fel-kettot-fel-hopp"></a>Egyet fel, kettőt fel – hopp
 
 ![oneuptwouphops](/videos/mp4/oneuptwouphops.mp4)
 
 Először tanuld meg az [Egyet fel, kettőt fel – mérleg](#egyet-fel-kettot-fel-merleg) trükköt! Ezután a középső labdát próbáld meg úgy dobni, hogy átugorjon egy labdát, aztán a másikat és ugyanígy visszafelé…
 
 
-# <a name="egyet-fel-kettot-fel-koszoru"></a>Egyet fel, kettőt fel – koszorú
+# <a name="/hu/egyet-fel-kettot-fel-koszoru"></a>Egyet fel, kettőt fel – koszorú
 
 ![oneuptwoupshower](/videos/mp4/oneuptwoupshower.mp4)
 
 Egy másik [egyet fel, kettőt fel](#egyet-fel-kettot-fel-merleg) trükk. Az első labdát úgy dobd mint a [Koszorúnál](#koszoru), megkerülve a másik kettőt.
 
 
-# <a name="egyet-fel-kettot-fel-merleg"></a>Egyet fel, kettőt fel – mérleg
+# <a name="/hu/egyet-fel-kettot-fel-merleg"></a>Egyet fel, kettőt fel – mérleg
 
 ![oneuptwoup](/videos/mp4/oneuptwoup.mp4)
 
@@ -299,42 +299,42 @@ Miközben az egyik kezedben két labdát dobálsz egymás mellett [oszlopban](#o
 Ha már megtanultad a trükköt, a középső labdát elkapó kezet váltogathatod is. Ajánlom figyelmedbe a következő variációkat is: [Egyet fel, kettőt fel – tenisz](#egyet-fel-kettot-fel-tenisz), [Egyet fel, kettőt fel – hopp](#egyet-fel-kettot-fel-hopp), [Szivárvány](#szivarvany)
 
 
-# <a name="egyet-fel-kettot-fel-tenisz"></a>Egyet fel, kettőt fel – tenisz
+# <a name="/hu/egyet-fel-kettot-fel-tenisz"></a>Egyet fel, kettőt fel – tenisz
 
 ![oneuptwouptennis](/videos/mp4/oneuptwouptennis.mp4)
 
 Ha már tudod az [Egyet fel, kettőt fel – mérleg](#egyet-fel-kettot-fel-merleg) trükköt, érdemes megtanulni a középső labdát a másik kettő fölött átdobni.
 
 
-# <a name="egyet-fel-kettot-fel-vegtelen"></a>Egyet fel, kettőt fel – végtelen
+# <a name="/hu/egyet-fel-kettot-fel-vegtelen"></a>Egyet fel, kettőt fel – végtelen
 
 ![oneuptwoupinfinity](/videos/mp4/oneuptwoupinfinity.mp4)
 
 Ebben az [egyet fel, kettőt fel](#egyet-fel-kettot-fel-merleg) trükkben az első labdát egy végtelen jelet (fektetett nyolcast) formáló úton vezesd a másik két labda körül.
 
 
-# <a name="elkapas-a-hat-mogott"></a>Elkapás a hát mögött
+# <a name="/hu/elkapas-a-hat-mogott"></a>Elkapás a hát mögött
 
 ![behindthebackcatch](/videos/mp4/behindthebackcatch.mp4)
 
 Először csak az elkapást gyakorold, zsonglőrködés nélkül. Nem olyan nehéz mint amilyennek tűnik… A lényeg, hogy az utolsó pillanatig kövesd a szemeddel a labda mozgását. Ahogy zsonglőrködés közben se a kezedet nézed, a hátad mögött is el tudod kapni a labdát: a kezed tudni fogja hová kell nyúlnia. (Oké, egy kis gyakorlás nem árt… – a ford.)
 
 
-# <a name="fel-mess"></a>Fél mess
+# <a name="/hu/fel-mess"></a>Fél mess
 
 ![halfmess](/videos/mp4/halfmess.mp4)
 
 Induljunk ki egy [Fordított kaszkádból](#forditott-kaszkad), aztán hirtelen az egyik labdát a [kezed alatt](#kez-alatt) dobd át, és ezzel kapd is el a következőt (még mindig a másik kezed alatt tartva)! végül megint egy [felső dobás](#atadas-felul) jön, amivel körbe is értünk: már csak ismételni kell.
 
 
-# <a name="forditott-kaszkad-keresztezett-kezzel"></a>Fordított kaszkád, keresztezett kézzel
+# <a name="/hu/forditott-kaszkad-keresztezett-kezzel"></a>Fordított kaszkád, keresztezett kézzel
 
 ![crossedreversecascade](/videos/mp4/crossedreversecascade.mp4)
 
 Ugyanaz mint a [Fordított kaszkád](#forditott-kaszkad)  [](trukkok/harom-labda/kaszkad/forditott-kaszkad/), csak keresztbe tett kézzel :)
 
 
-# <a name="forditott-kaszkad"></a>Fordított kaszkád
+# <a name="/hu/forditott-kaszkad"></a>Fordított kaszkád
 
 ![reversecascade](/videos/mp4/reversecascade.mp4)
 
@@ -343,14 +343,14 @@ Nagyon szép kaszkád variáció, egyesek szerint kényelmesebb csinálni mint a
 Mielőtt belekezdenél tanulásába, tanuld meg és gyakorold be az [Átadás felül](#atadas-felul), a [Tenisz](#tenisz) és a ["Majdnem" koszorú](#majdnem-koszoru) figurákat. A fordított kaszkád tulajdonképpen folyamatos felső átadást jelent, mindkét kezéből. Dobáskor ne a tested túloldalát célozd meg, hanem a középvonalát, hiszen most a fogadó oldalról is felül fogsz dobni, és összeakadnának a labdák a levegőben…
 
 
-# <a name="forditott-koszoru"></a>Fordított koszorú
+# <a name="/hu/forditott-koszoru"></a>Fordított koszorú
 
 ![invertedshower](/videos/mp4/invertedshower.mp4)
 
 Egyszerű: valami ilyesmit kell csinálni… Na jó, ez egy elég nehéz mutatvány… Könnyebb ha a labdákat felülről kapod el, de az takarja a nézők elől. Én időnként elütöm a labdát a csuklómmal, amikor visszahúzom a kezem felül. Ha szeretnél valami ilyesmit bemutatni, de ezt nehéznek találod, próbálkozhatsz az [Ingával](#inga) is.
 
 
-# <a name="gurulo-labda"></a>Guruló labda
+# <a name="/hu/gurulo-labda"></a>Guruló labda
 
 ![rolloffhead](/videos/mp4/rolloffhead.mp4)
 
@@ -361,35 +361,35 @@ Nagyobb precizitást igényel, de megoldható minden (jobb kezes) labda gurítá
 ![rollalloffhead](/videos/mp4/rollalloffhead.mp4)
 
 
-# <a name="gyar"></a>Gyár
+# <a name="/hu/gyar"></a>Gyár
 
 ![factory](/videos/mp4/factory.mp4)
 
 Mások ezt a trükköt **a gép** néven ismerik. Induljunk ki az [Imitált "egyet fel, kettőt fel"](#imitalt-egyet-fel-kettot-fel) figurából! Amikor a labdát fogó kezed fent van, vidd át egyenesen a túloldalra. Itt ejtsd le a labdát és gyorsan [markold](#marok) meg a felsőt a másik kettőből. Ereszd le a kezed, és kezdheted is elölről!
 
 
-# <a name="hamis-koszoru-jojo"></a>Hamis koszorú – jojó
+# <a name="/hu/hamis-koszoru-jojo"></a>Hamis koszorú – jojó
 
 ![falseshoweryoyo](/videos/mp4/falseshoweryoyo.mp4)
 
 Sajnos nem tudom a nevét ennek a trükknek, de az egyik kedvencem. Lényegében ugyanaz mint a [Hamis koszorú](#hamis-koszoru), kivéve, hogy az egyik kéz lefelé néz, feljebb van és a [Jojóhoz](#jojo) hasonlóan követi az alatta levő labdát.
 
 
-# <a name="hamis-koszoru"></a>Hamis koszorú
+# <a name="/hu/hamis-koszoru"></a>Hamis koszorú
 
 ![falseshower](/videos/mp4/falseshower.mp4)
 
 Mások spirál vagy szélmalom néven ismerik a trükköt. Dobj egy labdát [felül](#atadas-felul), egyet pedig a [kezed alatt](#kez-alatt) ! Az utóbbit kapd el a másik oldalon és húzd vissza, hogy a következő ütemben legyen mit felül dobnod. Akkor igazán szép a trükk, ha a dobások és a mozgatások kör alakú mintát adnak.
 
 
-# <a name="hasogatas"></a>Hasogatás
+# <a name="/hu/hasogatas"></a>Hasogatás
 
 ![chops](/videos/mp4/chops.mp4)
 
 Ez a trükk a [Kaszkád](#kaszkad) egy változata. Kapj el egy labdát a felül – pályája tetején -, és gyorsan húzd át a kezed a másik két labda között. Itt dobd fel a labdát a Kaszkádnál már megszokott módon. Először érdemes egy kézzel gyakorolni, aztán lehet fejlődni…
 
 
-# <a name="igazi-tenisz"></a>Igazi tenisz
+# <a name="/hu/igazi-tenisz"></a>Igazi tenisz
 
 ![realtennis](/videos/mp4/realtennis.mp4)
 
@@ -398,49 +398,49 @@ A [teniszből](#tenisz) úgy lesz igazi tenisz, hogy az alul átadott labdákat 
 Az induláshoz a két labdát tartó kezedből dobj fel egyet belül, aztán gyorsan dobd át a másikat [fölötte](#atadas-felul). A dolgok itt kezdenek érdekessé válni… Dobd fel a másik kezedben levő labdát, és kapd el a felülről érkezőt, majd rögtön dobd is vissza (természetesen ismét felül).
 
 
-# <a name="imitalt-egyet-fel-kettot-fel"></a>Imitált "egyet fel, kettőt fel"
+# <a name="/hu/imitalt-egyet-fel-kettot-fel"></a>Imitált "egyet fel, kettőt fel"
 
 ![fakeoneuptwoup](/videos/mp4/fakeoneuptwoup.mp4)
 
 Az imitált [egyet fel, kettőt fel](#egyet-fel-kettot-fel-merleg) figura lényege, hogy miközben az egyik kezedben két labdával játszol [oszlopban](#oszlopok), a másik kezedben levő labdát nem dobod fel, hanem a kezedben tartva a külső labdát követve mozgatod fel-le.
 
 
-# <a name="inditas-a-hat-mogul"></a>Indítás a hát mögül
+# <a name="/hu/inditas-a-hat-mogul"></a>Indítás a hát mögül
 
 ![behindthebackstart](/videos/mp4/behindthebackstart.mp4)
 
 Dobd át mindhárom labdát a hátad mögött! Én az elsőt (az ujjaim felől) dobom a legmagasabbra. Kapd el a két alsó labdát és kezdj el zsonglőrködni… A legjobb ha először magad előtt dobod fel a labdákat, ha már így el tudod kezdeni, áttérhetsz a hát mögötti dobásra.
 
 
-# <a name="inga"></a>Inga
+# <a name="/hu/inga"></a>Inga
 
 ![pendulum](/videos/mp4/pendulum.mp4)
 
  [Kifelé forgó körrel](#kor-kifele) kezdjük. A harmadik labdát tartsd fel, a könyököd legyen a levegőben, ahogy a filmen is látható. Tanuld meg a másik két labdával szinkronban előre lendíteni ezt a kezet! Ha elkaptad a ritmust, dobd el a kezedben levő labdát amikor éppen fent van egy labda a körben levők közül, azt pedig kapd el miközben visszafelé mozog a kezed.
 
 
-# <a name="jobb-kozep-bal"></a>Jobb, közép, bal
+# <a name="/hu/jobb-kozep-bal"></a>Jobb, közép, bal
 
 ![rightmiddleleft](/videos/mp4/rightmiddleleft.mp4)
 
 Először tanulj meg két labdát egy kézben [egymás mellett](#oszlopok) dobálni. Ha ezt már elég jól begyakoroltad mindkét kezeddel, elég egyszerűnek fogod találni ezt a trükköt is, ugyanis 	itt egyszer a bal kezeddel kell függőlegesen feldobni két labdát, aztán a jobbal, és így tovább felváltva.
 
 
-# <a name="jojo"></a>Jojó
+# <a name="/hu/jojo"></a>Jojó
 
 ![yo-yo](/videos/mp4/yo-yo.mp4)
 
 Mielőtt elkezdenéd a trükköt tanulni, érdemes megtanulni az [Oszlopok](#oszlopok) figurát. Az nagyjából ugyanez a trükk, csak ott nem olyan érdekes, milyen magasakat dobsz	(kevesebb ütközés). Kezdjük tehát két egymás mellett dobált labdával. A másik kéz a harmadik labdát mozgatja a belső labda fölött. Ha jól csinálod, olyan lesz mintha a két labdát egy láthatatlan szál kötné össze.
 
 
-# <a name="kartyakeveres"></a>Kártyakeverés
+# <a name="/hu/kartyakeveres"></a>Kártyakeverés
 
 ![slam](/videos/mp4/slam.mp4)
 
 Kezdd [két labdával egymás mellett](#oszlopok) a bal kezedben. Fogj egy harmadik labdát a jobb kezedbe és tartsd fölöttük! Amikor a belső labda felér a tetőpontra, kövesd lefelé. Engedd el a jobb kezedben levő labdát, és felülről [megmarkolva](#marok) emeld ki a másikat az oszlopból!
 
 
-# <a name="kaszkad-2"></a>Kaszkád
+# <a name="/hu/kaszkad-2"></a>Kaszkád
 
 ![clubcascade](/videos/mp4/clubcascade.mp4)
 
@@ -458,7 +458,7 @@ Van akinek gondot okoz egyszerre két buzogányt fogni. Én valahogy így csiná
 
 ![holdingtwoclubs](/videos/mp4/holdingtwoclubs.mp4)
 
-# <a name="kaszkad-a-fej-folott"></a>Kaszkád a fej fölött
+# <a name="/hu/kaszkad-a-fej-folott"></a>Kaszkád a fej fölött
 
 ![overheadcascade](/videos/mp4/overheadcascade.mp4)
 
@@ -467,14 +467,14 @@ Ez ugyanaz mint a kaszkád, csak a fejed fölött csinálod…
 Én földön fekvés közben tanultam meg, és semmi lényegi különbséget nem érzek a kettő között. A megszokott dobás helyett inkább olyan, mintha	fellöknéd a labdákat a levegőbe.
 
 
-# <a name="kaszkad-karikaval"></a>Kaszkád karikával
+# <a name="/hu/kaszkad-karikaval"></a>Kaszkád karikával
 
 ![ringcascade](/videos/mp4/ringcascade.mp4)
 
 A karikák feldobásakor és elkapásakor a kezed kicsit feljebb tartsd, mint a [labdás kaszkádnál](#kaszkad). Ezt leszámítva, gyakorlatilag ugyanaz a két mutatvány. Ha közönség előtt zsonglőrködsz, fordulj oldalra, hogy jól lássák a karikákat. Szemből gyakorlatilag észrevehetetlenek. :)
 
 
-# <a name="kaszkad-lepesrol-lepesre"></a>Kaszkád – lépésről lépésre
+# <a name="/hu/kaszkad-lepesrol-lepesre"></a>Kaszkád – lépésről lépésre
 
 A zsonglőrködés egyáltalán nem olyan ördöngösség, mint amilyennek látszik. Ha már láttál zsonglőrt biztosan ismered a [kaszkád](#kaszkad) figurát. A kaszkádot bárki megtanulhatja pár nap alatt, csak egy kis türelemre és kitartásra van szükség hozzá.
 
@@ -510,7 +510,7 @@ Vannak olyanok is, akik "elfelejtik" eldobni a labdát, egyszerűen csak elkapj�
 ![cascadehigh](/videos/mp4/cascadehigh.mp4)
 
 
-# <a name="kaszkad-ot-labdaval"></a>Kaszkád öt labdával
+# <a name="/hu/kaszkad-ot-labdaval"></a>Kaszkád öt labdával
 
 ![fiveballcascade](/videos/mp4/fiveballcascade.mp4)
 
@@ -529,7 +529,7 @@ Tanácsok az első lépésekhez:
  ![img](/images/holding5.jpg)
 
 
-# <a name="kaszkad"></a>Kaszkád
+# <a name="/hu/kaszkad"></a>Kaszkád
 
 ![cascade](/videos/mp4/cascade.mp4)
 
@@ -538,35 +538,35 @@ Kezdetben sokan előre dobják a labdákat, mert még nem tanulták meg őket fe
 Mivel feltehetőleg ezt a trükköt fogod először megtanulni, készítettünk egy hosszabb [leírást](#kaszkad-lepesrol-lepesre) is hozzá.
 
 
-# <a name="kerge-hold"></a>Kerge hold
+# <a name="/hu/kerge-hold"></a>Kerge hold
 
 ![orbit](/videos/mp4/orbit.mp4)
 
 Induljunk ki egy [kifelé forgó körből](#kor-kifele). A harmadik labda soha nem hagyja el a kezed, csak megkerüli az éppen felül levőt.
 
 
-# <a name="keringo-jojo"></a>Keringő jojó
+# <a name="/hu/keringo-jojo"></a>Keringő jojó
 
 ![yo-yoorbit](/videos/mp4/yo-yoorbit.mp4)
 
 A [Kör kifelé](#kor-kifele) és a [Jojó](#jojo) figurák kombinációja. Kezdd egy kifelé forgó körrel, és kövesd az egyik labdát a kezeddel!
 
 
-# <a name="ketoldali-jojo"></a>Kétoldali jojó
+# <a name="/hu/ketoldali-jojo"></a>Kétoldali jojó
 
 ![yo-yobothsides](/videos/mp4/yo-yobothsides.mp4)
 
 Erről nem sokat tudok mondani. Csak próbálgasd…
 
 
-# <a name="kez-alatt"></a>Kéz alatt
+# <a name="/hu/kez-alatt"></a>Kéz alatt
 
 ![underthearm](/videos/mp4/underthearm.mp4)
 
 Dobj át egy labdát a kezed alatt. Mi mást is mondhatnék?
 
 
-# <a name="kiragadas"></a>Kiragadás
+# <a name="/hu/kiragadas"></a>Kiragadás
 
 ![takeouts](/videos/mp4/takeouts.mp4)
 
@@ -575,14 +575,14 @@ A legfontosabb ennél a figuránál, hogy ne akard megérteni… [kaszkáddal](#
   Nekem úgy sikerült a trükköt megtanulni, hogy először begyakoroltam két labdát egymás mellett dobálni a kezem alatt. Amikor ez már jól ment, a felső kezemben tétlenkedő labdát próbáltam átemelni a másik kettő fölött. – A fordító megjegyzése
 
 
-# <a name="kor-befele"></a>Kör befelé
+# <a name="/hu/kor-befele"></a>Kör befelé
 
 ![twoinoneinside](/videos/mp4/twoinoneinside.mp4)
 
 A labdák körben haladnak a tested középvonala felé.   Ügyelj arra, hogy a kör párhuzamos legyen a mellkasoddal, a kezed pedig oldalirányban mozogjon, ne előre-hátra! (Ha már jól megy az ügyesebb kezeddel, tanuld meg a másikkal is! – a ford.)
 
 
-# <a name="kor-kifele"></a>Kör kifelé
+# <a name="/hu/kor-kifele"></a>Kör kifelé
 
 ![twoinoneoutside](/videos/mp4/twoinoneoutside.mp4)
 
@@ -590,7 +590,7 @@ A labdák körben haladnak, belülről indítva az oldalad felé.   Ügyelj arra
 Ha [négy labdával](#szokokut-negy-labdaval-aszinkron) is akarsz zsonglőrködni, mindkét kezeddel nagyon jól kell tudnod ezt a trükköt.
 
 
-# <a name="koszoru"></a>Koszorú
+# <a name="/hu/koszoru"></a>Koszorú
 
 ![shower](/videos/mp4/shower.mp4)
 
@@ -599,34 +599,34 @@ Ez az a trükk, amit a legtöbben elkezdenek próbálgatni, amikor zsonglőrköd
 Kétféle dobást kell megtanulnod. A jobb kezedből magasan, ívesen kell dobni, a balból pedig vízszintesen. Fogj két labdát a jobb kezedbe, egyet a másikba! Dobd fel az egyiket a jobb kezedből. Ezután minden ütemben két labdát kell eldobni: egyet jobbról, egyet balról.
 
 
-# <a name="lab-alatt-2"></a>Láb alatt
+# <a name="/hu/lab-alatt-2"></a>Láb alatt
 
 ![clubunderleg](/videos/mp4/clubunderleg.mp4)
 
 Ez a trükk buzogánnyal is olyan könnyű, mint a [labdákkal](#lab-alatt) volt. A legfontosabb itt is az, hogy amint elkapod a buzogányt, indulj el vele a lábad felé. Nem szabad várni, amíg a dobásra kerül a sor. Ha nem vagy elég hajlékony :), a buzogányt a végénél fogd meg, így kicsit könnyebb a lábad alatt átlendíteni.
 
 
-# <a name="lab-alatt"></a>Láb alatt
+# <a name="/hu/lab-alatt"></a>Láb alatt
 
 ![undertheleg](/videos/mp4/undertheleg.mp4)
 
 A trükk lényege, hogy amint elkapod a labdát, rögtön kezdj a lábad felé közelíteni. Ha ugyanis túl sokat vársz, nem lesz időd a dobásra, mielőtt a következő labda megérkezik.
 
 
-# <a name="labda-elkapasa-nyakkal"></a>Labda elkapása nyakkal…
+# <a name="/hu/labda-elkapasa-nyakkal"></a>Labda elkapása nyakkal…
 
 ![neckcatch](/videos/mp4/neckcatch.mp4)
 
 Dobj egy labdát egy kicsit magasabbra mint általában! Figyeld a mozgását ameddig csak lehet, majd az utolsó pillanatban hajolj előre és próbáld meg a nyakaddal elkapni! A trükk kulcsa, hogy a lehető legtovább nézd a labdát… Nem szeretem ahogy a kezeim állnak ezen a videón, de az embernek fel kell emelni a fejét és a vállát ahhoz, hogy a leeső labdának megfelelő "leszállópályája" legyen a hátán. Először babzsákkal érdemes próbálkozni, hogy ne kelljen annyit keresgélni az elgurult ladákat…
 
-# <a name="majdnem-koszoru-2"></a>"Majdnem" koszorú
+# <a name="/hu/majdnem-koszoru-2"></a>"Majdnem" koszorú
 
 ![clubhalfshower](/videos/mp4/clubhalfshower.mp4)
 
 A labdákhoz hasonlóan, a "Majdnem" koszorú előfeltétele itt is az [Átadás felül](#atadas-felul-2) biztos ismerete. A trükk mindössze annyiból áll, hogy az egyik irányba folyamatosan felül dobjuk a buzogányt. Ennél a dobásnál a buzogányt egészen végén, a csomónál fogom meg.
 
 
-# <a name="majdnem-koszoru"></a>"Majdnem" koszorú
+# <a name="/hu/majdnem-koszoru"></a>"Majdnem" koszorú
 
 ![halfshower](/videos/mp4/halfshower.mp4)
 
@@ -634,7 +634,7 @@ Ha már elég jól megy az [Átadás felül](#atadas-felul)  [](trukkok/harom-la
 Csak annyi a különbség, hogy egyik irányban mindig felül kell dobni a labdát.
 
 
-# <a name="marok"></a>Marok
+# <a name="/hu/marok"></a>Marok
 
 ![clawing](/videos/mp4/clawing.mp4)
 
@@ -643,7 +643,7 @@ A trükk lényege, hogy a labdákat nem alulról, hanem tenyérrel lefelé – f
 ![clawingbothhands](/videos/mp4/clawingbothhands.mp4)
 
 
-# <a name="megforditva"></a>Megfordítva
+# <a name="/hu/megforditva"></a>Megfordítva
 
 ![clubbackflip](/videos/mp4/clubbackflip.mp4)
 
@@ -652,7 +652,7 @@ A normál [kaszkád dobás](#kaszkad-2) helyett, a buzogányt fordítva pörgetj
 ![clubbackflip-side](/videos/mp4/clubbackflip-side.mp4)
 
 
-# <a name="mills-mess"></a>Mills mess
+# <a name="/hu/mills-mess"></a>Mills mess
 
 ![millsmess](/videos/mp4/millsmess.mp4)
 
@@ -675,49 +675,49 @@ Ha már elég gyakorlott vagy, jöhet a két mozdulatsor összekötése. Ez elő
 Visszatérve az utolsó videóra láthatod, hogy a végén a felső kézben egy labda van. A következő feladat, hogy amikor ezt a labdát elkapod, dobd vissza. Ez a dobás ugyanolyan lesz mint a legelső dobás volt, csak a másik kezeddel és a másik irányba. (Na ezért kellett begyakorolni mindkettőt.) Innentől ugyanúgy kell folytatni, mint először, csak most mindent fordítva csinálunk. Arra figyelj, hogy amikor a kezeid keresztben vannak, a felső kézből dobd át a labdát a másik oldalra, aztán szét a kezeket és kézcsere (a másik legyen felül). Próbáld a két felső labdát jól dobni, és reménykedjünk, hogy a harmadik köben megtalálja az utat alul…
 
 
-# <a name="mindket-lab-alatt"></a>Mindkét láb alatt
+# <a name="/hu/mindket-lab-alatt"></a>Mindkét láb alatt
 
 ![clubunderbothlegs](/videos/mp4/clubunderbothlegs.mp4)
 
 Ha már megy a [láb alatti dobás](#lab-alatt-2), ez lehet a következő lépés.
 
 
-# <a name="ojoj"></a>Ójoj
+# <a name="/hu/ojoj"></a>Ójoj
 
 ![oy-oy](/videos/mp4/oy-oy.mp4)
 
 Az Ójoj egy felfordított [Jojó](#jojo).
 
 
-# <a name="oszlopok-negy-labdaval"></a>Oszlopok négy labdával
+# <a name="/hu/oszlopok-negy-labdaval"></a>Oszlopok négy labdával
 
 ![fourcolumns](/videos/mp4/fourcolumns.mp4)
 
 Ez a trükk nagyon hasonlít az [Egyet fel, kettőt fel – mérleg](#egyet-fel-kettot-fel-merleg) figurára, kivéve, hogy az "egyet fel" itt most "kettőt fel" jelent.
 
 
-# <a name="oszlopok"></a>Oszlopok
+# <a name="/hu/oszlopok"></a>Oszlopok
 
 ![twoinonecolumns](/videos/mp4/twoinonecolumns.mp4)
 
 A labdák egymás mellett haladnak, párhuzamosan.   Figyelj arra, hogy a kezed csak oldalra mozogjon, ne előre-hátra!
 
 
-# <a name="pingvin"></a>Pingvin
+# <a name="/hu/pingvin"></a>Pingvin
 
 ![penguincatches](/videos/mp4/penguincatches.mp4)
 
 A pingvin lényege, hogy a labdákat a kezedet hátrafordítva kapod el. (A mozdulat ugyanaz, mint a hát mögötti elkapásnál.)
 
 
-# <a name="swoop"></a>Swoop
+# <a name="/hu/swoop"></a>Swoop
 
 ![swoop](/videos/mp4/swoop.mp4)
 
 Induljunk ki [két egymás mellett](#oszlopok) dobált labdából! A harmadik labdát emeld a fejed fölé, ahogy a filmen látszik! Amikor a másik oszlop felér a tetőpontra, engedd el a labdát, és [kapd el](#marok) a másikat. Figyeld meg, hogy a középső labda végig a saját oszlopában marad! A fent elkapott labdát ereszd le, majd dobd fel egyenesen! Egyszerűbb mint ahogy hangzik…
 
 
-# <a name="szetvalo-labdak"></a>Szétváló labdák
+# <a name="/hu/szetvalo-labdak"></a>Szétváló labdák
 
 ![fiveballsplits](/videos/mp4/fiveballsplits.mp4)
 
@@ -730,28 +730,28 @@ Nézzük apránként:
 - Most a jobb kezedből dobj fel két labdát ugyanígy, és ezzel körbe is értünk…
 
 
-# <a name="szivarvany"></a>Szivárvány
+# <a name="/hu/szivarvany"></a>Szivárvány
 
 ![rainbowcross](/videos/mp4/rainbowcross.mp4)
 
 A szivárvány az [Egyet fel, kettőt fel – mérleg](#egyet-fel-kettot-fel-merleg) figura egyszerű variációja. Ahelyett, hogy a két külső labdát felfelé dobod, dobd őket át a másik kezedbe. Az egyetlen probléma az lehet, hogy összeütköznek a labdák. Én mindig a jobb kezemből induló labdát dobom felül, de vannak olyanok is, akik nem egymás fölött, hanem egymás előtt dobják a labdákat.
 
 
-# <a name="szokokut-negy-labdaval-aszinkron"></a>Szökőkút négy labdával (aszinkron)
+# <a name="/hu/szokokut-negy-labdaval-aszinkron"></a>Szökőkút négy labdával (aszinkron)
 
 ![fourasynchronous](/videos/mp4/fourasynchronous.mp4)
 
 Mielőtt a trükköt megtanulhatnád, mindkét kezeddel jól be kell gyakorolnod a [Kör kifelé](#kor-kifele) figurát. Fogj két-két labdát mindkét kezedbe! Dobj fel egyet az egyik oldalról, majd amikor eléri a pályája csúcsát dobj egyet a másikról. Közben az első labda már majdnem leesett, így itt az idő kicserélni a kezedben levővel. Végül a negyedik labda indul a másik kezedből. Mindkét kézben körbe haladnak a labdák, és soha nem cserélnek kezet!
 
 
-# <a name="szokokut-negy-labdaval-szinkron"></a>Szökőkút négy labdával (szinkron)
+# <a name="/hu/szokokut-negy-labdaval-szinkron"></a>Szökőkút négy labdával (szinkron)
 
 ![foursynchronous](/videos/mp4/foursynchronous.mp4)
 
 Mielőtt a trükköt megtanulhatnád, mindkét kezeddel be kell gyakorolnod [Kör kifelé](#kor-kifele) figurát. Fogj két-két labdát mindkét kezedbe! Ebben a trükkben mindkét oldalról egyszerre indulnak a labdák, ezen kívül csak csináld ugyanazt, amit a két labdás figuránál. Figyeld meg, hogy a labdák nem cserélnek kezet!
 
 
-# <a name="tenisz"></a>Tenisz
+# <a name="/hu/tenisz"></a>Tenisz
 
 ![tennis](/videos/mp4/tennis.mp4)
 
@@ -760,28 +760,28 @@ A tenisz az [Átadás felül](#atadas-felul) egy variációja.
 Először dobj át egy labdát a többi fölött, aztán amikor megint erre a labdára kerül a sor, ne alul, hanem felül dobd vissza. Ezentúl ez a labda mindig a társai fölött utazik jobbra-balra… Itt is ugyanazt tanácsolom mint a felső átadásnál:	a trükk jobban néz ki, ha egy kicsit kijjebb visszed a kezed dobás előtt, így a labda egy kicsit laposabb íven repül.
 
 
-# <a name="villa"></a>Villa
+# <a name="/hu/villa"></a>Villa
 
 ![forkcatch](/videos/mp4/forkcatch.mp4)
 
 Ezzel a trükkel el tudsz kapni egy labdát kezed hátulján. Feszítsd ki a mutató- és a középső ujjadat, és hagyd hogy a labda belessen az így kialakított "villába". Van aki a mutató mellett a gyűrűs ujját használja, a középső ujját pedig egy kicsit lejjebb engedi. (Én is így csinálom a videón.) Az ütközés erejét csillapíthatod, ha a beérkezéskor kicsit lejjebb viszed a kezed – követve a labda haladási irányát. A lényeg, hogy ne pattanjon le a kezedről…
 
 
-# <a name="villanas"></a>Villanás
+# <a name="/hu/villanas"></a>Villanás
 
 ![flash](/videos/mp4/flash.mp4)
 
 A villanás közben **mindhárom** labda a levegőben van. Dobd fel a labdákat gyors egymásutánban a levegőbe, és próbálj meg tapsolni, hogy megbizonyosodj: tényleg üres a kezed. Ez az öt labdával való zsonglőrködés első lépése. Ott egyszerre hármat kell a levegőben tartani, amikor pedig leesik egy, egy másik indul fel helyette.
 
 
-# <a name="w"></a>W
+# <a name="/hu/w"></a>W
 
 ![w](/videos/mp4/w.mp4)
 
 Ez a trükk majdnem azonos a [Jobb, közép, bal](#jobb-kozep-bal) figurával, csak a középső labda nem függőlegesen mozog, hanem jobbra-balra egy szélesebb szakaszon.
 
 
-# <a name="wimpy"></a>Wimpy
+# <a name="/hu/wimpy"></a>Wimpy
 
 ![fourwimpy](/videos/mp4/fourwimpy.mp4)
 
