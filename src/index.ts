@@ -88,7 +88,7 @@ for (let { filn, content } of files(readme)) {
             <link href="//fonts.googleapis.com/css?family=Merriweather&subset=latin" rel="stylesheet" type="text/css">
             <link href="//fonts.googleapis.com/css?family=Francois One&subset=latin" rel="stylesheet" type="text/css">
 
-            <link rel="stylesheet" href="css/awsm.css">
+            <link rel="stylesheet" href="/css/awsm.css">
             <style>
                 * {
                     font-family: 'Merriweather', sans-serif;
