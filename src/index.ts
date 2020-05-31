@@ -68,7 +68,7 @@ const readme = fs.readFileSync("../images/README.md", "utf8");
 
 for (let { filn, content } of files(readme)) {
     const html = md.render(content);
-    const loc = "build/" + filn;
+    const loc = 'build/' + filn + '.html';
     
     if (!fs.existsSync(path.parse(loc).dir)) {
         fs.mkdirSync(path.parse(loc).dir);
@@ -76,7 +76,7 @@ for (let { filn, content } of files(readme)) {
     const en = filn.startsWith('/en/');
     let lang = en ? 'en' : 'hu';
     let title = en ? 'Wildcat Jugglers tutorial' : 'Wildcat Zsonglőr oldalak';
-    let tricks = en ? '<a href="/en">Home</a>' : '<a href="/">Trükkök</a> | <a href="/tortenet.html">Történet</a>';
+    let tricks = en ? '<a href="/en">Home</a>' : '<a href="/">Trükkök</a> | <a href="/tortenet">Történet</a>';
 
     fs.writeFileSync(loc, `
         <!DOCTYPE HTML>
@@ -111,7 +111,7 @@ for (let { filn, content } of files(readme)) {
         </article>
         </main>
         <footer>
-        © 2004-2020 Wildcat Zsonglőr Oldalak | <a href="https://github.com/encse/wildcat/">GitHub</a>
+        © 2004-<script>document.write( new Date().getFullYear() );</script> Wildcat Zsonglőr Oldalak | <a href="https://github.com/encse/wildcat/">GitHub</a>
         </footer>
         </body>
         </html>

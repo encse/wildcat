@@ -1,5 +1,5 @@
 
-# <a name="tortenet.html"></a>Történet
+# <a name="tortenet"></a>Történet
 
 A Wildcat Zsonglőr Oldalak története 2004-re nyúlik vissza. Bizony, az már több mint tíz éve volt… Akkoriban kezdtem zsonglőrködni, amit a főnökömtől és Lukács haveromtól tanultam az irodában. Az első hétvégét gyakorlatilag végigzsonglőrködtem zokniból készült kis labdákkal. Aztán nemsokára megtanultam néggyel is játszani, és akkor vettem magamnak egy garnitúra igazi labdát.
 
@@ -13,7 +13,7 @@ Egy kedves, játékos oldalt akartam csinálni, ezért megkértem egy meseillusz
 
 Sokmindent megtanultam a zsonglőrködésről, és nem utolsó sorban a weboldal készítésről, ezért kétszeresen is szeretem ezt a kis oldalt.
 
-# <a name="index.html"></a>Trükkök
+# <a name="index"></a>Trükkök
 
 A zsonglőrködés alapjait kis türelemmel bárki elsajátíthatja. Persze hosszú évekig tartó gyakorlás kell ahhoz, hogy valakiből profi zsonglőr legyen, de egy-egy trükk elsajátítása mindig újabb lökést ad a következő akadály leküzdéséhez.
 
@@ -23,199 +23,199 @@ Ez az oldal egy amerikai zsonglőr klub (Wildcat Jugglers) honlapjának magyar v
 
 Lássuk, hogy lehet belőled zsonglőr…
 
-- [Kaszkád - lépésről lépésre](#kaszkad-lepesrol-lepesre.html)
+- [Kaszkád - lépésről lépésre](#kaszkad-lepesrol-lepesre)
 
 ## Zsonglőrködés két labdával
 
 Ezek a trükkök magukban is érdekesek, de gyakorlásuk segít az összetettebb 3 labdás zsonglőr trükkökben, és persze a négy labdás zsonglőrködésben is.
 
--  [Kör befelé](#kor-befele.html)
--  [Kör kifelé](#kor-kifele.html)
--  [Oszlopok](#oszlopok.html)
+-  [Kör befelé](#kor-befele)
+-  [Kör kifelé](#kor-kifele)
+-  [Oszlopok](#oszlopok)
 
 ## Zsonglőrködés három labdával
 
 Az alapoktól a középhaladó szintig megtalálsz minden trükköt amire szükséged lehet.
 ### Kaszkád
 
--  [Kaszkád](#kaszkad.html)
--  [Fordított kaszkád](#forditott-kaszkad.html)
--  [Fordított kaszkád, keresztezett kézzel](#forditott-kaszkad-keresztezett-kezzel.html)
--  [Kéz alatt](#kez-alatt.html)
--  [Kaszkád a fej fölött](#kaszkad-a-fej-folott.html)
+-  [Kaszkád](#kaszkad)
+-  [Fordított kaszkád](#forditott-kaszkad)
+-  [Fordított kaszkád, keresztezett kézzel](#forditott-kaszkad-keresztezett-kezzel)
+-  [Kéz alatt](#kez-alatt)
+-  [Kaszkád a fej fölött](#kaszkad-a-fej-folott)
 
 ### Felül
 
--  [Átadás felül](#atadas-felul.html)
--  ["Majdnem" koszorú](#majdnem-koszoru.html)
--  [Tenisz](#tenisz.html)
+-  [Átadás felül](#atadas-felul)
+-  ["Majdnem" koszorú](#majdnem-koszoru)
+-  [Tenisz](#tenisz)
 
 ### Jojó variációk
 
--  [Jojó](#jojo.html)
--  [Ójoj](#ojoj.html)
--  [Dupla jojó](#dupla-jojo.html)
--  [Keringő jojó](#keringo-jojo.html)
--  [Kétoldali jojó](#ketoldali-jojo.html)
--  [Imitált "egyet fel, kettőt fel"](#imitalt-egyet-fel-kettot-fel.html)
+-  [Jojó](#jojo)
+-  [Ójoj](#ojoj)
+-  [Dupla jojó](#dupla-jojo)
+-  [Keringő jojó](#keringo-jojo)
+-  [Kétoldali jojó](#ketoldali-jojo)
+-  [Imitált "egyet fel, kettőt fel"](#imitalt-egyet-fel-kettot-fel)
 
 ### Mills Mess variációk
 
--  [Mills mess](#mills-mess.html)
--  [Hamis koszorú](#hamis-koszoru.html)
--  [Fél mess](#fel-mess.html)
--  [Boston mess](#boston-mess.html)
+-  [Mills mess](#mills-mess)
+-  [Hamis koszorú](#hamis-koszoru)
+-  [Fél mess](#fel-mess)
+-  [Boston mess](#boston-mess)
 
 ### Hát mögötti dobások
 
--  [Elkapás a hát mögött](#elkapas-a-hat-mogott.html)
--  [Átadás a hát mögött](#atadas-a-hat-mogott.html)
--  [Indítás a hát mögül](#inditas-a-hat-mogul.html)
+-  [Elkapás a hát mögött](#elkapas-a-hat-mogott)
+-  [Átadás a hát mögött](#atadas-a-hat-mogott)
+-  [Indítás a hát mögül](#inditas-a-hat-mogul)
 
 ### Trükkös elkapások
 
--  [Marok](#marok.html)
--  [Villa](#villa.html)
--  [Labda elkapása nyakkal…](#labda-elkapasa-nyakkal.html)
--  [Pingvin](#pingvin.html)
+-  [Marok](#marok)
+-  [Villa](#villa)
+-  [Labda elkapása nyakkal…](#labda-elkapasa-nyakkal)
+-  [Pingvin](#pingvin)
 
 ### Egyet fel, kettőt fel trükkök
 
--  [Egyet fel, kettőt fel - mérleg](#egyet-fel-kettot-fel-merleg.html)
--  [Egyet fel, kettőt fel - tenisz](#egyet-fel-kettot-fel-tenisz.html)
--  [Egyet fel, kettőt fel - hopp](#egyet-fel-kettot-fel-hopp.html)
--  [Egyet fel, kettőt fel - végtelen](#egyet-fel-kettot-fel-vegtelen.html)
--  [Egyet fel, kettőt fel - koszorú](#egyet-fel-kettot-fel-koszoru.html)
--  [Szivárvány](#szivarvany.html)
--  [Gyár](#gyar.html)
+-  [Egyet fel, kettőt fel - mérleg](#egyet-fel-kettot-fel-merleg)
+-  [Egyet fel, kettőt fel - tenisz](#egyet-fel-kettot-fel-tenisz)
+-  [Egyet fel, kettőt fel - hopp](#egyet-fel-kettot-fel-hopp)
+-  [Egyet fel, kettőt fel - végtelen](#egyet-fel-kettot-fel-vegtelen)
+-  [Egyet fel, kettőt fel - koszorú](#egyet-fel-kettot-fel-koszoru)
+-  [Szivárvány](#szivarvany)
+-  [Gyár](#gyar)
 
 ### 423 trükkök
 
--  [Alap 423](#alap-423.html)
--  [W](#w.html)
--  [Jobb, közép, bal](#jobb-kozep-bal.html)
--  [Igazi tenisz](#igazi-tenisz.html)
--  [Kiragadás](#kiragadas.html)
--  [Burke's Barrage](#burkes-barrage.html)
--  [Ál mess](#al-mess.html)
+-  [Alap 423](#alap-423)
+-  [W](#w)
+-  [Jobb, közép, bal](#jobb-kozep-bal)
+-  [Igazi tenisz](#igazi-tenisz)
+-  [Kiragadás](#kiragadas)
+-  [Burke's Barrage](#burkes-barrage)
+-  [Ál mess](#al-mess)
 
 ### Koszorú variációk
 
--  [Koszorú](#koszoru.html)
--  [Fordított koszorú](#forditott-koszoru.html)
+-  [Koszorú](#koszoru)
+-  [Fordított koszorú](#forditott-koszoru)
 
 ### Szögletes zsonglőrködés
 
--  [Doboz](#doboz.html)
--  [Drop box](#drop-box.html)
--  [441-es](#441-es.html)
+-  [Doboz](#doboz)
+-  [Drop box](#drop-box)
+-  [441-es](#441-es)
 
 ### Vegyes
 
--  [Guruló labda](#gurulo-labda.html)
--  [Inga](#inga.html)
--  [A fejed körül…](#a-fejed-korul.html)
--  [Hasogatás](#hasogatas.html)
--  [Villanás](#villanas.html)
--  [Láb alatt](#lab-alatt.html)
--  [Swoop](#swoop.html)
--  [Kártyakeverés](#kartyakeveres.html)
--  [Hamis koszorú - jojó](#hamis-koszoru-jojo.html)
--  [Kerge hold](#kerge-hold.html)
+-  [Guruló labda](#gurulo-labda)
+-  [Inga](#inga)
+-  [A fejed körül…](#a-fejed-korul)
+-  [Hasogatás](#hasogatas)
+-  [Villanás](#villanas)
+-  [Láb alatt](#lab-alatt)
+-  [Swoop](#swoop)
+-  [Kártyakeverés](#kartyakeveres)
+-  [Hamis koszorú - jojó](#hamis-koszoru-jojo)
+-  [Kerge hold](#kerge-hold)
 
 ## Zsonglőrködés négy labdával
 
 Ha már jól mennek a két és háromlabdás trükkök, megpróbálkozhatsz négy labdával is zsonglőrködni. Erre a szintre nagyjából két hónap intenzív gyakorlással juthatsz el.
--  [Szökőkút négy labdával (aszinkron)](#szokokut-negy-labdaval-aszinkron.html)
--  [Szökőkút négy labdával (szinkron)](#szokokut-negy-labdaval-szinkron.html)
--  [Oszlopok négy labdával](#oszlopok-negy-labdaval.html)
--  [Dugattyúk](#dugattyuk.html)
--  [Wimpy](#wimpy.html)
+-  [Szökőkút négy labdával (aszinkron)](#szokokut-negy-labdaval-aszinkron)
+-  [Szökőkút négy labdával (szinkron)](#szokokut-negy-labdaval-szinkron)
+-  [Oszlopok négy labdával](#oszlopok-negy-labdaval)
+-  [Dugattyúk](#dugattyuk)
+-  [Wimpy](#wimpy)
 
 ## Zsonglőrködés öt labdával
 
 Fél év zsonglőrködés után érdemes belefogni az öt labdás trükkökbe. Ezek már lényegesen nehezebbek, és csak kitartó gyakorlással sajátíthatók el.
--  [Kaszkád öt labdával](#kaszkad-ot-labdaval.html)
--  [Szétváló labdák](#szetvalo-labdak.html)
+-  [Kaszkád öt labdával](#kaszkad-ot-labdaval)
+-  [Szétváló labdák](#szetvalo-labdak)
 
 ## Zsonglőrködés buzogánnyal
 
 A három labdás trükkök után rögtön belevághatsz a buzogányos trükkökbe. Nem árt egy kis változatosság.
--  [Kaszkád](#kaszkad-2.html)
--  [Duplázás](#duplazas.html)
--  ["Majdnem" koszorú](#majdnem-koszoru-2.html)
--  [Átadás felül](#atadas-felul-2.html)
--  [Megfordítva](#megforditva.html)
--  [Láb alatt](#lab-alatt-2.html)
--  [Mindkét láb alatt](#mindket-lab-alatt.html)
+-  [Kaszkád](#kaszkad-2)
+-  [Duplázás](#duplazas)
+-  ["Majdnem" koszorú](#majdnem-koszoru-2)
+-  [Átadás felül](#atadas-felul-2)
+-  [Megfordítva](#megforditva)
+-  [Láb alatt](#lab-alatt-2)
+-  [Mindkét láb alatt](#mindket-lab-alatt)
 
 ## Karika zsonglőrködés
 
 Érdemes a karikákat is kipróbálni.
--  [Kaszkád karikával](#kaszkad-karikaval.html)
+-  [Kaszkád karikával](#kaszkad-karikaval)
 
 ## Miegymás
 
--  [Bumeráng befőttesgumiból](#bumerang-befottesgumibol.html)
+-  [Bumeráng befőttesgumiból](#bumerang-befottesgumibol)
 
  ![img](/images/dobol-macska.png)
 
-# <a name="441-es.html"></a>441-es
+# <a name="441-es"></a>441-es
 
 ![441](videos/mp4/441.mp4)
 
-A 441 egy siteswap kód. Dobj [körbe](#kor-kifele.html) két labdát az egyik kezedben majd egyet vízszintesen a másik kezedbe. Itt újra kettőt körben, aztán vissza vízszintesen. A vízszintes dobás ugyanaz mint a [Kaszkád](#kaszkad.html) és a [Koszorú](#koszoru.html) figuráknál.
+A 441 egy siteswap kód. Dobj [körbe](#kor-kifele) két labdát az egyik kezedben majd egyet vízszintesen a másik kezedbe. Itt újra kettőt körben, aztán vissza vízszintesen. A vízszintes dobás ugyanaz mint a [Kaszkád](#kaszkad) és a [Koszorú](#koszoru) figuráknál.
 
-# <a name="a-fejed-korul.html"></a>A fejed körül…
+# <a name="a-fejed-korul"></a>A fejed körül…
 
 ![aroundhead](/videos/mp4/aroundhead.mp4)
 
-A trükk nagyon hasonlít az [Ingára](#inga.html). Alapja egy [kifelé forgó kör](#kor-kifele.html). A lényeg, hogy amikor a labda megkerüli a fejed, engedd el és kapd el azt a másik kettőből, amelyik éppen fent van.
+A trükk nagyon hasonlít az [Ingára](#inga). Alapja egy [kifelé forgó kör](#kor-kifele). A lényeg, hogy amikor a labda megkerüli a fejed, engedd el és kapd el azt a másik kettőből, amelyik éppen fent van.
 
-# <a name="al-mess.html"></a>Ál mess
+# <a name="al-mess"></a>Ál mess
 
 ![fakemess](/videos/mp4/fakemess.mp4)
 
-Akár hiszed, akár nem, ez a trükk nagyon közel áll a [Jobb, közép, bal](#jobb-kozep-bal.html) figurához. Miközben azt csinálod az egyik kezed nem dolgozik, csak tartja a labdát. Mindössze annyit kell tenned, hogy ezt a lustálkodó kezet átdugod a másik alatt (de ne dobd el a labdát belőle!), aztán amikor rákerül a sor, gyorsan visszahúzod és folytatod mintha misem történt volna. Ha ügyesen csinálod, nagyon hasonlítani fog a [Mills messben](#mills-mess.html) megismert oda-vissza forgáshoz.
+Akár hiszed, akár nem, ez a trükk nagyon közel áll a [Jobb, közép, bal](#jobb-kozep-bal) figurához. Miközben azt csinálod az egyik kezed nem dolgozik, csak tartja a labdát. Mindössze annyit kell tenned, hogy ezt a lustálkodó kezet átdugod a másik alatt (de ne dobd el a labdát belőle!), aztán amikor rákerül a sor, gyorsan visszahúzod és folytatod mintha misem történt volna. Ha ügyesen csinálod, nagyon hasonlítani fog a [Mills messben](#mills-mess) megismert oda-vissza forgáshoz.
 
 
-# <a name="alap-423.html"></a>Alap 423
+# <a name="alap-423"></a>Alap 423
 
 ![423](/videos/mp4/423.mp4)
 
-A trükköt siteswap kódja alapján neveztem el. A mintából  kis módosítással sok más trükk is származtatható. Ugyanebben a sorrendben dobálva (ugyanezzel a siteswap kóddal), de más pályán vezetve a labdákat, teljesen más figurákat kaphatunk, például: [jobb, közép, bal](#jobb-kozep-bal.html), [W](#w.html), [Kiragadás](#kiragadas.html), [Ál mess](#al-mess.html) …
+A trükköt siteswap kódja alapján neveztem el. A mintából  kis módosítással sok más trükk is származtatható. Ugyanebben a sorrendben dobálva (ugyanezzel a siteswap kóddal), de más pályán vezetve a labdákat, teljesen más figurákat kaphatunk, például: [jobb, közép, bal](#jobb-kozep-bal), [W](#w), [Kiragadás](#kiragadas), [Ál mess](#al-mess) …
 
 
-# <a name="atadas-a-hat-mogott.html"></a>Átadás a hát mögött
+# <a name="atadas-a-hat-mogott"></a>Átadás a hát mögött
 
 ![behindtheback](/videos/mp4/behindtheback.mp4)
 
 Először zsonglőrködés nélkül gyakorold be a hát mögötti dobást. Élesben arra kell majd figyelned, hogy amint elkapod a labdát, rögtön indulj el vele a hátad mögé, különben nem lesz időd befejezni a mozdulatot a következő labda érkezéséig.
 
 
-# <a name="atadas-felul-2.html"></a>Átadás felül
+# <a name="atadas-felul-2"></a>Átadás felül
 
 ![cluboverthetop](/videos/mp4/cluboverthetop.mp4)
 
 Az egyik buzogányt a többi fölött dobd át, kapd el a másik kezeddel, és folytasd a zsonglőrködést.
 
-# <a name="atadas-felul.html"></a>Átadás felül
+# <a name="atadas-felul"></a>Átadás felül
 
 ![overthetop](/videos/mp4/overthetop.mp4)
 
-Ezt a trükköt a [Kaszkád](#kaszkad.html) közben lehet "bedobni".
+Ezt a trükköt a [Kaszkád](#kaszkad) közben lehet "bedobni".
 
 Zsonglőrködés közben az egyik labdát felül dob át a szokásos alsó dobás helyett! Az időzítés és minden más marad ugyanaz, csak ennyi a különbség. Szebben néz ki, ha a kicsit kijjebb viszed a kezed és laposabban dobod át a labdát a többi fölött.
 
 
-# <a name="boston-mess.html"></a>Boston mess
+# <a name="boston-mess"></a>Boston mess
 
 ![bostonmess](/videos/mp4/bostonmess.mp4)
 
 A trükk Fél Boston mess néven is ismert. Az egyik kéz végig felül marad és egyenesen felfelé dobálja a labdákat, amikor mindhármat feldobta, elkezdi előről.
 
 
-# <a name="bumerang-befottesgumibol.html"></a>Bumeráng befőttesgumiból
+# <a name="bumerang-befottesgumibol"></a>Bumeráng befőttesgumiból
 
 Nem zsonglőr trükk, de nagyon népszerű a zsonglőrtalálkozókon (legalábbis ahol eddig jártam). Sajnos nincs felvételem róla, mert a befőttes gumik idehaza pont olyan színűek, mint a padló… A trükk lényege, hogy ellövünk egy befőttes gumit, ami aztán bumeráng módjára visszagurul a földön.
 
@@ -230,127 +230,127 @@ Most, miközben lenyomod a mutatóujjadat, vidd előre a hüvelykujjadat amíg a
 Nekem egy óra alatt sikerült megtanulni, de utána nagyon fájt a kezem: ez a gyakorlat minden bizonnyal olyan izmokat igényel, amit semmi másra sem használunk. Egy jó tanács: friss befőttes gumit használj, a kinyúltak nem jók. Kezdetben valószínűleg elhasználsz párat azzal, hogy az ujjadon próbálgatod, és amikor végre sikerül ellőni, nem gurulnak vissza. Kitartás!
 
 
-# <a name="burkes-barrage.html"></a>Burke's Barrage
+# <a name="burkes-barrage"></a>Burke's Barrage
 
 ![burkesbarrage](/videos/mp4/burkesbarrage.mp4)
 
-Ez a trükk nagyon hasonlít a [Kiragadáshoz](#kiragadas.html). A különbség az, hogy míg ott a kiragadott labdát körbe vezetjük a minta külső ívén, itt a másik két labda **között** húzzuk át.
+Ez a trükk nagyon hasonlít a [Kiragadáshoz](#kiragadas). A különbség az, hogy míg ott a kiragadott labdát körbe vezetjük a minta külső ívén, itt a másik két labda **között** húzzuk át.
 
 
-# <a name="doboz.html"></a>Doboz
+# <a name="doboz"></a>Doboz
 
 ![box](/videos/mp4/box.mp4)
 
 A doboznál két labda mozog függőlegesen felváltva, egy pedig alul vízszintesen. Sajnos hajlamos vagyok arra, hogy az alsó labdát a dobás helyett átadjam egyik kezemből a másikba, ami egyáltalán nem szép. Jól gyakorold be a vízszintes dobást!
 
 
-# <a name="drop-box.html"></a>Drop box
+# <a name="drop-box"></a>Drop box
 
 ![dropbox](/videos/mp4/dropbox.mp4)
 
-Ez a [Doboz](#doboz.html) egy variációja. A vízszintesen mozgó labda nem alul halad, hanem az egyik oldalon a függőlegesen mozgó labda fölött.
+Ez a [Doboz](#doboz) egy variációja. A vízszintesen mozgó labda nem alul halad, hanem az egyik oldalon a függőlegesen mozgó labda fölött.
 
 
-# <a name="dugattyuk.html"></a>Dugattyúk
+# <a name="dugattyuk"></a>Dugattyúk
 
 ![fourpistons](/videos/mp4/fourpistons.mp4)
 
-Először tanuld meg az [Oszlopok](#oszlopok.html) figurát mindkét kezeddel, aztán próbáld egyszerre mindkét oldalon…
+Először tanuld meg az [Oszlopok](#oszlopok) figurát mindkét kezeddel, aztán próbáld egyszerre mindkét oldalon…
 
 
-# <a name="dupla-jojo.html"></a>Dupla jojó
+# <a name="dupla-jojo"></a>Dupla jojó
 
 ![doubleyoyo](/videos/mp4/doubleyoyo.mp4)
 
- [Jojózz](#jojo.html) egyet valamelyik oldalon, aztán – mintha a két labda össze lenne kötve -, húzd át őket alul és jojózz a másik oldalon is.
+ [Jojózz](#jojo) egyet valamelyik oldalon, aztán – mintha a két labda össze lenne kötve -, húzd át őket alul és jojózz a másik oldalon is.
 
 
-# <a name="duplazas.html"></a>Duplázás
+# <a name="duplazas"></a>Duplázás
 
 ![clubdoubles](/videos/mp4/clubdoubles.mp4)
 
-A [Kaszkád](#kaszkad-2.html) után nekiláthatsz a duplázás elsajátításának. Fent azt láthatod, milyen ha minden dobáskor kétszer pördül a buzogány a levegőben. Kezdetnek próbálj csak egy-egy duplázást beszúrni a normál kaszkádolásba.
+A [Kaszkád](#kaszkad-2) után nekiláthatsz a duplázás elsajátításának. Fent azt láthatod, milyen ha minden dobáskor kétszer pördül a buzogány a levegőben. Kezdetnek próbálj csak egy-egy duplázást beszúrni a normál kaszkádolásba.
 
 ![clubdoubleflip](/videos/mp4/clubdoubleflip.mp4)
 
 Duplázáskor egyszerűen magasabbra kell dobni a buzogányt. Nem kell jobban megpörgetni, csak egy kicsit magasabbra dobni. Mivel így hosszabb ideig van a levegőben, többet is pörög.
 
 
-# <a name="egyet-fel-kettot-fel-hopp.html"></a>Egyet fel, kettőt fel – hopp
+# <a name="egyet-fel-kettot-fel-hopp"></a>Egyet fel, kettőt fel – hopp
 
 ![oneuptwouphops](/videos/mp4/oneuptwouphops.mp4)
 
-Először tanuld meg az [Egyet fel, kettőt fel – mérleg](#egyet-fel-kettot-fel-merleg.html) trükköt! Ezután a középső labdát próbáld meg úgy dobni, hogy átugorjon egy labdát, aztán a másikat és ugyanígy visszafelé…
+Először tanuld meg az [Egyet fel, kettőt fel – mérleg](#egyet-fel-kettot-fel-merleg) trükköt! Ezután a középső labdát próbáld meg úgy dobni, hogy átugorjon egy labdát, aztán a másikat és ugyanígy visszafelé…
 
 
-# <a name="egyet-fel-kettot-fel-koszoru.html"></a>Egyet fel, kettőt fel – koszorú
+# <a name="egyet-fel-kettot-fel-koszoru"></a>Egyet fel, kettőt fel – koszorú
 
 ![oneuptwoupshower](/videos/mp4/oneuptwoupshower.mp4)
 
-Egy másik [egyet fel, kettőt fel](#egyet-fel-kettot-fel-merleg.html) trükk. Az első labdát úgy dobd mint a [Koszorúnál](#koszoru.html), megkerülve a másik kettőt.
+Egy másik [egyet fel, kettőt fel](#egyet-fel-kettot-fel-merleg) trükk. Az első labdát úgy dobd mint a [Koszorúnál](#koszoru), megkerülve a másik kettőt.
 
 
-# <a name="egyet-fel-kettot-fel-merleg.html"></a>Egyet fel, kettőt fel – mérleg
+# <a name="egyet-fel-kettot-fel-merleg"></a>Egyet fel, kettőt fel – mérleg
 
 ![oneuptwoup](/videos/mp4/oneuptwoup.mp4)
 
-Miközben az egyik kezedben két labdát dobálsz egymás mellett [oszlopban](#oszlopok.html), a másik kezeddel dobálj egyet függőlegesen. Eleinte vicces lesz, mert azt gondolnád, hogy miután megtanultad az oszlopokat, már azt csinálsz a másik kezeddel amit akarsz – majd meglátod mire gondolok. Nyugi, hamar bele lehet jönni. (A ford.)
+Miközben az egyik kezedben két labdát dobálsz egymás mellett [oszlopban](#oszlopok), a másik kezeddel dobálj egyet függőlegesen. Eleinte vicces lesz, mert azt gondolnád, hogy miután megtanultad az oszlopokat, már azt csinálsz a másik kezeddel amit akarsz – majd meglátod mire gondolok. Nyugi, hamar bele lehet jönni. (A ford.)
 
-Ha már megtanultad a trükköt, a középső labdát elkapó kezet váltogathatod is. Ajánlom figyelmedbe a következő variációkat is: [Egyet fel, kettőt fel – tenisz](#egyet-fel-kettot-fel-tenisz.html), [Egyet fel, kettőt fel – hopp](#egyet-fel-kettot-fel-hopp.html), [Szivárvány](#szivarvany.html)
+Ha már megtanultad a trükköt, a középső labdát elkapó kezet váltogathatod is. Ajánlom figyelmedbe a következő variációkat is: [Egyet fel, kettőt fel – tenisz](#egyet-fel-kettot-fel-tenisz), [Egyet fel, kettőt fel – hopp](#egyet-fel-kettot-fel-hopp), [Szivárvány](#szivarvany)
 
 
-# <a name="egyet-fel-kettot-fel-tenisz.html"></a>Egyet fel, kettőt fel – tenisz
+# <a name="egyet-fel-kettot-fel-tenisz"></a>Egyet fel, kettőt fel – tenisz
 
 ![oneuptwouptennis](/videos/mp4/oneuptwouptennis.mp4)
 
-Ha már tudod az [Egyet fel, kettőt fel – mérleg](#egyet-fel-kettot-fel-merleg.html) trükköt, érdemes megtanulni a középső labdát a másik kettő fölött átdobni.
+Ha már tudod az [Egyet fel, kettőt fel – mérleg](#egyet-fel-kettot-fel-merleg) trükköt, érdemes megtanulni a középső labdát a másik kettő fölött átdobni.
 
 
-# <a name="egyet-fel-kettot-fel-vegtelen.html"></a>Egyet fel, kettőt fel – végtelen
+# <a name="egyet-fel-kettot-fel-vegtelen"></a>Egyet fel, kettőt fel – végtelen
 
 ![oneuptwoupinfinity](/videos/mp4/oneuptwoupinfinity.mp4)
 
-Ebben az [egyet fel, kettőt fel](#egyet-fel-kettot-fel-merleg.html) trükkben az első labdát egy végtelen jelet (fektetett nyolcast) formáló úton vezesd a másik két labda körül.
+Ebben az [egyet fel, kettőt fel](#egyet-fel-kettot-fel-merleg) trükkben az első labdát egy végtelen jelet (fektetett nyolcast) formáló úton vezesd a másik két labda körül.
 
 
-# <a name="elkapas-a-hat-mogott.html"></a>Elkapás a hát mögött
+# <a name="elkapas-a-hat-mogott"></a>Elkapás a hát mögött
 
 ![behindthebackcatch](/videos/mp4/behindthebackcatch.mp4)
 
 Először csak az elkapást gyakorold, zsonglőrködés nélkül. Nem olyan nehéz mint amilyennek tűnik… A lényeg, hogy az utolsó pillanatig kövesd a szemeddel a labda mozgását. Ahogy zsonglőrködés közben se a kezedet nézed, a hátad mögött is el tudod kapni a labdát: a kezed tudni fogja hová kell nyúlnia. (Oké, egy kis gyakorlás nem árt… – a ford.)
 
 
-# <a name="fel-mess.html"></a>Fél mess
+# <a name="fel-mess"></a>Fél mess
 
 ![halfmess](/videos/mp4/halfmess.mp4)
 
-Induljunk ki egy [Fordított kaszkádból](#forditott-kaszkad.html), aztán hirtelen az egyik labdát a [kezed alatt](#kez-alatt.html) dobd át, és ezzel kapd is el a következőt (még mindig a másik kezed alatt tartva)! végül megint egy [felső dobás](#atadas-felul.html) jön, amivel körbe is értünk: már csak ismételni kell.
+Induljunk ki egy [Fordított kaszkádból](#forditott-kaszkad), aztán hirtelen az egyik labdát a [kezed alatt](#kez-alatt) dobd át, és ezzel kapd is el a következőt (még mindig a másik kezed alatt tartva)! végül megint egy [felső dobás](#atadas-felul) jön, amivel körbe is értünk: már csak ismételni kell.
 
 
-# <a name="forditott-kaszkad-keresztezett-kezzel.html"></a>Fordított kaszkád, keresztezett kézzel
+# <a name="forditott-kaszkad-keresztezett-kezzel"></a>Fordított kaszkád, keresztezett kézzel
 
 ![crossedreversecascade](/videos/mp4/crossedreversecascade.mp4)
 
-Ugyanaz mint a [Fordított kaszkád](#forditott-kaszkad.html)  [](.htmltrukkok/harom-labda/kaszkad/forditott-kaszkad/), csak keresztbe tett kézzel :)
+Ugyanaz mint a [Fordított kaszkád](#forditott-kaszkad)  [](trukkok/harom-labda/kaszkad/forditott-kaszkad/), csak keresztbe tett kézzel :)
 
 
-# <a name="forditott-kaszkad.html"></a>Fordított kaszkád
+# <a name="forditott-kaszkad"></a>Fordított kaszkád
 
 ![reversecascade](/videos/mp4/reversecascade.mp4)
 
 Nagyon szép kaszkád variáció, egyesek szerint kényelmesebb csinálni mint az alap kaszkádot.
 
-Mielőtt belekezdenél tanulásába, tanuld meg és gyakorold be az [Átadás felül](#atadas-felul.html), a [Tenisz](#tenisz.html) és a ["Majdnem" koszorú](#majdnem-koszoru.html) figurákat. A fordított kaszkád tulajdonképpen folyamatos felső átadást jelent, mindkét kezéből. Dobáskor ne a tested túloldalát célozd meg, hanem a középvonalát, hiszen most a fogadó oldalról is felül fogsz dobni, és összeakadnának a labdák a levegőben…
+Mielőtt belekezdenél tanulásába, tanuld meg és gyakorold be az [Átadás felül](#atadas-felul), a [Tenisz](#tenisz) és a ["Majdnem" koszorú](#majdnem-koszoru) figurákat. A fordított kaszkád tulajdonképpen folyamatos felső átadást jelent, mindkét kezéből. Dobáskor ne a tested túloldalát célozd meg, hanem a középvonalát, hiszen most a fogadó oldalról is felül fogsz dobni, és összeakadnának a labdák a levegőben…
 
 
-# <a name="forditott-koszoru.html"></a>Fordított koszorú
+# <a name="forditott-koszoru"></a>Fordított koszorú
 
 ![invertedshower](/videos/mp4/invertedshower.mp4)
 
-Egyszerű: valami ilyesmit kell csinálni… Na jó, ez egy elég nehéz mutatvány… Könnyebb ha a labdákat felülről kapod el, de az takarja a nézők elől. Én időnként elütöm a labdát a csuklómmal, amikor visszahúzom a kezem felül. Ha szeretnél valami ilyesmit bemutatni, de ezt nehéznek találod, próbálkozhatsz az [Ingával](#inga.html) is.
+Egyszerű: valami ilyesmit kell csinálni… Na jó, ez egy elég nehéz mutatvány… Könnyebb ha a labdákat felülről kapod el, de az takarja a nézők elől. Én időnként elütöm a labdát a csuklómmal, amikor visszahúzom a kezem felül. Ha szeretnél valami ilyesmit bemutatni, de ezt nehéznek találod, próbálkozhatsz az [Ingával](#inga) is.
 
 
-# <a name="gurulo-labda.html"></a>Guruló labda
+# <a name="gurulo-labda"></a>Guruló labda
 
 ![rolloffhead](/videos/mp4/rolloffhead.mp4)
 
@@ -361,90 +361,90 @@ Nagyobb precizitást igényel, de megoldható minden (jobb kezes) labda gurítá
 ![rollalloffhead](/videos/mp4/rollalloffhead.mp4)
 
 
-# <a name="gyar.html"></a>Gyár
+# <a name="gyar"></a>Gyár
 
 ![factory](/videos/mp4/factory.mp4)
 
-Mások ezt a trükköt **a gép** néven ismerik. Induljunk ki az [Imitált "egyet fel, kettőt fel"](#imitalt-egyet-fel-kettot-fel.html) figurából! Amikor a labdát fogó kezed fent van, vidd át egyenesen a túloldalra. Itt ejtsd le a labdát és gyorsan [markold](#marok.html) meg a felsőt a másik kettőből. Ereszd le a kezed, és kezdheted is elölről!
+Mások ezt a trükköt **a gép** néven ismerik. Induljunk ki az [Imitált "egyet fel, kettőt fel"](#imitalt-egyet-fel-kettot-fel) figurából! Amikor a labdát fogó kezed fent van, vidd át egyenesen a túloldalra. Itt ejtsd le a labdát és gyorsan [markold](#marok) meg a felsőt a másik kettőből. Ereszd le a kezed, és kezdheted is elölről!
 
 
-# <a name="hamis-koszoru-jojo.html"></a>Hamis koszorú – jojó
+# <a name="hamis-koszoru-jojo"></a>Hamis koszorú – jojó
 
 ![falseshoweryoyo](/videos/mp4/falseshoweryoyo.mp4)
 
-Sajnos nem tudom a nevét ennek a trükknek, de az egyik kedvencem. Lényegében ugyanaz mint a [Hamis koszorú](#hamis-koszoru.html), kivéve, hogy az egyik kéz lefelé néz, feljebb van és a [Jojóhoz](#jojo.html) hasonlóan követi az alatta levő labdát.
+Sajnos nem tudom a nevét ennek a trükknek, de az egyik kedvencem. Lényegében ugyanaz mint a [Hamis koszorú](#hamis-koszoru), kivéve, hogy az egyik kéz lefelé néz, feljebb van és a [Jojóhoz](#jojo) hasonlóan követi az alatta levő labdát.
 
 
-# <a name="hamis-koszoru.html"></a>Hamis koszorú
+# <a name="hamis-koszoru"></a>Hamis koszorú
 
 ![falseshower](/videos/mp4/falseshower.mp4)
 
-Mások spirál vagy szélmalom néven ismerik a trükköt. Dobj egy labdát [felül](#atadas-felul.html), egyet pedig a [kezed alatt](#kez-alatt.html) ! Az utóbbit kapd el a másik oldalon és húzd vissza, hogy a következő ütemben legyen mit felül dobnod. Akkor igazán szép a trükk, ha a dobások és a mozgatások kör alakú mintát adnak.
+Mások spirál vagy szélmalom néven ismerik a trükköt. Dobj egy labdát [felül](#atadas-felul), egyet pedig a [kezed alatt](#kez-alatt) ! Az utóbbit kapd el a másik oldalon és húzd vissza, hogy a következő ütemben legyen mit felül dobnod. Akkor igazán szép a trükk, ha a dobások és a mozgatások kör alakú mintát adnak.
 
 
-# <a name="hasogatas.html"></a>Hasogatás
+# <a name="hasogatas"></a>Hasogatás
 
 ![chops](/videos/mp4/chops.mp4)
 
-Ez a trükk a [Kaszkád](#kaszkad.html) egy változata. Kapj el egy labdát a felül – pályája tetején -, és gyorsan húzd át a kezed a másik két labda között. Itt dobd fel a labdát a Kaszkádnál már megszokott módon. Először érdemes egy kézzel gyakorolni, aztán lehet fejlődni…
+Ez a trükk a [Kaszkád](#kaszkad) egy változata. Kapj el egy labdát a felül – pályája tetején -, és gyorsan húzd át a kezed a másik két labda között. Itt dobd fel a labdát a Kaszkádnál már megszokott módon. Először érdemes egy kézzel gyakorolni, aztán lehet fejlődni…
 
 
-# <a name="igazi-tenisz.html"></a>Igazi tenisz
+# <a name="igazi-tenisz"></a>Igazi tenisz
 
 ![realtennis](/videos/mp4/realtennis.mp4)
 
-A [teniszből](#tenisz.html) úgy lesz igazi tenisz, hogy az alul átadott labdákat nem egyik kézből a másikba dobjuk, hanem függőlegesen felfelé, és – mielőtt leesnének – a felülről érkező labdát vissza is dobjuk. Az elnevezés onnan ered, hogy a két függőlegesen mozgó labda olyan mintha egy teniszhálót rajzolna ki, és a harmadik labda efölött ugrál oda-vissza. A trükk tulajdonképpen a [Jobb, közép, bal](#jobb-kozep-bal.html) egy változatának is tekinthető, ha így jobban megérted…
+A [teniszből](#tenisz) úgy lesz igazi tenisz, hogy az alul átadott labdákat nem egyik kézből a másikba dobjuk, hanem függőlegesen felfelé, és – mielőtt leesnének – a felülről érkező labdát vissza is dobjuk. Az elnevezés onnan ered, hogy a két függőlegesen mozgó labda olyan mintha egy teniszhálót rajzolna ki, és a harmadik labda efölött ugrál oda-vissza. A trükk tulajdonképpen a [Jobb, közép, bal](#jobb-kozep-bal) egy változatának is tekinthető, ha így jobban megérted…
 
-Az induláshoz a két labdát tartó kezedből dobj fel egyet belül, aztán gyorsan dobd át a másikat [fölötte](#atadas-felul.html). A dolgok itt kezdenek érdekessé válni… Dobd fel a másik kezedben levő labdát, és kapd el a felülről érkezőt, majd rögtön dobd is vissza (természetesen ismét felül).
+Az induláshoz a két labdát tartó kezedből dobj fel egyet belül, aztán gyorsan dobd át a másikat [fölötte](#atadas-felul). A dolgok itt kezdenek érdekessé válni… Dobd fel a másik kezedben levő labdát, és kapd el a felülről érkezőt, majd rögtön dobd is vissza (természetesen ismét felül).
 
 
-# <a name="imitalt-egyet-fel-kettot-fel.html"></a>Imitált "egyet fel, kettőt fel"
+# <a name="imitalt-egyet-fel-kettot-fel"></a>Imitált "egyet fel, kettőt fel"
 
 ![fakeoneuptwoup](/videos/mp4/fakeoneuptwoup.mp4)
 
-Az imitált [egyet fel, kettőt fel](#egyet-fel-kettot-fel-merleg.html) figura lényege, hogy miközben az egyik kezedben két labdával játszol [oszlopban](#oszlopok.html), a másik kezedben levő labdát nem dobod fel, hanem a kezedben tartva a külső labdát követve mozgatod fel-le.
+Az imitált [egyet fel, kettőt fel](#egyet-fel-kettot-fel-merleg) figura lényege, hogy miközben az egyik kezedben két labdával játszol [oszlopban](#oszlopok), a másik kezedben levő labdát nem dobod fel, hanem a kezedben tartva a külső labdát követve mozgatod fel-le.
 
 
-# <a name="inditas-a-hat-mogul.html"></a>Indítás a hát mögül
+# <a name="inditas-a-hat-mogul"></a>Indítás a hát mögül
 
 ![behindthebackstart](/videos/mp4/behindthebackstart.mp4)
 
 Dobd át mindhárom labdát a hátad mögött! Én az elsőt (az ujjaim felől) dobom a legmagasabbra. Kapd el a két alsó labdát és kezdj el zsonglőrködni… A legjobb ha először magad előtt dobod fel a labdákat, ha már így el tudod kezdeni, áttérhetsz a hát mögötti dobásra.
 
 
-# <a name="inga.html"></a>Inga
+# <a name="inga"></a>Inga
 
 ![pendulum](/videos/mp4/pendulum.mp4)
 
- [Kifelé forgó körrel](#kor-kifele.html) kezdjük. A harmadik labdát tartsd fel, a könyököd legyen a levegőben, ahogy a filmen is látható. Tanuld meg a másik két labdával szinkronban előre lendíteni ezt a kezet! Ha elkaptad a ritmust, dobd el a kezedben levő labdát amikor éppen fent van egy labda a körben levők közül, azt pedig kapd el miközben visszafelé mozog a kezed.
+ [Kifelé forgó körrel](#kor-kifele) kezdjük. A harmadik labdát tartsd fel, a könyököd legyen a levegőben, ahogy a filmen is látható. Tanuld meg a másik két labdával szinkronban előre lendíteni ezt a kezet! Ha elkaptad a ritmust, dobd el a kezedben levő labdát amikor éppen fent van egy labda a körben levők közül, azt pedig kapd el miközben visszafelé mozog a kezed.
 
 
-# <a name="jobb-kozep-bal.html"></a>Jobb, közép, bal
+# <a name="jobb-kozep-bal"></a>Jobb, közép, bal
 
 ![rightmiddleleft](/videos/mp4/rightmiddleleft.mp4)
 
-Először tanulj meg két labdát egy kézben [egymás mellett](#oszlopok.html) dobálni. Ha ezt már elég jól begyakoroltad mindkét kezeddel, elég egyszerűnek fogod találni ezt a trükköt is, ugyanis 	itt egyszer a bal kezeddel kell függőlegesen feldobni két labdát, aztán a jobbal, és így tovább felváltva.
+Először tanulj meg két labdát egy kézben [egymás mellett](#oszlopok) dobálni. Ha ezt már elég jól begyakoroltad mindkét kezeddel, elég egyszerűnek fogod találni ezt a trükköt is, ugyanis 	itt egyszer a bal kezeddel kell függőlegesen feldobni két labdát, aztán a jobbal, és így tovább felváltva.
 
 
-# <a name="jojo.html"></a>Jojó
+# <a name="jojo"></a>Jojó
 
 ![yo-yo](/videos/mp4/yo-yo.mp4)
 
-Mielőtt elkezdenéd a trükköt tanulni, érdemes megtanulni az [Oszlopok](#oszlopok.html) figurát. Az nagyjából ugyanez a trükk, csak ott nem olyan érdekes, milyen magasakat dobsz	(kevesebb ütközés). Kezdjük tehát két egymás mellett dobált labdával. A másik kéz a harmadik labdát mozgatja a belső labda fölött. Ha jól csinálod, olyan lesz mintha a két labdát egy láthatatlan szál kötné össze.
+Mielőtt elkezdenéd a trükköt tanulni, érdemes megtanulni az [Oszlopok](#oszlopok) figurát. Az nagyjából ugyanez a trükk, csak ott nem olyan érdekes, milyen magasakat dobsz	(kevesebb ütközés). Kezdjük tehát két egymás mellett dobált labdával. A másik kéz a harmadik labdát mozgatja a belső labda fölött. Ha jól csinálod, olyan lesz mintha a két labdát egy láthatatlan szál kötné össze.
 
 
-# <a name="kartyakeveres.html"></a>Kártyakeverés
+# <a name="kartyakeveres"></a>Kártyakeverés
 
 ![slam](/videos/mp4/slam.mp4)
 
-Kezdd [két labdával egymás mellett](#oszlopok.html) a bal kezedben. Fogj egy harmadik labdát a jobb kezedbe és tartsd fölöttük! Amikor a belső labda felér a tetőpontra, kövesd lefelé. Engedd el a jobb kezedben levő labdát, és felülről [megmarkolva](#marok.html) emeld ki a másikat az oszlopból!
+Kezdd [két labdával egymás mellett](#oszlopok) a bal kezedben. Fogj egy harmadik labdát a jobb kezedbe és tartsd fölöttük! Amikor a belső labda felér a tetőpontra, kövesd lefelé. Engedd el a jobb kezedben levő labdát, és felülről [megmarkolva](#marok) emeld ki a másikat az oszlopból!
 
 
-# <a name="kaszkad-2.html"></a>Kaszkád
+# <a name="kaszkad-2"></a>Kaszkád
 
 ![clubcascade](/videos/mp4/clubcascade.mp4)
 
-A kaszkádot a [labdás kaszkádhoz](#kaszkad.html) hasonlóan tanulhatod meg buzogányokkal is.
+A kaszkádot a [labdás kaszkádhoz](#kaszkad) hasonlóan tanulhatod meg buzogányokkal is.
 
 Kezdjük egy buzogánnyal! Adogasd egyik kezedből a másikba! A buzogányt a nyele közepén fogd, ne a végén! Képzelj el egy a mellkasod közepéből kiinduló, a síkjára merőleges egyenest, a buzogánynak nagyjából 45 fokos szöget kell bezárnia ezzel az egyenessel mikor a kezedben van. Dobás közben körülbelül 45 fokkal lendítsd át a túloldalra mielőtt elengeded. Ügyelj arra, hogy alacsonyakat és gyorsakat dobj! A kezdőknél gyakran megfigyelhető, hogy túl magasakat dobnak, és az egész valahogy nem tölti ki a teret. Szerintem jobb, ha a buzogány hirtelen indul és belecsattan az ember tenyerébe.
 
@@ -458,7 +458,7 @@ Van akinek gondot okoz egyszerre két buzogányt fogni. Én valahogy így csiná
 
 ![holdingtwoclubs](/videos/mp4/holdingtwoclubs.mp4)
 
-# <a name="kaszkad-a-fej-folott.html"></a>Kaszkád a fej fölött
+# <a name="kaszkad-a-fej-folott"></a>Kaszkád a fej fölött
 
 ![overheadcascade](/videos/mp4/overheadcascade.mp4)
 
@@ -467,16 +467,16 @@ Ez ugyanaz mint a kaszkád, csak a fejed fölött csinálod…
 Én földön fekvés közben tanultam meg, és semmi lényegi különbséget nem érzek a kettő között. A megszokott dobás helyett inkább olyan, mintha	fellöknéd a labdákat a levegőbe.
 
 
-# <a name="kaszkad-karikaval.html"></a>Kaszkád karikával
+# <a name="kaszkad-karikaval"></a>Kaszkád karikával
 
 ![ringcascade](/videos/mp4/ringcascade.mp4)
 
-A karikák feldobásakor és elkapásakor a kezed kicsit feljebb tartsd, mint a [labdás kaszkádnál](#kaszkad.html). Ezt leszámítva, gyakorlatilag ugyanaz a két mutatvány. Ha közönség előtt zsonglőrködsz, fordulj oldalra, hogy jól lássák a karikákat. Szemből gyakorlatilag észrevehetetlenek. :)
+A karikák feldobásakor és elkapásakor a kezed kicsit feljebb tartsd, mint a [labdás kaszkádnál](#kaszkad). Ezt leszámítva, gyakorlatilag ugyanaz a két mutatvány. Ha közönség előtt zsonglőrködsz, fordulj oldalra, hogy jól lássák a karikákat. Szemből gyakorlatilag észrevehetetlenek. :)
 
 
-# <a name="kaszkad-lepesrol-lepesre.html"></a>Kaszkád – lépésről lépésre
+# <a name="kaszkad-lepesrol-lepesre"></a>Kaszkád – lépésről lépésre
 
-A zsonglőrködés egyáltalán nem olyan ördöngösség, mint amilyennek látszik. Ha már láttál zsonglőrt biztosan ismered a [kaszkád](#kaszkad.html) figurát. A kaszkádot bárki megtanulhatja pár nap alatt, csak egy kis türelemre és kitartásra van szükség hozzá.
+A zsonglőrködés egyáltalán nem olyan ördöngösség, mint amilyennek látszik. Ha már láttál zsonglőrt biztosan ismered a [kaszkád](#kaszkad) figurát. A kaszkádot bárki megtanulhatja pár nap alatt, csak egy kis türelemre és kitartásra van szükség hozzá.
 
 Kezdetnek vegyünk egy labdát… illetve, ha jobban meggondolom eleinte még labdára sincs szükség. Vegyünk bármit ami elég gömbölyű, nem könnyebb mint egy teniszlabda, de nem nehezebb egy biliárdgolyónál. Végső esetben egy vastagabb pár zokni is megteszi, ha sikerül elég gömbölyűre összecsomagolni…Persze a legjobb ha kéznél van néhány "hivatalosnak nevezett" zsonglőrlabda (pár száz forintos hihetetlenül akciós áron akár hármat is lehet kapni). Eleinte érdemes olyat választani, ami nem nagyon pattog, mert sajnos elég sokszor le fogod ejteni, és azt hiszem nem akarsz állandóan az asztal alatt keresgélni… Néhány babzsák vagy "footbag" például tökéletesen megfelel a célnak. Mindezek mellett válassz olyat, ami igazán tetszik, mert elég sok időt fogtok együtt tölteni…
 
@@ -487,7 +487,7 @@ Ha megvannak a labdák, egyelőre vegyünk elő egyet. Az alapfelállás a köve
 ** Ez nem jó: **
 ![cascadeoneballover](/videos/mp4/cascadeoneballover.mp4)
 
-Oké, ez egyszerű volt. Nem kell unalomig gyakorolni, előbb-utóbb úgyis belerázódsz ahogy egyre jobban elmélyülsz a zsonglőrködés tudományában. A következő lépéshez még egy labdára lesz szükség: most kettőt fogunk cserélgetni a két kezünk között. A kaszkád tanulásakor mindkét labdát felfelé kell dobni, ezt fontos megjegyezni, mert a legtöbb ember zsonglőrködés alatt a [koszorú](#koszoru.html) nevű figurát érti, és ha egyedül próbál zsonglőrködni tanulni rögtön ezzel kezdi. Ez aztán vagy nagyon sokáig tart, vagy sose sikerül… A kaszkád sokkal egyszerűbb figura, és ebből érdemes kiindulni sok más trükk tanuláskor is.
+Oké, ez egyszerű volt. Nem kell unalomig gyakorolni, előbb-utóbb úgyis belerázódsz ahogy egyre jobban elmélyülsz a zsonglőrködés tudományában. A következő lépéshez még egy labdára lesz szükség: most kettőt fogunk cserélgetni a két kezünk között. A kaszkád tanulásakor mindkét labdát felfelé kell dobni, ezt fontos megjegyezni, mert a legtöbb ember zsonglőrködés alatt a [koszorú](#koszoru) nevű figurát érti, és ha egyedül próbál zsonglőrködni tanulni rögtön ezzel kezdi. Ez aztán vagy nagyon sokáig tart, vagy sose sikerül… A kaszkád sokkal egyszerűbb figura, és ebből érdemes kiindulni sok más trükk tanuláskor is.
 
 Fogj egy-egy labdát mindkét kezedbe és dobd fel az egyiket a levegőbe (kicsit szemmagasság fölé), amikor a pályája csúcsához ér, dobd fel a másik labdát is. Kapd el az elsőt, aztán a másikat. Remélem közben helyet cseréltek… Úgyis fogalmazhatunk, hogy az első labdát próbáld meg elkapni a másik kezeddel, és közben – úgy mellesleg – dobd el a másik labdát is (amit aztán kapj el az első kezeddel). A lényeg a mellesleg-en van. Arra koncentrálj, hogy elkapd a labdát, és ne arra, hogy eldobd a másikat is!
 
@@ -503,18 +503,18 @@ Ezt a lépést elég sokat kell gyakorolni, de ha már jól megy, semmi gond nem
 
 Feltéve, hogy jól begyakoroltad a fentieket, elkezdtetünk három labdával foglalkozni. Izgatott vagy, ugye? Örömmel jelenthetem be, hogy túl vagyunk a nehezén. Már csak egy harmadik labda kell, ami összeköti a bal oldali indítást a jobb oldalival, és kész is van a kaszkád! Fogj két labdát az ügyesebbik kezedbe és egyet a másikba. Az első két dobás pont olyan lesz, mint amit idáig gyakoroltál: dobd el az egyik labdád az ügyesebbik kezedből, és cseréld ki a másik kezedben levővel. Most egy labda vészesen közeledik az ügyesebbik kezed felé… Gyorsan dobd fel azt, amelyik még benne van és kapd el a másikat! Ajaj, most megint egy labda van a levegőben! Dobd fel az ügyetlenebbik kezedben levőt, és cseréld ki vele. Aztán így tovább, egy dobás jobbról, egy balról, jobbról, balról … A hangsúly most már a dobásokon legyen. Minél pontosabban dobsz, annál egyszerűbb lesz elkapni.
 
-Ezen a ponton néhányan elakadnak. Vannak akik túl gyorsan csinálják. Nem szabad kapkodni! Akkor kell a labdát eldobni, amikor a közeledő a pályája csúcsán van. Ha megnézed a videót alul, láthatod, hogy az idő nagy részében csak egy(!) labda van a levegőben. Úgy is lassíthatsz a dolgon, hogy magasabbakat dobsz. Minél magasabbra dobod a labdát, annál több időd lesz felkészülni a fogadására. Idővel fokozatosan csökkentheted a magasságot ( [úgy jobban néz ki](#kaszkad.html) ), de egyelőre maradjunk inkább kicsivel fejmagasság fölött.
+Ezen a ponton néhányan elakadnak. Vannak akik túl gyorsan csinálják. Nem szabad kapkodni! Akkor kell a labdát eldobni, amikor a közeledő a pályája csúcsán van. Ha megnézed a videót alul, láthatod, hogy az idő nagy részében csak egy(!) labda van a levegőben. Úgy is lassíthatsz a dolgon, hogy magasabbakat dobsz. Minél magasabbra dobod a labdát, annál több időd lesz felkészülni a fogadására. Idővel fokozatosan csökkentheted a magasságot ( [úgy jobban néz ki](#kaszkad) ), de egyelőre maradjunk inkább kicsivel fejmagasság fölött.
 
 Vannak olyanok is, akik "elfelejtik" eldobni a labdát, egyszerűen csak elkapják a levegőben levőt. Dobálnak hármat-négyet aztán megállnak. Legtöbbször az a probléma, hogy nem merik elejteni a labdákat, vagy egyszerűen nem tudják, mert a kezük utánakap. Szeretném hangsúlyozni, hogy nem baj, ha leesik a labda. Ez a természetes, hiszen vonzza a Föld! A lényeg az, hogy a fogadó kézben levő labdát fel kell dobni. Ahelyett, hogy utánakapsz a másiknak, kényszerítsd magad arra, hogy eldobd a kezedben levőt, és csak ezután keresd meg az elgurult labdát a földön!
 
 ![cascadehigh](/videos/mp4/cascadehigh.mp4)
 
 
-# <a name="kaszkad-ot-labdaval.html"></a>Kaszkád öt labdával
+# <a name="kaszkad-ot-labdaval"></a>Kaszkád öt labdával
 
 ![fiveballcascade](/videos/mp4/fiveballcascade.mp4)
 
-Mindenek előtt tanuld meg a [Villanást](#villanas.html), és esetleg próbálj ki pár trükköt négy labdával (erre ugyan nincs szükség a figurához, de segít megszokni, hogy egynél több labda van a levegőben). A trükk – nevéhez hűen – nagyon hasonlít a három labdás kaszkádhoz, csak kettővel több labdával… Az első három dobás ugyanaz mint a villanásban, ezután már "csak" annyi a dolgod, hogy amikor egy labda visszaesik egy másikat dobsz fel helyette.
+Mindenek előtt tanuld meg a [Villanást](#villanas), és esetleg próbálj ki pár trükköt négy labdával (erre ugyan nincs szükség a figurához, de segít megszokni, hogy egynél több labda van a levegőben). A trükk – nevéhez hűen – nagyon hasonlít a három labdás kaszkádhoz, csak kettővel több labdával… Az első három dobás ugyanaz mint a villanásban, ezután már "csak" annyi a dolgod, hogy amikor egy labda visszaesik egy másikat dobsz fel helyette.
 
 Tanácsok az első lépésekhez:
 
@@ -529,112 +529,112 @@ Tanácsok az első lépésekhez:
  ![img](/images/holding5.jpg)
 
 
-# <a name="kaszkad.html"></a>Kaszkád
+# <a name="kaszkad"></a>Kaszkád
 
 ![cascade](/videos/mp4/cascade.mp4)
 
 A zsonglőrködés alapfigurája. Röviden úgy foglalhatnánk össze, hogy mindig amikor egy labda eléri a pályája csúcspontját, feldobunk egyet a másik (fogadó) oldalról.
 Kezdetben sokan előre dobják a labdákat, mert még nem tanulták meg őket felfelé dobni (nehezebb mint ahogy hangzik). Ha Neked is ez a problémád, próbálj meg a fal elé állva gyakorolni. A cél, hogy ne érintsd a falat. Ha mégis nekidobsz egy-egy labdát, az visszapattan, így egy kis ügyességgel folytathatod a gyakorlást…
-Mivel feltehetőleg ezt a trükköt fogod először megtanulni, készítettünk egy hosszabb [leírást](#kaszkad-lepesrol-lepesre.html) is hozzá.
+Mivel feltehetőleg ezt a trükköt fogod először megtanulni, készítettünk egy hosszabb [leírást](#kaszkad-lepesrol-lepesre) is hozzá.
 
 
-# <a name="kerge-hold.html"></a>Kerge hold
+# <a name="kerge-hold"></a>Kerge hold
 
 ![orbit](/videos/mp4/orbit.mp4)
 
-Induljunk ki egy [kifelé forgó körből](#kor-kifele.html). A harmadik labda soha nem hagyja el a kezed, csak megkerüli az éppen felül levőt.
+Induljunk ki egy [kifelé forgó körből](#kor-kifele). A harmadik labda soha nem hagyja el a kezed, csak megkerüli az éppen felül levőt.
 
 
-# <a name="keringo-jojo.html"></a>Keringő jojó
+# <a name="keringo-jojo"></a>Keringő jojó
 
 ![yo-yoorbit](/videos/mp4/yo-yoorbit.mp4)
 
-A [Kör kifelé](#kor-kifele.html) és a [Jojó](#jojo.html) figurák kombinációja. Kezdd egy kifelé forgó körrel, és kövesd az egyik labdát a kezeddel!
+A [Kör kifelé](#kor-kifele) és a [Jojó](#jojo) figurák kombinációja. Kezdd egy kifelé forgó körrel, és kövesd az egyik labdát a kezeddel!
 
 
-# <a name="ketoldali-jojo.html"></a>Kétoldali jojó
+# <a name="ketoldali-jojo"></a>Kétoldali jojó
 
 ![yo-yobothsides](/videos/mp4/yo-yobothsides.mp4)
 
 Erről nem sokat tudok mondani. Csak próbálgasd…
 
 
-# <a name="kez-alatt.html"></a>Kéz alatt
+# <a name="kez-alatt"></a>Kéz alatt
 
 ![underthearm](/videos/mp4/underthearm.mp4)
 
 Dobj át egy labdát a kezed alatt. Mi mást is mondhatnék?
 
 
-# <a name="kiragadas.html"></a>Kiragadás
+# <a name="kiragadas"></a>Kiragadás
 
 ![takeouts](/videos/mp4/takeouts.mp4)
 
-A legfontosabb ennél a figuránál, hogy ne akard megérteni… [kaszkáddal](#kaszkad.html) indíts, aztán az egyik pillanatban a fogadó kezed helyett az indító kezeddel nyúlj a labdáért (persze előtte dobd fel a benne levőt), és vezesd végig a minta külső ívén. Eközben a másik kéz [oszlopban](#oszlopok.html) dobálja a maradék két labdát. Amikor körbeértél, dobd át a labdát a másik kezed alatt, most az lesz a kiragadó kéz és a minta folytatódik… Könnyebb mint gondolnád, csak nem szabad gondolkodni!
+A legfontosabb ennél a figuránál, hogy ne akard megérteni… [kaszkáddal](#kaszkad) indíts, aztán az egyik pillanatban a fogadó kezed helyett az indító kezeddel nyúlj a labdáért (persze előtte dobd fel a benne levőt), és vezesd végig a minta külső ívén. Eközben a másik kéz [oszlopban](#oszlopok) dobálja a maradék két labdát. Amikor körbeértél, dobd át a labdát a másik kezed alatt, most az lesz a kiragadó kéz és a minta folytatódik… Könnyebb mint gondolnád, csak nem szabad gondolkodni!
 
   Nekem úgy sikerült a trükköt megtanulni, hogy először begyakoroltam két labdát egymás mellett dobálni a kezem alatt. Amikor ez már jól ment, a felső kezemben tétlenkedő labdát próbáltam átemelni a másik kettő fölött. – A fordító megjegyzése
 
 
-# <a name="kor-befele.html"></a>Kör befelé
+# <a name="kor-befele"></a>Kör befelé
 
 ![twoinoneinside](/videos/mp4/twoinoneinside.mp4)
 
 A labdák körben haladnak a tested középvonala felé.   Ügyelj arra, hogy a kör párhuzamos legyen a mellkasoddal, a kezed pedig oldalirányban mozogjon, ne előre-hátra! (Ha már jól megy az ügyesebb kezeddel, tanuld meg a másikkal is! – a ford.)
 
 
-# <a name="kor-kifele.html"></a>Kör kifelé
+# <a name="kor-kifele"></a>Kör kifelé
 
 ![twoinoneoutside](/videos/mp4/twoinoneoutside.mp4)
 
 A labdák körben haladnak, belülről indítva az oldalad felé.   Ügyelj arra, hogy a kör párhuzamos legyen a mellkasoddal, a kezed pedig oldalirányban mozogjon, ne előre-hátra!
-Ha [négy labdával](#szokokut-negy-labdaval-aszinkron.html) is akarsz zsonglőrködni, mindkét kezeddel nagyon jól kell tudnod ezt a trükköt.
+Ha [négy labdával](#szokokut-negy-labdaval-aszinkron) is akarsz zsonglőrködni, mindkét kezeddel nagyon jól kell tudnod ezt a trükköt.
 
 
-# <a name="koszoru.html"></a>Koszorú
+# <a name="koszoru"></a>Koszorú
 
 ![shower](/videos/mp4/shower.mp4)
 
-Ez az a trükk, amit a legtöbben elkezdenek próbálgatni, amikor zsonglőrködni tanulnak. Ugyanakkor ez nem a legjobb kezdés… Első trükknek a [Kaszkádot](#kaszkad.html) érdemes megtanulni, a Koszorú ugyanis **sokkal** gyorsabb.
+Ez az a trükk, amit a legtöbben elkezdenek próbálgatni, amikor zsonglőrködni tanulnak. Ugyanakkor ez nem a legjobb kezdés… Első trükknek a [Kaszkádot](#kaszkad) érdemes megtanulni, a Koszorú ugyanis **sokkal** gyorsabb.
 
 Kétféle dobást kell megtanulnod. A jobb kezedből magasan, ívesen kell dobni, a balból pedig vízszintesen. Fogj két labdát a jobb kezedbe, egyet a másikba! Dobd fel az egyiket a jobb kezedből. Ezután minden ütemben két labdát kell eldobni: egyet jobbról, egyet balról.
 
 
-# <a name="lab-alatt-2.html"></a>Láb alatt
+# <a name="lab-alatt-2"></a>Láb alatt
 
 ![clubunderleg](/videos/mp4/clubunderleg.mp4)
 
-Ez a trükk buzogánnyal is olyan könnyű, mint a [labdákkal](#lab-alatt.html) volt. A legfontosabb itt is az, hogy amint elkapod a buzogányt, indulj el vele a lábad felé. Nem szabad várni, amíg a dobásra kerül a sor. Ha nem vagy elég hajlékony :), a buzogányt a végénél fogd meg, így kicsit könnyebb a lábad alatt átlendíteni.
+Ez a trükk buzogánnyal is olyan könnyű, mint a [labdákkal](#lab-alatt) volt. A legfontosabb itt is az, hogy amint elkapod a buzogányt, indulj el vele a lábad felé. Nem szabad várni, amíg a dobásra kerül a sor. Ha nem vagy elég hajlékony :), a buzogányt a végénél fogd meg, így kicsit könnyebb a lábad alatt átlendíteni.
 
 
-# <a name="lab-alatt.html"></a>Láb alatt
+# <a name="lab-alatt"></a>Láb alatt
 
 ![undertheleg](/videos/mp4/undertheleg.mp4)
 
 A trükk lényege, hogy amint elkapod a labdát, rögtön kezdj a lábad felé közelíteni. Ha ugyanis túl sokat vársz, nem lesz időd a dobásra, mielőtt a következő labda megérkezik.
 
 
-# <a name="labda-elkapasa-nyakkal.html"></a>Labda elkapása nyakkal…
+# <a name="labda-elkapasa-nyakkal"></a>Labda elkapása nyakkal…
 
 ![neckcatch](/videos/mp4/neckcatch.mp4)
 
 Dobj egy labdát egy kicsit magasabbra mint általában! Figyeld a mozgását ameddig csak lehet, majd az utolsó pillanatban hajolj előre és próbáld meg a nyakaddal elkapni! A trükk kulcsa, hogy a lehető legtovább nézd a labdát… Nem szeretem ahogy a kezeim állnak ezen a videón, de az embernek fel kell emelni a fejét és a vállát ahhoz, hogy a leeső labdának megfelelő "leszállópályája" legyen a hátán. Először babzsákkal érdemes próbálkozni, hogy ne kelljen annyit keresgélni az elgurult ladákat…
 
-# <a name="majdnem-koszoru-2.html"></a>"Majdnem" koszorú
+# <a name="majdnem-koszoru-2"></a>"Majdnem" koszorú
 
 ![clubhalfshower](/videos/mp4/clubhalfshower.mp4)
 
-A labdákhoz hasonlóan, a "Majdnem" koszorú előfeltétele itt is az [Átadás felül](#atadas-felul-2.html) biztos ismerete. A trükk mindössze annyiból áll, hogy az egyik irányba folyamatosan felül dobjuk a buzogányt. Ennél a dobásnál a buzogányt egészen végén, a csomónál fogom meg.
+A labdákhoz hasonlóan, a "Majdnem" koszorú előfeltétele itt is az [Átadás felül](#atadas-felul-2) biztos ismerete. A trükk mindössze annyiból áll, hogy az egyik irányba folyamatosan felül dobjuk a buzogányt. Ennél a dobásnál a buzogányt egészen végén, a csomónál fogom meg.
 
 
-# <a name="majdnem-koszoru.html"></a>"Majdnem" koszorú
+# <a name="majdnem-koszoru"></a>"Majdnem" koszorú
 
 ![halfshower](/videos/mp4/halfshower.mp4)
 
-Ha már elég jól megy az [Átadás felül](#atadas-felul.html)  [](.htmltrukkok/harom-labda/felul/atadas-felul/), megpróbálkozhatsz a "majdnem" koszorúval.
+Ha már elég jól megy az [Átadás felül](#atadas-felul)  [](trukkok/harom-labda/felul/atadas-felul/), megpróbálkozhatsz a "majdnem" koszorúval.
 Csak annyi a különbség, hogy egyik irányban mindig felül kell dobni a labdát.
 
 
-# <a name="marok.html"></a>Marok
+# <a name="marok"></a>Marok
 
 ![clawing](/videos/mp4/clawing.mp4)
 
@@ -643,16 +643,16 @@ A trükk lényege, hogy a labdákat nem alulról, hanem tenyérrel lefelé – f
 ![clawingbothhands](/videos/mp4/clawingbothhands.mp4)
 
 
-# <a name="megforditva.html"></a>Megfordítva
+# <a name="megforditva"></a>Megfordítva
 
 ![clubbackflip](/videos/mp4/clubbackflip.mp4)
 
-A normál [kaszkád dobás](#kaszkad-2.html) helyett, a buzogányt fordítva pörgetjük meg a levegőben. Ezt először gyakorold be egy kézzel. A lényeg, hogy dobáskor a buzogány nyelét kell megemelni.
+A normál [kaszkád dobás](#kaszkad-2) helyett, a buzogányt fordítva pörgetjük meg a levegőben. Ezt először gyakorold be egy kézzel. A lényeg, hogy dobáskor a buzogány nyelét kell megemelni.
 
 ![clubbackflip-side](/videos/mp4/clubbackflip-side.mp4)
 
 
-# <a name="mills-mess.html"></a>Mills mess
+# <a name="mills-mess"></a>Mills mess
 
 ![millsmess](/videos/mp4/millsmess.mp4)
 
@@ -675,53 +675,53 @@ Ha már elég gyakorlott vagy, jöhet a két mozdulatsor összekötése. Ez elő
 Visszatérve az utolsó videóra láthatod, hogy a végén a felső kézben egy labda van. A következő feladat, hogy amikor ezt a labdát elkapod, dobd vissza. Ez a dobás ugyanolyan lesz mint a legelső dobás volt, csak a másik kezeddel és a másik irányba. (Na ezért kellett begyakorolni mindkettőt.) Innentől ugyanúgy kell folytatni, mint először, csak most mindent fordítva csinálunk. Arra figyelj, hogy amikor a kezeid keresztben vannak, a felső kézből dobd át a labdát a másik oldalra, aztán szét a kezeket és kézcsere (a másik legyen felül). Próbáld a két felső labdát jól dobni, és reménykedjünk, hogy a harmadik köben megtalálja az utat alul…
 
 
-# <a name="mindket-lab-alatt.html"></a>Mindkét láb alatt
+# <a name="mindket-lab-alatt"></a>Mindkét láb alatt
 
 ![clubunderbothlegs](/videos/mp4/clubunderbothlegs.mp4)
 
-Ha már megy a [láb alatti dobás](#lab-alatt-2.html), ez lehet a következő lépés.
+Ha már megy a [láb alatti dobás](#lab-alatt-2), ez lehet a következő lépés.
 
 
-# <a name="ojoj.html"></a>Ójoj
+# <a name="ojoj"></a>Ójoj
 
 ![oy-oy](/videos/mp4/oy-oy.mp4)
 
-Az Ójoj egy felfordított [Jojó](#jojo.html).
+Az Ójoj egy felfordított [Jojó](#jojo).
 
 
-# <a name="oszlopok-negy-labdaval.html"></a>Oszlopok négy labdával
+# <a name="oszlopok-negy-labdaval"></a>Oszlopok négy labdával
 
 ![fourcolumns](/videos/mp4/fourcolumns.mp4)
 
-Ez a trükk nagyon hasonlít az [Egyet fel, kettőt fel – mérleg](#egyet-fel-kettot-fel-merleg.html) figurára, kivéve, hogy az "egyet fel" itt most "kettőt fel" jelent.
+Ez a trükk nagyon hasonlít az [Egyet fel, kettőt fel – mérleg](#egyet-fel-kettot-fel-merleg) figurára, kivéve, hogy az "egyet fel" itt most "kettőt fel" jelent.
 
 
-# <a name="oszlopok.html"></a>Oszlopok
+# <a name="oszlopok"></a>Oszlopok
 
 ![twoinonecolumns](/videos/mp4/twoinonecolumns.mp4)
 
 A labdák egymás mellett haladnak, párhuzamosan.   Figyelj arra, hogy a kezed csak oldalra mozogjon, ne előre-hátra!
 
 
-# <a name="pingvin.html"></a>Pingvin
+# <a name="pingvin"></a>Pingvin
 
 ![penguincatches](/videos/mp4/penguincatches.mp4)
 
 A pingvin lényege, hogy a labdákat a kezedet hátrafordítva kapod el. (A mozdulat ugyanaz, mint a hát mögötti elkapásnál.)
 
 
-# <a name="swoop.html"></a>Swoop
+# <a name="swoop"></a>Swoop
 
 ![swoop](/videos/mp4/swoop.mp4)
 
-Induljunk ki [két egymás mellett](#oszlopok.html) dobált labdából! A harmadik labdát emeld a fejed fölé, ahogy a filmen látszik! Amikor a másik oszlop felér a tetőpontra, engedd el a labdát, és [kapd el](#marok.html) a másikat. Figyeld meg, hogy a középső labda végig a saját oszlopában marad! A fent elkapott labdát ereszd le, majd dobd fel egyenesen! Egyszerűbb mint ahogy hangzik…
+Induljunk ki [két egymás mellett](#oszlopok) dobált labdából! A harmadik labdát emeld a fejed fölé, ahogy a filmen látszik! Amikor a másik oszlop felér a tetőpontra, engedd el a labdát, és [kapd el](#marok) a másikat. Figyeld meg, hogy a középső labda végig a saját oszlopában marad! A fent elkapott labdát ereszd le, majd dobd fel egyenesen! Egyszerűbb mint ahogy hangzik…
 
 
-# <a name="szetvalo-labdak.html"></a>Szétváló labdák
+# <a name="szetvalo-labdak"></a>Szétváló labdák
 
 ![fiveballsplits](/videos/mp4/fiveballsplits.mp4)
 
-A háromlabdás [Kaszkád](#kaszkad.html) biztos ismeretében nyugodt lélekkel állhatsz neki a trükk elsajátításának. Tulajdonképpen ez az egyik "legegyszerűbb" ötlabdás trükk, szinte pontról-pontra megyegyezik a kaszkáddal, legalábbis ha már sikerült jól begyakorolni…
+A háromlabdás [Kaszkád](#kaszkad) biztos ismeretében nyugodt lélekkel állhatsz neki a trükk elsajátításának. Tulajdonképpen ez az egyik "legegyszerűbb" ötlabdás trükk, szinte pontról-pontra megyegyezik a kaszkáddal, legalábbis ha már sikerült jól begyakorolni…
 
 Nézzük apránként:
 - Fogj három labdát a jobb kezedbe (illetőleg az ügyesebbikbe), kettőt pedig a másikba.
@@ -730,74 +730,74 @@ Nézzük apránként:
 - Most a jobb kezedből dobj fel két labdát ugyanígy, és ezzel körbe is értünk…
 
 
-# <a name="szivarvany.html"></a>Szivárvány
+# <a name="szivarvany"></a>Szivárvány
 
 ![rainbowcross](/videos/mp4/rainbowcross.mp4)
 
-A szivárvány az [Egyet fel, kettőt fel – mérleg](#egyet-fel-kettot-fel-merleg.html) figura egyszerű variációja. Ahelyett, hogy a két külső labdát felfelé dobod, dobd őket át a másik kezedbe. Az egyetlen probléma az lehet, hogy összeütköznek a labdák. Én mindig a jobb kezemből induló labdát dobom felül, de vannak olyanok is, akik nem egymás fölött, hanem egymás előtt dobják a labdákat.
+A szivárvány az [Egyet fel, kettőt fel – mérleg](#egyet-fel-kettot-fel-merleg) figura egyszerű variációja. Ahelyett, hogy a két külső labdát felfelé dobod, dobd őket át a másik kezedbe. Az egyetlen probléma az lehet, hogy összeütköznek a labdák. Én mindig a jobb kezemből induló labdát dobom felül, de vannak olyanok is, akik nem egymás fölött, hanem egymás előtt dobják a labdákat.
 
 
-# <a name="szokokut-negy-labdaval-aszinkron.html"></a>Szökőkút négy labdával (aszinkron)
+# <a name="szokokut-negy-labdaval-aszinkron"></a>Szökőkút négy labdával (aszinkron)
 
 ![fourasynchronous](/videos/mp4/fourasynchronous.mp4)
 
-Mielőtt a trükköt megtanulhatnád, mindkét kezeddel jól be kell gyakorolnod a [Kör kifelé](#kor-kifele.html) figurát. Fogj két-két labdát mindkét kezedbe! Dobj fel egyet az egyik oldalról, majd amikor eléri a pályája csúcsát dobj egyet a másikról. Közben az első labda már majdnem leesett, így itt az idő kicserélni a kezedben levővel. Végül a negyedik labda indul a másik kezedből. Mindkét kézben körbe haladnak a labdák, és soha nem cserélnek kezet!
+Mielőtt a trükköt megtanulhatnád, mindkét kezeddel jól be kell gyakorolnod a [Kör kifelé](#kor-kifele) figurát. Fogj két-két labdát mindkét kezedbe! Dobj fel egyet az egyik oldalról, majd amikor eléri a pályája csúcsát dobj egyet a másikról. Közben az első labda már majdnem leesett, így itt az idő kicserélni a kezedben levővel. Végül a negyedik labda indul a másik kezedből. Mindkét kézben körbe haladnak a labdák, és soha nem cserélnek kezet!
 
 
-# <a name="szokokut-negy-labdaval-szinkron.html"></a>Szökőkút négy labdával (szinkron)
+# <a name="szokokut-negy-labdaval-szinkron"></a>Szökőkút négy labdával (szinkron)
 
 ![foursynchronous](/videos/mp4/foursynchronous.mp4)
 
-Mielőtt a trükköt megtanulhatnád, mindkét kezeddel be kell gyakorolnod [Kör kifelé](#kor-kifele.html) figurát. Fogj két-két labdát mindkét kezedbe! Ebben a trükkben mindkét oldalról egyszerre indulnak a labdák, ezen kívül csak csináld ugyanazt, amit a két labdás figuránál. Figyeld meg, hogy a labdák nem cserélnek kezet!
+Mielőtt a trükköt megtanulhatnád, mindkét kezeddel be kell gyakorolnod [Kör kifelé](#kor-kifele) figurát. Fogj két-két labdát mindkét kezedbe! Ebben a trükkben mindkét oldalról egyszerre indulnak a labdák, ezen kívül csak csináld ugyanazt, amit a két labdás figuránál. Figyeld meg, hogy a labdák nem cserélnek kezet!
 
 
-# <a name="tenisz.html"></a>Tenisz
+# <a name="tenisz"></a>Tenisz
 
 ![tennis](/videos/mp4/tennis.mp4)
 
-A tenisz az [Átadás felül](#atadas-felul.html) egy variációja.
+A tenisz az [Átadás felül](#atadas-felul) egy variációja.
 
 Először dobj át egy labdát a többi fölött, aztán amikor megint erre a labdára kerül a sor, ne alul, hanem felül dobd vissza. Ezentúl ez a labda mindig a társai fölött utazik jobbra-balra… Itt is ugyanazt tanácsolom mint a felső átadásnál:	a trükk jobban néz ki, ha egy kicsit kijjebb visszed a kezed dobás előtt, így a labda egy kicsit laposabb íven repül.
 
 
-# <a name="villa.html"></a>Villa
+# <a name="villa"></a>Villa
 
 ![forkcatch](/videos/mp4/forkcatch.mp4)
 
 Ezzel a trükkel el tudsz kapni egy labdát kezed hátulján. Feszítsd ki a mutató- és a középső ujjadat, és hagyd hogy a labda belessen az így kialakított "villába". Van aki a mutató mellett a gyűrűs ujját használja, a középső ujját pedig egy kicsit lejjebb engedi. (Én is így csinálom a videón.) Az ütközés erejét csillapíthatod, ha a beérkezéskor kicsit lejjebb viszed a kezed – követve a labda haladási irányát. A lényeg, hogy ne pattanjon le a kezedről…
 
 
-# <a name="villanas.html"></a>Villanás
+# <a name="villanas"></a>Villanás
 
 ![flash](/videos/mp4/flash.mp4)
 
 A villanás közben **mindhárom** labda a levegőben van. Dobd fel a labdákat gyors egymásutánban a levegőbe, és próbálj meg tapsolni, hogy megbizonyosodj: tényleg üres a kezed. Ez az öt labdával való zsonglőrködés első lépése. Ott egyszerre hármat kell a levegőben tartani, amikor pedig leesik egy, egy másik indul fel helyette.
 
 
-# <a name="w.html"></a>W
+# <a name="w"></a>W
 
 ![w](/videos/mp4/w.mp4)
 
-Ez a trükk majdnem azonos a [Jobb, közép, bal](#jobb-kozep-bal.html) figurával, csak a középső labda nem függőlegesen mozog, hanem jobbra-balra egy szélesebb szakaszon.
+Ez a trükk majdnem azonos a [Jobb, közép, bal](#jobb-kozep-bal) figurával, csak a középső labda nem függőlegesen mozog, hanem jobbra-balra egy szélesebb szakaszon.
 
 
-# <a name="wimpy.html"></a>Wimpy
+# <a name="wimpy"></a>Wimpy
 
 ![fourwimpy](/videos/mp4/fourwimpy.mp4)
 
 A labdák egymás útját keresztezik, majd a másik kézben landolnak. Ha páros számú labdával így zsonglőrködsz, azt mondják határozatlan vagy. (Wimpy magyarul: határozatlan, döntésképtelen.) Szerintem ez rossz név, hiszen elég nehéz mondjuk tíz labdával **határozatlanul** zsonglőrködni. Mások **szinkron keresztezésnek** is nevezik, ami találóbb, de nem olyan fülbemászó.
 
- **Nem-wimpy** módnál a labdák nem cserélnek kezet (fele itt, fele ott). Lásd például a [Szökőkút](#szokokut-negy-labdaval-szinkron.html) és [Dugattyúk](#dugattyuk.html) figurákat.
+ **Nem-wimpy** módnál a labdák nem cserélnek kezet (fele itt, fele ott). Lásd például a [Szökőkút](#szokokut-negy-labdaval-szinkron) és [Dugattyúk](#dugattyuk) figurákat.
 
 
 
-# <a name="/en/index.html"></a>Tricks
+# <a name="/en/index"></a>Tricks
 
 Wildcat Jugglers were a group of students who met once a week to juggle. The club met at Thunder Bay Junior High in Alpena, Michigan.
 
 This tutorial is designed to teach beginning to intermediate juggling patterns.
 
-For better written descriptions of these tricks, I highly recommend Jon Relf's [TWJC Tutorials](http://www.twjc.co.uk/tutorials.html). There you will find well thought out written descriptions of many more tricks than I have listed here. I also recommend buying
+For better written descriptions of these tricks, I highly recommend Jon Relf's [TWJC Tutorials](http://www.twjc.co.uk/tutorials). There you will find well thought out written descriptions of many more tricks than I have listed here. I also recommend buying
 [Charlie Dancey's Encyclopedia of Ball Juggling](https://www.goodreads.com/book/show/969254.Charlie_Dancey_s_Encyclopaedia_of_Ball_Juggling). It's fun to read and has great illustrations.
 
 This list is organized by similar types of tricks.
@@ -808,220 +808,220 @@ The tutorial is also available in [Hungarian](/).
 
 Let's see how to become a juggler…
 
--  [Learning the Cascade](#/en/learningthecascade.html)
+-  [Learning the Cascade](#/en/learningthecascade)
 
 ## Two in One Hand
 
 These are nice tricks on their own. They also give the basis for the more complicated patterns with 3 or more balls.
 
--  [Inside](#/en/twoinonehand-inside.html)
--  [Outside](#/en/twoinonehand-outside.html)
--  [Columns](#/en/twoinonehand-columns.html)
+-  [Inside](#/en/twoinonehand-inside)
+-  [Outside](#/en/twoinonehand-outside)
+-  [Columns](#/en/twoinonehand-columns)
 
 ## Three Balls
 
 Everything you need from the basics to intermediate level.
 ### Cascase Patterns
 
--  [Cascade](#/en/cascade.html)
--  [Reverse Cascade](#/en/reversecascade.html)
--  [Crossed Arm Reverse Cascade](#/en/crossedarmreversecascade.html)
--  [Under the Arm](#/en/underthearm.html)
--  [Overhead Cascade](#/en/overheadcascade.html)
+-  [Cascade](#/en/cascade)
+-  [Reverse Cascade](#/en/reversecascade)
+-  [Crossed Arm Reverse Cascade](#/en/crossedarmreversecascade)
+-  [Under the Arm](#/en/underthearm)
+-  [Overhead Cascade](#/en/overheadcascade)
 
 ### Over the Top Patterns
 
--  [Over the Top](#/en/overthetop.html)
--  [Half Shower](#/en/halfshower.html)
--  [Tennis](#/en/tennis.html)
+-  [Over the Top](#/en/overthetop)
+-  [Half Shower](#/en/halfshower)
+-  [Tennis](#/en/tennis)
 
 ### Yo-Yo Patterns
 
--  [Yo-Yo](#/en/yo-yo.html)
--  [Oy-Oy](#/en/oy-oy.html)
--  [Double Yo-Yo](#/en/doubleyo-yo.html)
--  [Yo-Yo Orbit](#/en/yo-yoorbit.html)
--  [Yo-Yo On Both Sides](#/en/yo-yoonbothsides.html)
--  [Fake One-up Two-up](#/en/fakeone-uptwo-up.html)
+-  [Yo-Yo](#/en/yo-yo)
+-  [Oy-Oy](#/en/oy-oy)
+-  [Double Yo-Yo](#/en/doubleyo-yo)
+-  [Yo-Yo Orbit](#/en/yo-yoorbit)
+-  [Yo-Yo On Both Sides](#/en/yo-yoonbothsides)
+-  [Fake One-up Two-up](#/en/fakeone-uptwo-up)
 
 ### Mills Mess Patterns
 
--  [Mills mess](#/en/millsmess.html)
--  [False Shower](#/en/falseshower.html)
--  [Half Mess](#/en/halfmess.html)
--  [Boston mess](#/en/bostonmess.html)
+-  [Mills mess](#/en/millsmess)
+-  [False Shower](#/en/falseshower)
+-  [Half Mess](#/en/halfmess)
+-  [Boston mess](#/en/bostonmess)
 
 ### Behind the Back Patterns
 
--  [Behind the Back Catch](#/en/behindthebackcatch.html)
--  [Behind the Back](#/en/behindtheback.html)
--  [Behind the Back Start](#/en/behindthebackstart.html)
+-  [Behind the Back Catch](#/en/behindthebackcatch)
+-  [Behind the Back](#/en/behindtheback)
+-  [Behind the Back Start](#/en/behindthebackstart)
 
 ### Special Catches
 
--  [Clawing](#/en/clawing.html)
--  [Fork Catch](#/en/forkcatch.html)
--  [Neck Catch](#/en/neckcatch.html)
--  [Penguin Catches](#/en/penguincatches.html)
+-  [Clawing](#/en/clawing)
+-  [Fork Catch](#/en/forkcatch)
+-  [Neck Catch](#/en/neckcatch)
+-  [Penguin Catches](#/en/penguincatches)
 
 ### One-up Two-up Patterns
 
--  [One-up Two-up](#/en/one-uptwo-up.html)
--  [One-up Two-up Tennis](#/en/one-uptwo-uptennis.html)
--  [One-up Two-up Hops](#/en/one-uptwo-uphops.html)
--  [One-up Two-up Infinity](#/en/one-uptwo-upinfinity.html)
--  [One-up Two-up Shower](#/en/one-uptwo-upshower.html)
--  [Rainbow Cross](#/en/rainbowcross.html)
--  [Factory](#/en/factory.html)
+-  [One-up Two-up](#/en/one-uptwo-up)
+-  [One-up Two-up Tennis](#/en/one-uptwo-uptennis)
+-  [One-up Two-up Hops](#/en/one-uptwo-uphops)
+-  [One-up Two-up Infinity](#/en/one-uptwo-upinfinity)
+-  [One-up Two-up Shower](#/en/one-uptwo-upshower)
+-  [Rainbow Cross](#/en/rainbowcross)
+-  [Factory](#/en/factory)
 
 ### 423 Patterns
 
--  [423](#/en/423.html)
--  [W](#/en/w.html)
--  [Right Middle Left](#/en/rightmiddleleft.html)
--  [Real Tennis](#/en/realtennis.html)
--  [Take Outs](#/en/takeouts.html)
--  [Burke's Barrage](#/en/burkesbarrage.html)
--  [Fake Mess](#/en/fakemess.html)
+-  [423](#/en/423)
+-  [W](#/en/w)
+-  [Right Middle Left](#/en/rightmiddleleft)
+-  [Real Tennis](#/en/realtennis)
+-  [Take Outs](#/en/takeouts)
+-  [Burke's Barrage](#/en/burkesbarrage)
+-  [Fake Mess](#/en/fakemess)
 
 ### Shower Patterns
 
--  [Shower](#/en/shower.html)
--  [Inverted Shower](#/en/invertedshower.html)
+-  [Shower](#/en/shower)
+-  [Inverted Shower](#/en/invertedshower)
 
 ### Box
 
--  [Box](#/en/box.html)
--  [Drop box](#/en/dropbox.html)
--  [441](#/en/441.html)
+-  [Box](#/en/box)
+-  [Drop box](#/en/dropbox)
+-  [441](#/en/441)
 
 ### Miscellaneous
 
--  [Roll a Ball Off Your Head](#/en/rollaballoffyourhead.html)
--  [Pendulum](#/en/pendulum.html)
--  [Around Head](#/en/aroundhead.html)
--  [Chops](#/en/chops.html)
--  [Flash](#/en/flash.html)
--  [Under the Leg](#/en/undertheleg.html)
--  [Swoop](#/en/swoop.html)
--  [Slam](#/en/slam.html)
--  [False Shower Yo-Yo](#/en/falseshoweryo-yo.html)
--  [Orbit](#/en/orbit.html)
+-  [Roll a Ball Off Your Head](#/en/rollaballoffyourhead)
+-  [Pendulum](#/en/pendulum)
+-  [Around Head](#/en/aroundhead)
+-  [Chops](#/en/chops)
+-  [Flash](#/en/flash)
+-  [Under the Leg](#/en/undertheleg)
+-  [Swoop](#/en/swoop)
+-  [Slam](#/en/slam)
+-  [False Shower Yo-Yo](#/en/falseshoweryo-yo)
+-  [Orbit](#/en/orbit)
 
 ## Four Balls
 
 Once you learned to juggle two and three balls, you can try four balls. You can get to this level after 2-3 months of daily practicing.
 
--  [Asynchronous Fountain](#/en/fourballasynchronousfountain.html)
--  [Synchronous Fountain](#/en/fourballsynchronousfountain.html)
--  [Columns](#/en/fourballcolumns.html)
--  [Pistons](#/en/fourballpistons.html)
--  [Synchronous Half Shower](#/en/fourballsynchronoushalfshower.html)
+-  [Asynchronous Fountain](#/en/fourballasynchronousfountain)
+-  [Synchronous Fountain](#/en/fourballsynchronousfountain)
+-  [Columns](#/en/fourballcolumns)
+-  [Pistons](#/en/fourballpistons)
+-  [Synchronous Half Shower](#/en/fourballsynchronoushalfshower)
 
 ## Five Balls
 
 You can start working on these after half of year - a year of intensive practice. These patterns are much harder to learn and master.
 
--  [Cascade](#/en/fiveballcascade.html)
--  [Splits](#/en/fiveballsplits.html)
+-  [Cascade](#/en/fiveballcascade)
+-  [Splits](#/en/fiveballsplits)
 
 ## Three Clubs
 
 You can start practicing clubs right after learning the three balls cascade.
 
--  [Cascade](#/en/clubcascade.html)
--  [Doubles](#/en/clubdoubles.html)
--  [Half Shower](#/en/clubhalfshower.html)
--  [Over the Top](#/en/cluboverthetop.html)
--  [Reverse Spin](#/en/clubreversespin.html)
--  [Under the Leg](#/en/clubundertheleg.html)
--  [Under Both Legs](#/en/clubunderbothlegs.html)
+-  [Cascade](#/en/clubcascade)
+-  [Doubles](#/en/clubdoubles)
+-  [Half Shower](#/en/clubhalfshower)
+-  [Over the Top](#/en/cluboverthetop)
+-  [Reverse Spin](#/en/clubreversespin)
+-  [Under the Leg](#/en/clubundertheleg)
+-  [Under Both Legs](#/en/clubunderbothlegs)
 
 ## Three Rings
 
 It's worth trying the rings as well.
--  [Cascade](#/en/ringcascade.html)
+-  [Cascade](#/en/ringcascade)
 
 ## Non-Juggling Stuff
 
--  [Boomerang Rubber Band (twanging)](#/en/boomerang-rubber-band.html)
+-  [Boomerang Rubber Band (twanging)](#/en/boomerang-rubber-band)
 
  ![img](/images/dobol-macska.png)
 
-# <a name="/en/441.html"></a>441
+# <a name="/en/441"></a>441
 
 ![441](/videos/mp4/441.mp4)
 
-441 is a siteswap name. Check for tutorials on the internet, if you don't know what [Siteswaps](http://en.wikipedia.org/wiki/siteswap) are. to do this, you just do [two in one hand - outside](twoinonehand-outside.html) for two throws, then fire one across the bottom to the other hand. do two in one hand there and throw that one across the bottom again. the bottom throw is the same throw that's used in the [box](box.html) or the [shower](shower.html).
+441 is a siteswap name. Check for tutorials on the internet, if you don't know what [Siteswaps](http://en.wikipedia.org/wiki/siteswap) are. to do this, you just do [two in one hand - outside](twoinonehand-outside) for two throws, then fire one across the bottom to the other hand. do two in one hand there and throw that one across the bottom again. the bottom throw is the same throw that's used in the [box](box) or the [shower](shower).
 
-# <a name="/en/aroundhead.html"></a>Around Head
+# <a name="/en/aroundhead"></a>Around Head
 
 ![AroundHead](/videos/mp4/aroundhead.mp4)
 
-This pattern is a lot like the [Pendulum](pendulum.html). Do [Two in One Hand - Outside](twoinonehand-outside.html). Every time the ball finishes circling your head, drop it into the pattern and grab the ball from the two in one hand as it peaks.
+This pattern is a lot like the [Pendulum](pendulum). Do [Two in One Hand - Outside](twoinonehand-outside). Every time the ball finishes circling your head, drop it into the pattern and grab the ball from the two in one hand as it peaks.
 
-# <a name="/en/423.html"></a>423
+# <a name="/en/423"></a>423
 
 ![423](/videos/mp4/423.mp4)
 
-I named this by its siteswap name. Check for tutorials on the internet, if you don't know what [Siteswaps](http://en.wikipedia.org/wiki/siteswap) are. the throwing pattern of this is the same as several tricks with different names. by throwing the balls in the same order, but changing the path they follow, you can make some tricks that look completely different from this one. check out [right, middle, left](rightmiddleleft.html), [w](w.html), [take outs](takeouts.html), and [fake mess](fakemess.html) for some other tricks with the siteswap 423.
+I named this by its siteswap name. Check for tutorials on the internet, if you don't know what [Siteswaps](http://en.wikipedia.org/wiki/siteswap) are. the throwing pattern of this is the same as several tricks with different names. by throwing the balls in the same order, but changing the path they follow, you can make some tricks that look completely different from this one. check out [right, middle, left](rightmiddleleft), [w](w), [take outs](takeouts), and [fake mess](fakemess) for some other tricks with the siteswap 423.
 
 
-# <a name="/en/behindtheback.html"></a>Behind the Back
+# <a name="/en/behindtheback"></a>Behind the Back
 
 ![BehindTheBack](/videos/mp4/behindtheback.mp4)
 Before trying to do this while juggling, practice throwing one ball behind your back and catching it with the other hand. When you try to do this while juggling, start the throw as soon as you catch the ball. If you wait until it's time to throw, there won't be time to do it.
 
-# <a name="/en/behindthebackcatch.html"></a>Behind the Back Catch
+# <a name="/en/behindthebackcatch"></a>Behind the Back Catch
 
 ![BehindTheBackCatch](/videos/mp4/behindthebackcatch.mp4)
 
 Practice catching a ball behind your back without juggling. It's not as hard as it might look. Just as you don't look at your hands when you juggle any other pattern, you don't need to see your hand to catch behind your back. Watch the ball as long as you can before it goes out of sight behind your back. If you see it peak, your hand will know where it's going to land.
 
-# <a name="/en/behindthebackstart.html"></a>Behind the Back Start
+# <a name="/en/behindthebackstart"></a>Behind the Back Start
 
 ![BehindTheBackStart](/videos/mp4/behindthebackstart.mp4)
 
 Throw all three balls behind your back. I throw the one near my fingertips the highest. Claw the bottom two and start juggling. It would be best to try throwing all three up in front of you and start juggling before you try behind your back.
 
-# <a name="/en/bostonmess.html"></a>Boston Mess
+# <a name="/en/bostonmess"></a>Boston Mess
 
 ![BostonMess](/videos/mp4/bostonmess.mp4)
 
 This trick is also know as the Half Boston Mess. One arm always stays on top, when the arm on top alternates in each succession of throws this trick is called the [Full Boston Mess](http://juggle.wikia.com/wiki/Boston_mess). That hand throws each ball straight up in succession and then starts over with the first ball.
 
-# <a name="/en/box.html"></a>Box
+# <a name="/en/box"></a>Box
 
 ![Box](/videos/mp4/box.mp4)
 
 For the Box, two balls go up and down in columns and the other gets thrown straight across the bottom. I have a tendency to hand the ball back and forth across the bottom which doesn't look good at all. Practice throwing it straight across the bottom.
 
-# <a name="/en/burkesbarrage.html"></a>Burke's Barrage
+# <a name="/en/burkesbarrage"></a>Burke's Barrage
 
 ![BurkesBarrage](/videos/mp4/burkesbarrage.mp4)
 
-Burke's Barrage is a lot like [Take Outs](takeouts.html). In [Take Outs](takeouts.html), you carry the ball up and around the other two ball. When doing Burke's Barrage, you pause slightly until there's time to carry the ball between the other two.
+Burke's Barrage is a lot like [Take Outs](takeouts). In [Take Outs](takeouts), you carry the ball up and around the other two ball. When doing Burke's Barrage, you pause slightly until there's time to carry the ball between the other two.
 
-# <a name="/en/cascade.html"></a>Cascade
+# <a name="/en/cascade"></a>Cascade
 
 ![Cascade](/videos/mp4/cascade.mp4)
 
-This is the basic move in juggling. Check out [Learning the Three Ball Cascade](learningthecascade.html) if you don't know how to do this and want to learn.
+This is the basic move in juggling. Check out [Learning the Three Ball Cascade](learningthecascade) if you don't know how to do this and want to learn.
 
-# <a name="/en/chops.html"></a>Chops
+# <a name="/en/chops"></a>Chops
 
 ![Chops](/videos/mp4/chops.mp4)
 
-This is a variation of the [Cascade](cascade.html). Start by grabbing one ball at the top of its path. Then quickly move your hand downward between the other two balls. The throw will be a normal [Cascade](cascade.html) throw. At first you may want to just do one chop with one hand and work your way up to continuous chops.
+This is a variation of the [Cascade](cascade). Start by grabbing one ball at the top of its path. Then quickly move your hand downward between the other two balls. The throw will be a normal [Cascade](cascade) throw. At first you may want to just do one chop with one hand and work your way up to continuous chops.
 
-# <a name="/en/clawing.html"></a>Clawing
+# <a name="/en/clawing"></a>Clawing
 
 ![Clawing](/videos/mp4/clawing.mp4)
 
 Clawing is just an overhand grab of a ball. Just reach up and grab the ball with your palm down. At first, just try one catch with one hand. Once you master that, try every catch with one hand, then every catch with the other hand, and eventually work up to every catch with both hands.
 
-# <a name="/en/clubcascade.html"></a>Club Cascade
-Learning how to juggle clubs is a lot like learning to juggle a [Three Ball Cascade](cascade.html). Start with one club and toss it back and forth. You should hold the club in the middle of the handle, not at the very end of the club (the knob). Imagine a line extending from the center of your chest straight out in front of you. When holding the club it should be held out at an angle of approximately 45° from this center line. When you throw it, swing it in front of your body to an angle about 45° out to the opposite side and then throw it. Practice making your throws somewhat low and quick. Beginning club jugglers tend to have high throws that just barely make it around. To me it looks better if the club snaps around and lands with a smack in your hand.
+# <a name="/en/clubcascade"></a>Club Cascade
+Learning how to juggle clubs is a lot like learning to juggle a [Three Ball Cascade](cascade). Start with one club and toss it back and forth. You should hold the club in the middle of the handle, not at the very end of the club (the knob). Imagine a line extending from the center of your chest straight out in front of you. When holding the club it should be held out at an angle of approximately 45° from this center line. When you throw it, swing it in front of your body to an angle about 45° out to the opposite side and then throw it. Practice making your throws somewhat low and quick. Beginning club jugglers tend to have high throws that just barely make it around. To me it looks better if the club snaps around and lands with a smack in your hand.
 
 ![OneClub](/videos/mp4/oneclub.mp4)
 
@@ -1037,103 +1037,103 @@ When you're ready to juggle three, it should look something like this.
 
 ![ClubCascade](/videos/mp4/clubcascade.mp4)
 
-# <a name="/en/clubdoubles.html"></a>Club Doubles
+# <a name="/en/clubdoubles"></a>Club Doubles
 
 ![ClubDoubles](/videos/mp4/clubdoubles.mp4)
 
-Once you've learned the [Cascade](clubcascade.html) with clubs, you can learn to throw doubles. This is what it looks like when every throw is a double, but you'll want to start by just throwing one double out of a regular [Cascade](clubcascade.html) and work up to all doubles.
+Once you've learned the [Cascade](clubcascade) with clubs, you can learn to throw doubles. This is what it looks like when every throw is a double, but you'll want to start by just throwing one double out of a regular [Cascade](clubcascade) and work up to all doubles.
 
-# <a name="/en/clubhalfshower.html"></a>Club
+# <a name="/en/clubhalfshower"></a>Club
 
 ![ClubHalfShower](/videos/mp4/clubhalfshower.mp4)
 
-Before learning to do a Half Shower, you should learn to throw one club [Over the Top](cluboverthetop.html). Once you've got that mastered, then just throw every club over the top continuously. When I throw the club over the top, I let the club slide through my hand until I'm holding onto the knob and throw it from there.
+Before learning to do a Half Shower, you should learn to throw one club [Over the Top](cluboverthetop). Once you've got that mastered, then just throw every club over the top continuously. When I throw the club over the top, I let the club slide through my hand until I'm holding onto the knob and throw it from there.
 
-# <a name="/en/cluboverthetop.html"></a>Club Over the Top
+# <a name="/en/cluboverthetop"></a>Club Over the Top
 
 ![ClubOverTheTop](/videos/mp4/cluboverthetop.mp4)
 
 Just throw a club over the top, catch it on the other side, and continue juggling.
 
-# <a name="/en/clubreversespin.html"></a>Club Reverse Spin
+# <a name="/en/clubreversespin"></a>Club Reverse Spin
 
 ![ClubReverseSpin](/videos/mp4/clubbackflip.mp4)
 
-Instead of spinning a club the [Regular Way](clubcascade.html), you can spin it backwards. When you throw it, lift up on the handle.
+Instead of spinning a club the [Regular Way](clubcascade), you can spin it backwards. When you throw it, lift up on the handle.
 
 ![ClubReverseSpinSide](/videos/mp4/clubbackflip-side.mp4)
 
-# <a name="/en/clubunderbothlegs.html"></a>Club Under Both Legs
+# <a name="/en/clubunderbothlegs"></a>Club Under Both Legs
 
 ![ClubUnderBothLegs](/videos/mp4/clubunderbothlegs.mp4)
 
-If you can throw one club [Under the Leg](clubundertheleg.html), this is the next logical step!
+If you can throw one club [Under the Leg](clubundertheleg), this is the next logical step!
 
-# <a name="/en/clubundertheleg.html"></a>Club Under The Leg
+# <a name="/en/clubundertheleg"></a>Club Under The Leg
 
 ![ClubUnderTheLeg](/videos/mp4/clubunderleg.mp4)
 
-Throwing a club under your leg is just as easy as throwing a ball [Under the Leg](undertheleg.html). As soon as you catch the club that you're going to throw under your leg, start moving for your leg right away. Don't wait until it's time to throw and then reach for your leg. If you have trouble reaching under your leg, you may want to let the club slide through your hand so that you're holding it by the knob. This will give you a little more reach.
+Throwing a club under your leg is just as easy as throwing a ball [Under the Leg](undertheleg). As soon as you catch the club that you're going to throw under your leg, start moving for your leg right away. Don't wait until it's time to throw and then reach for your leg. If you have trouble reaching under your leg, you may want to let the club slide through your hand so that you're holding it by the knob. This will give you a little more reach.
 
-# <a name="/en/crossedarmreversecascade.html"></a>Crossed Arm Reverse Cascade
+# <a name="/en/crossedarmreversecascade"></a>Crossed Arm Reverse Cascade
 
 ![CrossedArmReverseCascade](/videos/mp4/crossedreversecascade.mp4)
 
-This is the same as the [Reverse Cascade](reversecascade.html), but your arms are crossed.
+This is the same as the [Reverse Cascade](reversecascade), but your arms are crossed.
 
-# <a name="/en/doubleyo-yo.html"></a>Double Yo-Yo
+# <a name="/en/doubleyo-yo"></a>Double Yo-Yo
 
 ![DoubleYo-Yo](/videos/mp4/doubleyoyo.mp4)
 
-Do a [Yo-Yo](yo-yo.html), then continue then pretend the two yo-yo balls are connected with a string as you carry the two balls underneath and do a [Yo-Yo](yo-yo.html) on the other side.
+Do a [Yo-Yo](yo-yo), then continue then pretend the two yo-yo balls are connected with a string as you carry the two balls underneath and do a [Yo-Yo](yo-yo) on the other side.
 
-# <a name="/en/dropbox.html"></a>Drop Box
+# <a name="/en/dropbox"></a>Drop Box
 
 ![DropBox](/videos/mp4/dropbox.mp4)
 
-This is a variation of the [Box](box.html). The ball that normally travels back and forth along the bottom goes over the ball on one side instead of under it.
+This is a variation of the [Box](box). The ball that normally travels back and forth along the bottom goes over the ball on one side instead of under it.
 
-# <a name="/en/factory.html"></a>Factory
+# <a name="/en/factory"></a>Factory
 
 ![Factory](/videos/mp4/factory.mp4)
 
-This is also known as "The Machine". Do [Fake One-up Two-up](fakeone-uptwo-up.html). When the carrying hand gets to the top, move it straight across the top of the other two balls. Let go of the ball you've been carrying. Now quickly [Claw](clawing.html) one of the other two balls. Carry the ball you just clawed to the top and do it all over again, and again, and again . . .
+This is also known as "The Machine". Do [Fake One-up Two-up](fakeone-uptwo-up). When the carrying hand gets to the top, move it straight across the top of the other two balls. Let go of the ball you've been carrying. Now quickly [Claw](clawing) one of the other two balls. Carry the ball you just clawed to the top and do it all over again, and again, and again . . .
 
-# <a name="/en/fakemess.html"></a>Fake Mess
+# <a name="/en/fakemess"></a>Fake Mess
 
 ![FakeMess](/videos/mp4/fakemess.mp4)
 
-Believe it or not, this is very closely related to the trick called [Right Middle Left](rightmiddleleft.html). Do [Right Middle Left](rightmiddleleft.html) and notice that one hand is just sitting there doing nothing at times during the trick. All you do is carry that ball under your other arm (don't let go!) and then carry it back in time for its next throw. Do that every time. Make the pattern sway back and forth a little to make it look more like [Mill's Mess](millsmess.html).
+Believe it or not, this is very closely related to the trick called [Right Middle Left](rightmiddleleft). Do [Right Middle Left](rightmiddleleft) and notice that one hand is just sitting there doing nothing at times during the trick. All you do is carry that ball under your other arm (don't let go!) and then carry it back in time for its next throw. Do that every time. Make the pattern sway back and forth a little to make it look more like [Mill's Mess](millsmess).
 
-# <a name="/en/fakeone-uptwo-up.html"></a>Fake One-up Two-up
+# <a name="/en/fakeone-uptwo-up"></a>Fake One-up Two-up
 
 ![FakeOne-upTwo-up](/videos/mp4/fakeoneuptwoup.mp4)
 
-Fake [One-up Two-up](one-uptwo-up.html) by doing [Two in One Hand - Columns](twoinonehand-columns.html) while the other hand just carries the third ball up and down following the outside ball.
+Fake [One-up Two-up](one-uptwo-up) by doing [Two in One Hand - Columns](twoinonehand-columns) while the other hand just carries the third ball up and down following the outside ball.
 
-# <a name="/en/falseshower.html"></a>False Shower
+# <a name="/en/falseshower"></a>False Shower
 
 ![FalseShower](/videos/mp4/falseshower.mp4)
 
-This pattern is also called the Spiral or Windmill. To learn the False Shower, throw [One Over the Top](overthetop.html) and one
- [Under the Arm](underthearm.html) at the same time. Work on making all the throws and carries follow a circular pattern.
+This pattern is also called the Spiral or Windmill. To learn the False Shower, throw [One Over the Top](overthetop) and one
+ [Under the Arm](underthearm) at the same time. Work on making all the throws and carries follow a circular pattern.
 
-# <a name="/en/falseshoweryo-yo.html"></a>False Shower Yo-Yo
+# <a name="/en/falseshoweryo-yo"></a>False Shower Yo-Yo
 
 ![FalseShowerYo-Yo](/videos/mp4/falseshoweryoyo.mp4)
 
-I don't know what the name of this pattern is, but it's one of my favorites. It's the same as the [False Shower](falseshower.html) except that one hand is turned over, raised, and follows the ball under it like the [Yo-Yo](yo-yo.html) pattern.
+I don't know what the name of this pattern is, but it's one of my favorites. It's the same as the [False Shower](falseshower) except that one hand is turned over, raised, and follows the ball under it like the [Yo-Yo](yo-yo) pattern.
 
-# <a name="/en/fiveballcascade.html"></a>Five Ball Cascade
+# <a name="/en/fiveballcascade"></a>Five Ball Cascade
 
 ![FiveBallCascade](/videos/mp4/fiveballcascade.mp4)
 
-Before trying this, you should know how to do a three ball [Flash](flash.html). You may also want to learn how to juggle
- [Four Balls](fourballasynchronousfountain.html) before learning five. The patterns for four and five are completely different, but just getting used to having more balls in the air might be a good idea. As the name implies, the Five Ball Cascade is the exact same pattern as the three ball [Cascade](cascade.html), only with two extra balls. The first three throws of a five ball cascade are the same as a three ball [Flash](flash.html). Once you throw those three balls up, it's just a matter of replacing them with the two balls in your hands as they come down. I know that's easier said than done.
+Before trying this, you should know how to do a three ball [Flash](flash). You may also want to learn how to juggle
+ [Four Balls](fourballasynchronousfountain) before learning five. The patterns for four and five are completely different, but just getting used to having more balls in the air might be a good idea. As the name implies, the Five Ball Cascade is the exact same pattern as the three ball [Cascade](cascade), only with two extra balls. The first three throws of a five ball cascade are the same as a three ball [Flash](flash). Once you throw those three balls up, it's just a matter of replacing them with the two balls in your hands as they come down. I know that's easier said than done.
 
 Here are a few tips:
 - Use beanbags. You'll spend less time chasing balls rolling or bouncing.
-- Keep practicing the three ball [Flash](flash.html).
+- Keep practicing the three ball [Flash](flash).
 - Some people watch the top of the two peaks the balls make, some watch the intersection of the paths just before the peaks. In any case, you should be looking up. I look up before I make my first throw.
 - It is slower and more relaxed than it looks when someone else is doing it. I think I was rushing it when I first started. I was also too tense. Relax.
 - Try not to move your elbows too much. They should be near your sides, not flailing all over the place.
@@ -1142,75 +1142,75 @@ Here are a few tips:
 
 ![Holding5](/images/holding5.jpg)
 
-# <a name="/en/fiveballsplits.html"></a>Five Ball Splits
+# <a name="/en/fiveballsplits"></a>Five Ball Splits
 
 ![FiveBallSplits](/videos/mp4/fiveballsplits.mp4)
 
-This is a really easy five ball pattern. You can start working on it as soon as you've learned the [Three Ball Cascade](cascade.html). Start with three balls in one hand. Throw one to the other hand just as you would if you were juggling a [Cascade](cascade.html). Then throw the other two balls from the other hand so that they split, sending one ball to the other hand and one ball sort of straight up just to be caught back in the same hand that threw it. The next throw is done the same way, but goes in between the other two balls in the air. The trick feels just like a [Three Ball Cascade](cascade.html).
+This is a really easy five ball pattern. You can start working on it as soon as you've learned the [Three Ball Cascade](cascade). Start with three balls in one hand. Throw one to the other hand just as you would if you were juggling a [Cascade](cascade). Then throw the other two balls from the other hand so that they split, sending one ball to the other hand and one ball sort of straight up just to be caught back in the same hand that threw it. The next throw is done the same way, but goes in between the other two balls in the air. The trick feels just like a [Three Ball Cascade](cascade).
 
 When you throw two balls from one hand at the same time it's called a multiplex.
 
-# <a name="/en/flash.html"></a>Flash
+# <a name="/en/flash"></a>Flash
 
 ![Flash](/videos/mp4/flash.mp4)
 
-When you do a Flash, throw all three balls in quick succession. All the balls should be in the air at the same time. You may want to clap your hands together while all balls are in the air to convince yourself that they're all up there. This is the first step in learning to juggle [Five Balls](fiveballcascade.html). When juggling five the Flash would be the first three throws, then you just throw up another to replace each ball as it comes down.
+When you do a Flash, throw all three balls in quick succession. All the balls should be in the air at the same time. You may want to clap your hands together while all balls are in the air to convince yourself that they're all up there. This is the first step in learning to juggle [Five Balls](fiveballcascade). When juggling five the Flash would be the first three throws, then you just throw up another to replace each ball as it comes down.
 
-# <a name="/en/forkcatch.html"></a>Fork Catch
+# <a name="/en/forkcatch"></a>Fork Catch
 
 ![ForkCatch](/videos/mp4/forkcatch.mp4)
 
 The Fork Catch is a way to catch a ball on the back of your hand. You can do this by spreading you index and middle fingers apart and letting the ball rest in between. Another method is to catch the ball on your index and ring fingers by holding your middle finger lower, which is the method I used in this video. As you catch the ball, start with your hand a little high and lower it to absorb the shock of the ball hitting. The idea is to prevent the ball from bouncing.
 
-# <a name="/en/fourballasynchronousfountain.html"></a>Four Ball Asynchronous Fountain
+# <a name="/en/fourballasynchronousfountain"></a>Four Ball Asynchronous Fountain
 
 ![FourBallAsynchronousFountain](/videos/mp4/fourasynchronous.mp4)
 
-Before learning four balls, you need to learn [Two in One Hand - Outside](twoinonehand-outside.html) in both your right and left hands. In this pattern, you throw from one hand first. When that ball reaches its peak, you throw from the other hand. Then it's just the same as doing two in one hand, only you're doing it with both hands. Notice that the balls never switch hands.
+Before learning four balls, you need to learn [Two in One Hand - Outside](twoinonehand-outside) in both your right and left hands. In this pattern, you throw from one hand first. When that ball reaches its peak, you throw from the other hand. Then it's just the same as doing two in one hand, only you're doing it with both hands. Notice that the balls never switch hands.
 
-# <a name="/en/fourballcolumns.html"></a>Four Ball Columns
+# <a name="/en/fourballcolumns"></a>Four Ball Columns
 
 ![FourBallColumns](/videos/mp4/fourcolumns.mp4)
 
-This is just like [One-up Two-up](one-uptwo-up.html), except that the one-up is a two-up.
+This is just like [One-up Two-up](one-uptwo-up), except that the one-up is a two-up.
 
-# <a name="/en/fourballpistons.html"></a>Four Ball Pistons
+# <a name="/en/fourballpistons"></a>Four Ball Pistons
 
 ![FourBallPistons](/videos/mp4/fourpistons.mp4)
 
-First learn [Two in One Hand - Columns](twoinonehand-columns.html) in each hand. Then do both hands at the same time.
+First learn [Two in One Hand - Columns](twoinonehand-columns) in each hand. Then do both hands at the same time.
 
-# <a name="/en/fourballsynchronousfountain.html"></a>Four Ball Synchronous Fountain
+# <a name="/en/fourballsynchronousfountain"></a>Four Ball Synchronous Fountain
 
 ![FourBallSynchronousFountain](/videos/mp4/foursynchronous.mp4)
 
-Before learning four balls, you need to learn [Two in One Hand - Outside](twoinonehand-outside.html) in both your right and left hands. In this pattern, you throw them from both hands simultaneously. That's really all there is to it. Notice that the balls never switch hands.
+Before learning four balls, you need to learn [Two in One Hand - Outside](twoinonehand-outside) in both your right and left hands. In this pattern, you throw them from both hands simultaneously. That's really all there is to it. Notice that the balls never switch hands.
 
-# <a name="/en/fourballsynchronoushalfshower.html"></a>Four Ball Synchronous Half Shower
+# <a name="/en/fourballsynchronoushalfshower"></a>Four Ball Synchronous Half Shower
 
 ![FourBallSynchronousHalfShower](/videos/mp4/fourwimpy.mp4)
 
-Throw two balls at a time so they cross at the top. It's important to make sure one always goes over the other. If you can do [Rainbow Cross](rainbowcross.html) with three balls, then this shouldn't be too hard.
+Throw two balls at a time so they cross at the top. It's important to make sure one always goes over the other. If you can do [Rainbow Cross](rainbowcross) with three balls, then this shouldn't be too hard.
 
-# <a name="/en/halfmess.html"></a>Half Mess
+# <a name="/en/halfmess"></a>Half Mess
 
 ![HalfMess](/videos/mp4/halfmess.mp4)
 
-Start with a [Reverse Cascade](reversecascade.html). Now throw one [Under Your Arm](underthearm.html) and catch the next [Under Your Arm](underthearm.html). Then go back to the [Reverse Cascade](reversecascade.html), making sure that you do the throw [Over the Top](overthetop.html) (as all the throws are in a [reverse cascade](reversecascade.html)). Immediately repeat this pattern.
+Start with a [Reverse Cascade](reversecascade). Now throw one [Under Your Arm](underthearm) and catch the next [Under Your Arm](underthearm). Then go back to the [Reverse Cascade](reversecascade), making sure that you do the throw [Over the Top](overthetop) (as all the throws are in a [reverse cascade](reversecascade)). Immediately repeat this pattern.
 
-# <a name="/en/halfshower.html"></a>Half Shower
+# <a name="/en/halfshower"></a>Half Shower
 
 ![HalfShower](/videos/mp4/halfshower.mp4)
 
-The Half Shower is just [Over the Top](overthetop.html) done continuously in one direction. Every throw from one hand goes over the top.
+The Half Shower is just [Over the Top](overthetop) done continuously in one direction. Every throw from one hand goes over the top.
 
-# <a name="/en/invertedshower.html"></a>Inverted Shower
+# <a name="/en/invertedshower"></a>Inverted Shower
 
 ![InvertedShower](/videos/mp4/invertedshower.mp4)
 
-You pretty much do what you see here. It's easier if you grab the balls from the top, but you'll block your audience's view of the ball. I find this trick very difficult. I tend to bump the ball with my wrist as I'm carring across the top. If you like the look of this trick, but find it too difficult, try the [Pendulum](pendulum.html) instead.
+You pretty much do what you see here. It's easier if you grab the balls from the top, but you'll block your audience's view of the ball. I find this trick very difficult. I tend to bump the ball with my wrist as I'm carring across the top. If you like the look of this trick, but find it too difficult, try the [Pendulum](pendulum) instead.
 
-# <a name="/en/learningthecascade.html"></a>Learning the Cascade
+# <a name="/en/learningthecascade"></a>Learning the Cascade
 If you are just learning to juggle for the first time, you should start with the cascade. Follow the link to see what the cascade looks like. Start with one ball. Scoop your hand under to the other side of your body as you throw. See the videos below to see how it should look. Keep your hand low to catch. Do not reach up to catch the ball, let gravity do its job! Most of the movement should be in your forearms. Your elbows should stay by your sides. Look up. You do not need to look at your hands to know where they are. You do not need to spend much time at this level if you are not having any problems.
 
 ![CascadeOneBall](/videos/mp4/cascadeoneball.mp4)
@@ -1237,7 +1237,7 @@ Sometimes people get stuck on a ball. They just can't seem to throw the fourth o
 
 Although you can learn to juggle with just about any kind of ball, beanbags work the best for learning because they don't roll as much and they don't bounce much at all.
 
-# <a name="/en/millsmess.html"></a>Mills Mess
+# <a name="/en/millsmess"></a>Mills Mess
 
 ![MillsMess](/videos/mp4/millsmess.mp4)
 
@@ -1256,110 +1256,110 @@ The next step is to combine the two moves you've been practicing. That last litt
 
 Now look at the last video on this page. See how the top hand ends up with one ball in it? As soon as that top hand catches that ball, immediately throw the ball back toward the other side of your body. It will be the same throw you did as the very first throw, except from the opposite hand and in the opposite direction. From there, you do the same things you did the first time, but all in the opposite direction. Remember that every time your hands cross, you need to throw the the ball in the top hand back across your body and uncross and recross your hands again. Concentrate on getting the top two balls doing the correct thing and hopefully the bottom ball will take care of itself.
 
-# <a name="/en/neckcatch.html"></a>Neck Catch
+# <a name="/en/neckcatch"></a>Neck Catch
 
 ![NeckCatch](/videos/mp4/neckcatch.mp4)
 
 Toss a ball a little higher than usual. Watch the ball go up, then back down and at the last possible second, bend down to catch it on your neck. The key is to watch the ball as long as possible. I don't like the way my arms look in this video, but you have to tip your head back and your shoulders up to make a spot for the ball to land without rolling out. This is easier to do with bean bags at first.
 
-# <a name="/en/one-uptwo-up.html"></a>One-up Two-up
+# <a name="/en/one-uptwo-up"></a>One-up Two-up
 
 ![One-upTwo-up](/videos/mp4/oneuptwoup.mp4)
 
-To do One-up Two-up, do [Two in One Hand - Columns](twoinonehand-columns.html), then just throw the other ball up and down by itself in the other hand. You can also switch the hand that catches the middle ball every time if you want to. After learning this trick, you may want to learn these variations: [One-up Two-up Tennis](one-uptwo-uptennis.html), [One-up Two-up Hops](one-uptwo-uphops.html), and [Rainbow Cross](rainbowcross.html).
+To do One-up Two-up, do [Two in One Hand - Columns](twoinonehand-columns), then just throw the other ball up and down by itself in the other hand. You can also switch the hand that catches the middle ball every time if you want to. After learning this trick, you may want to learn these variations: [One-up Two-up Tennis](one-uptwo-uptennis), [One-up Two-up Hops](one-uptwo-uphops), and [Rainbow Cross](rainbowcross).
 
-# <a name="/en/one-uptwo-uphops.html"></a>One-up Two-up Hops
+# <a name="/en/one-uptwo-uphops"></a>One-up Two-up Hops
 
 ![One-upTwo-upHops](/videos/mp4/oneuptwouphops.mp4)
 
-Learn [One-up Two-up](one-uptwo-up.html) first. Now, take the middle ball and throw it so it hops over one ball, then the other, then back again.
+Learn [One-up Two-up](one-uptwo-up) first. Now, take the middle ball and throw it so it hops over one ball, then the other, then back again.
 
-# <a name="/en/one-uptwo-upinfinity.html"></a>One-up Two-up Infinity
+# <a name="/en/one-uptwo-upinfinity"></a>One-up Two-up Infinity
 
 ![One-upTwo-upInfinity](/videos/mp4/oneuptwoupinfinity.mp4)
 
-In this [One-up Two-up](one-uptwo-up.html) pattern, throw the single ball in an infinity sign shape (or sideways figure eight if you prefer) around the other two balls.
+In this [One-up Two-up](one-uptwo-up) pattern, throw the single ball in an infinity sign shape (or sideways figure eight if you prefer) around the other two balls.
 
-# <a name="/en/one-uptwo-upshower.html"></a>One-up Two-up Shower
+# <a name="/en/one-uptwo-upshower"></a>One-up Two-up Shower
 
 ![One-upTwo-upShower](/videos/mp4/oneuptwoupshower.mp4)
 
-This is another [One-up Two-up](one-uptwo-up.html) trick. The one up ball is thrown in a [Shower](shower.html) pattern around the other two balls.
+This is another [One-up Two-up](one-uptwo-up) trick. The one up ball is thrown in a [Shower](shower) pattern around the other two balls.
 
-# <a name="/en/one-uptwo-uptennis.html"></a>One-up Two-up Tennis
+# <a name="/en/one-uptwo-uptennis"></a>One-up Two-up Tennis
 
 ![One-upTwo-upTennis](/videos/mp4/oneuptwouptennis.mp4)
 
-Learn [One-up Two-up](one-uptwo-up.html) first. Now, take the middle ball and throw it over the top instead of up and down in the middle.
+Learn [One-up Two-up](one-uptwo-up) first. Now, take the middle ball and throw it over the top instead of up and down in the middle.
 
-# <a name="/en/orbit.html"></a>Orbit
+# <a name="/en/orbit"></a>Orbit
 
 ![Orbit](/videos/mp4/orbit.mp4)
 
-Start by doing [Two Balls in One Hand - Outside](twoinonehand-outside.html). The third ball never leaves you other hand. You just carry the other ball in a circle around the top ball. Each time a ball reaches the top, make one circle around it.
+Start by doing [Two Balls in One Hand - Outside](twoinonehand-outside). The third ball never leaves you other hand. You just carry the other ball in a circle around the top ball. Each time a ball reaches the top, make one circle around it.
 
-# <a name="/en/overthetop.html"></a>Over the Top
+# <a name="/en/overthetop"></a>Over the Top
 
 ![OverTheTop](/videos/mp4/overthetop.mp4)
 
-Over the Top is exactly what it sounds like. Juggle in a normal [Cascade](cascade.html), then just throw one ball over the top of the other balls instead of underneath. The timing of the throw is the same as all other throws. It looks best if you move your hand outward slightly to make the throw more horizontal.
+Over the Top is exactly what it sounds like. Juggle in a normal [Cascade](cascade), then just throw one ball over the top of the other balls instead of underneath. The timing of the throw is the same as all other throws. It looks best if you move your hand outward slightly to make the throw more horizontal.
 
-# <a name="/en/overheadcascade.html"></a>Overhead Cascade
+# <a name="/en/overheadcascade"></a>Overhead Cascade
 
 ![OverheadCascade](/videos/mp4/overheadcascade.mp4)
 
-This is the same as the [Cascade](cascade.html), only done over your head. I first learned this while lying on my back on the floor. It feels like you're pushing the balls up instead of the way normal juggling throws feel. The trick feels exactly the same to me when I do it over my head or on my back.
+This is the same as the [Cascade](cascade), only done over your head. I first learned this while lying on my back on the floor. It feels like you're pushing the balls up instead of the way normal juggling throws feel. The trick feels exactly the same to me when I do it over my head or on my back.
 
-# <a name="/en/oy-oy.html"></a>Oy-Oy
+# <a name="/en/oy-oy"></a>Oy-Oy
 
 ![Oy-Oy](/videos/mp4/oy-oy.mp4)
 
-The Oy-Oy is the [Yo-Yo](yo-yo.html) upside-down.
+The Oy-Oy is the [Yo-Yo](yo-yo) upside-down.
 
-# <a name="/en/pendulum.html"></a>Pendulum
+# <a name="/en/pendulum"></a>Pendulum
 
 ![Pendulum](/videos/mp4/pendulum.mp4)
 
-Do [Two in One Hand - Outside](twoinonehand-outside.html) first. Hold the third ball in your other hand with your elbow in the air as in the video. Practice swinging this arm back and forth in sync with the other balls. When you get the rhythm right, let go of the ball in the pendulum hand just as the other ball is peaking. As your hand swings back out, catch the ball that was peaking.
+Do [Two in One Hand - Outside](twoinonehand-outside) first. Hold the third ball in your other hand with your elbow in the air as in the video. Practice swinging this arm back and forth in sync with the other balls. When you get the rhythm right, let go of the ball in the pendulum hand just as the other ball is peaking. As your hand swings back out, catch the ball that was peaking.
 
-# <a name="/en/penguincatches.html"></a>Penguin Catches
+# <a name="/en/penguincatches"></a>Penguin Catches
 
 ![PenguinCatches](/videos/mp4/penguincatches.mp4)
 
 Penguin Catches are just catches with your hand twisted around backwards. They're a lot like
- [Behind the Back Catches](behindthebackcatch.html), but not behind your back.
+ [Behind the Back Catches](behindthebackcatch), but not behind your back.
 
-# <a name="/en/rainbowcross.html"></a>Rainbow Cross
+# <a name="/en/rainbowcross"></a>Rainbow Cross
 
 ![RainbowCross](/videos/mp4/rainbowcross.mp4)
 
-Rainbow Cross is a simple variation of [One-up Two-up](one-uptwo-up.html). Instead of throwing the two outside balls straight up, cross them so that you catch them in opposite hands. The only problem is there is a potential for collisions. I always throw the ball from my right hand over the ball from my left hand. Another method is to throw one ball in front of the other.
+Rainbow Cross is a simple variation of [One-up Two-up](one-uptwo-up). Instead of throwing the two outside balls straight up, cross them so that you catch them in opposite hands. The only problem is there is a potential for collisions. I always throw the ball from my right hand over the ball from my left hand. Another method is to throw one ball in front of the other.
 
-# <a name="/en/realtennis.html"></a>Real Tennis
+# <a name="/en/realtennis"></a>Real Tennis
 
 ![RealTennis](/videos/mp4/realtennis.mp4)
 
-In this version of [Tennis](tennis.html), the middle two balls go straight up and down, so they look more like a real tennis net. It's a variation of [Right Middle Left](rightmiddleleft.html). Start with the hand holding two balls. Throw one ball straight up the middle, and throw the next ball from the same hand [Over the Top](overthetop.html). While that ball is in the air, throw the ball from the other hand straight up. Catch the over the top ball and immediately throw it over the top in the other direction.
+In this version of [Tennis](tennis), the middle two balls go straight up and down, so they look more like a real tennis net. It's a variation of [Right Middle Left](rightmiddleleft). Start with the hand holding two balls. Throw one ball straight up the middle, and throw the next ball from the same hand [Over the Top](overthetop). While that ball is in the air, throw the ball from the other hand straight up. Catch the over the top ball and immediately throw it over the top in the other direction.
 
-# <a name="/en/reversecascade.html"></a>Reverse Cascade
+# <a name="/en/reversecascade"></a>Reverse Cascade
 
 ![ReverseCascade](/videos/mp4/reversecascade.mp4)
 
-Before learning the Reverse Cascade, learn [Over the Top](overthetop.html), [Tennis](tennis.html), and the [Half Shower](halfshower.html). The Reverse Cascade is over the top done on every throw from both hands. When throwing over the top, throw shorter throws. Instead of throwing to the opposite side of your body, throw to the center of your body.
+Before learning the Reverse Cascade, learn [Over the Top](overthetop), [Tennis](tennis), and the [Half Shower](halfshower). The Reverse Cascade is over the top done on every throw from both hands. When throwing over the top, throw shorter throws. Instead of throwing to the opposite side of your body, throw to the center of your body.
 
-# <a name="/en/rightmiddleleft.html"></a>Right Middle Left
+# <a name="/en/rightmiddleleft"></a>Right Middle Left
 
 ![RightMiddleLeft](/videos/mp4/rightmiddleleft.mp4)
 
-Learn [Two in One Hand - Columns](twoinonehand-columns.html) first. Once you know how to do that in each hand, you just do it in one hand and then the other. Notice that your right hand throws two balls in a row, then the left hand throws two balls, etc.
+Learn [Two in One Hand - Columns](twoinonehand-columns) first. Once you know how to do that in each hand, you just do it in one hand and then the other. Notice that your right hand throws two balls in a row, then the left hand throws two balls, etc.
 
-# <a name="/en/ringcascade.html"></a>Ring Cascade
+# <a name="/en/ringcascade"></a>Ring Cascade
 
 ![RingCascade](/videos/mp4/ringcascade.mp4)
 
 To juggle rings, you release them a with your hands held a little higher, and you catch them with your hands higher. Other than that, it's just as easy as juggling balls. If you're juggling rings for an audience, you'll want to stand sideways so that they can see the rings. Otherwise, they practically disappear.
 
-# <a name="/en/rollaballoffyourhead.html"></a>Roll a Ball Off Your Head
+# <a name="/en/rollaballoffyourhead"></a>Roll a Ball Off Your Head
 
 ![RollABallOffYourHead](/videos/mp4/rolloffhead.mp4)
 
@@ -1368,96 +1368,96 @@ Just roll a ball off your head. The only trick to this is to start moving the ba
 ![RollAllBallOffYourHead](/videos/mp4/rollalloffhead.mp4)
 
 
-# <a name="/en/shower.html"></a>Shower
+# <a name="/en/shower"></a>Shower
 
 ![Shower](/videos/mp4/shower.mp4)
 
-This is the pattern most people try to learn on their own before they know how to juggle. This is not a good beginning pattern to learn. Beginners should always learn the [Cascade](cascade.html). The Shower is much faster. Start with two balls in one hand and one in the other. Throw both balls from one hand in rapid succession. After both balls from the first hand are in the air, throw the third ball across the bottom. Just keep it going from here!
+This is the pattern most people try to learn on their own before they know how to juggle. This is not a good beginning pattern to learn. Beginners should always learn the [Cascade](cascade). The Shower is much faster. Start with two balls in one hand and one in the other. Throw both balls from one hand in rapid succession. After both balls from the first hand are in the air, throw the third ball across the bottom. Just keep it going from here!
 
-# <a name="/en/slam.html"></a>Slam
+# <a name="/en/slam"></a>Slam
 
 ![Slam](/videos/mp4/slam.mp4)
 
 The  Slam   is  also  known  as   the  Shuffle,   because  it  looks  like  you're  shuffling  a  deck  of  cards.   Do
- [Two in One Hand - Columns](twoinonehand-columns.html) in you left hand.  Hold a ball in your right hand above the pattern and wait for the inside ball to peak. Now follow that ball down and as you pass it, release the ball in your right hand and claw catch the ball from the columns. Repeat.
+ [Two in One Hand - Columns](twoinonehand-columns) in you left hand.  Hold a ball in your right hand above the pattern and wait for the inside ball to peak. Now follow that ball down and as you pass it, release the ball in your right hand and claw catch the ball from the columns. Repeat.
 
-# <a name="/en/swoop.html"></a>Swoop
+# <a name="/en/swoop"></a>Swoop
 
 ![Swoop](/videos/mp4/swoop.mp4)
 
-Start juggling [Two in One Hand - Columns](twoinonehand-columns.html). Hold one ball in your other hand at the top of the pattern on the other side of your body. As the outside column ball peaks, drop the ball you were holding and [Claw](clawing.html) the peaking ball. Notice that the middle ball just keeps going up and down. The outside balls get clawed, carried underneath, and thrown straight up again. It's easier to just do it than to think about it too much.
+Start juggling [Two in One Hand - Columns](twoinonehand-columns). Hold one ball in your other hand at the top of the pattern on the other side of your body. As the outside column ball peaks, drop the ball you were holding and [Claw](clawing) the peaking ball. Notice that the middle ball just keeps going up and down. The outside balls get clawed, carried underneath, and thrown straight up again. It's easier to just do it than to think about it too much.
 
-# <a name="/en/takeouts.html"></a>Take Outs
+# <a name="/en/takeouts"></a>Take Outs
 
 ![TakeOuts](/videos/mp4/takeouts.mp4)
 
-I didn't think too much about this one as I was learning it. Start doing a [Cascade](cascade.html), then reach over, grab a ball and carry it up and around the outside of the pattern. Your other hand will probably naturally do
- [Two in One Hand - Columns](twoinonehand-columns.html) while you complete the carry. As your arm comes around, you throw under your arm and continue the pattern. It's really easier than it looks. Don't think too much and just do it.
+I didn't think too much about this one as I was learning it. Start doing a [Cascade](cascade), then reach over, grab a ball and carry it up and around the outside of the pattern. Your other hand will probably naturally do
+ [Two in One Hand - Columns](twoinonehand-columns) while you complete the carry. As your arm comes around, you throw under your arm and continue the pattern. It's really easier than it looks. Don't think too much and just do it.
 
-# <a name="/en/tennis.html"></a>Tennis
+# <a name="/en/tennis"></a>Tennis
 
 ![Tennis](/videos/mp4/tennis.mp4)
 
-Tennis is a variation of [Over the Top](overthetop.html). Start by throwing one ball over the top. That ball is caught by the other hand and thrown back over the top in the other direction. This trick looks best if you move your hand outward slightly before throwing over the top. This causes the ball to be thrown more horizontally.
+Tennis is a variation of [Over the Top](overthetop). Start by throwing one ball over the top. That ball is caught by the other hand and thrown back over the top in the other direction. This trick looks best if you move your hand outward slightly before throwing over the top. This causes the ball to be thrown more horizontally.
 
-# <a name="/en/twoinonehand-columns.html"></a>Two in One Hand - Columns
+# <a name="/en/twoinonehand-columns"></a>Two in One Hand - Columns
 
 ![TwoInOneHand-Columns](/videos/mp4/twoinonecolumns.mp4)
 
 There's not much to say about this one. The balls go up and down in parallel columns. Your hand should move left and right, not in and out.
 
-# <a name="/en/twoinonehand-inside.html"></a>Two in One Hand - Inside
+# <a name="/en/twoinonehand-inside"></a>Two in One Hand - Inside
 
 ![TwoInOneHand-Inside](/videos/mp4/twoinoneinside.mp4)
 
 The balls go around in a circle moving toward the center of your body. The circle the balls make should be in a plane parallel to your chest. Your hand should be moving from side to side, not in and out.
 
-# <a name="/en/twoinonehand-outside.html"></a>Two in One Hand - Outside
+# <a name="/en/twoinonehand-outside"></a>Two in One Hand - Outside
 
 ![TwoInOneHand-Outside](/videos/mp4/twoinoneoutside.mp4)
 
 The balls go around in a circle moving toward the outside of your body. The circle the balls make should be in a plane parallel to your chest. Your hand should be moving from side to side, not in and out.
 
-If you're interested in learning [Four Balls](fourballasynchronousfountain.html), you need to know how to do this trick very comfortably in both your left and right hands.
+If you're interested in learning [Four Balls](fourballasynchronousfountain), you need to know how to do this trick very comfortably in both your left and right hands.
 
-# <a name="/en/underthearm.html"></a>Under the Arm
+# <a name="/en/underthearm"></a>Under the Arm
 
 ![UnderTheArm](/videos/mp4/underthearm.mp4)
 
 Throw a ball under your arm. What did you think I was going to say?
 
-# <a name="/en/undertheleg.html"></a>Under the Leg
+# <a name="/en/undertheleg"></a>Under the Leg
 
 ![UnderTheLeg](/videos/mp4/undertheleg.mp4)
 
 The trick to throwing a ball under your leg is to start moving toward your leg as soon as you catch the ball. If you wait until it's time to throw the ball to start moving toward your leg, you won't have enough time to do it.
 
-# <a name="/en/w.html"></a>W
+# <a name="/en/w"></a>W
 
 ![W](/videos/mp4/w.mp4)
 
-This is almost identical to [Right Middle Left](rightmiddleleft.html). The middle ball goes back and forth instead of up and down in a column.
+This is almost identical to [Right Middle Left](rightmiddleleft). The middle ball goes back and forth instead of up and down in a column.
 
-# <a name="/en/yo-yo.html"></a>Yo-Yo
+# <a name="/en/yo-yo"></a>Yo-Yo
 
 ![Yo-Yo](/videos/mp4/yo-yo.mp4)
 
-Before learning this trick, I suggest that you learn to [One-up Two-up](one-uptwo-up.html). [One-up Two-up](one-uptwo-up.html) is basically the same trick, but it's easier because you don't have to worry about how high you throw the balls as much, therefore there are fewer accidental collisions. Juggle [Two Balls in One Hand - Columns](twoinonehand-columns.html). The other hand carries a ball in over the top of the inside ball. Try to follow it as exactly as possible. It should look like the bottom ball is attached to the top by a string.
+Before learning this trick, I suggest that you learn to [One-up Two-up](one-uptwo-up). [One-up Two-up](one-uptwo-up) is basically the same trick, but it's easier because you don't have to worry about how high you throw the balls as much, therefore there are fewer accidental collisions. Juggle [Two Balls in One Hand - Columns](twoinonehand-columns). The other hand carries a ball in over the top of the inside ball. Try to follow it as exactly as possible. It should look like the bottom ball is attached to the top by a string.
 
-# <a name="/en/yo-yoonbothsides.html"></a>Yo-Yo Orbit
+# <a name="/en/yo-yoonbothsides"></a>Yo-Yo Orbit
 
 ![Yo-YoOnBothSides](/videos/mp4/yo-yobothides.mp4)
 
 I don't know what to say about this. Just do it.
 
-# <a name="/en/yo-yoorbit.html"></a>Yo-Yo Orbit
+# <a name="/en/yo-yoorbit"></a>Yo-Yo Orbit
 
 ![Yo-YoOrbit](/videos/mp4/yo-yoorbit.mp4)
 
-Combine [Two in One Hand - Outside](twoinonehand-outside.html) with [Yo-Yo](yo-yo.html) and this is what you get. Start by doing
- [Two in One Hand - Outside](twoinonehand-outside.html) and just follow one of the balls around.
+Combine [Two in One Hand - Outside](twoinonehand-outside) with [Yo-Yo](yo-yo) and this is what you get. Start by doing
+ [Two in One Hand - Outside](twoinonehand-outside) and just follow one of the balls around.
 
-# <a name="/en/boomerang-rubber-band.html"></a>Boomerang Rubber Band (Twanging)
+# <a name="/en/boomerang-rubber-band"></a>Boomerang Rubber Band (Twanging)
 
 ![Boomerang Rubber Band](/videos/mp4/boomerangrubberband.mp4)
 
