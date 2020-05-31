@@ -39,7 +39,10 @@ md.renderer.rules.image = function (tokens, idx, options, env, self) {
 
     const src = token.attrs[aIndex][1];
     if (src.endsWith(".mp4")) {
-        return `<video class="center" playsinline="" controls="" loop="">
+        const parts = src.split("/");
+        const file = parts[parts.length-1];
+        const poster = "videos/poster/" + file.replace(".mp4", ".jpg");
+        return `<video class="center" playsinline="" controls="" loop="" poster="${poster}">
 			  <source src="${src}" type="video/mp4">
 				Your browser does not support the video tag.
             </video>\n`
