@@ -15,7 +15,7 @@ Sokmindent megtanultam a zsonglőrködésről, és nem utolsó sorban a weboldal
 
 # <a name="/hu/index"></a>Trükkök
 
-A zsonglőrködés alapjait kis türelemmel bárki elsajátíthatja. Persze hosszú évekig tartó gyakorlás kell ahhoz, hogy valakiből profi zsonglőr legyen, de egy-egy trükk elsajátítása mindig újabb lökést ad a következő akadály leküzdéséhez.
+zsonglőrködés alapjait kis türelemmel bárki elsajátíthatja. Persze hosszú évekig tartó gyakorlás kell ahhoz, hogy valakiből profi zsonglőr legyen, de egy-egy trükk elsajátítása mindig újabb lökést ad a következő akadály leküzdéséhez.
 
 Ez az oldal egy amerikai zsonglőr klub (Wildcat Jugglers) honlapjának magyar változata. Rob Abrammal, a klub vezetőjével együttműködve hoztuk létre azért, hogy azok számára is elérhetővé tegyük, akik szeretnének megtanulni zsonglőrködni, de nem tudnak eléggé angolul ahhoz, hogy eredetiben olvassák. Az évek során persze sok minden változott, a klub szünetel de a leírások [itt találhatók](/en).
 
