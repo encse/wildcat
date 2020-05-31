@@ -1,0 +1,7 @@
+rm -rf resources/videos/poster
+mkdir resources/videos/poster
+for video in resources/videos/mp4/*.mp4; do
+	f=${video##*mp4/}
+	f=${f%%.mp4}
+	ffmpeg -i ${video} -vframes 1 -f image2 resources/videos/poster/${f}.jpg
+done
