@@ -13,7 +13,7 @@ npm run build
 
 This will set up everything and create a new version in the build directory.
 
-The content can be found in the [pages](pages) folder in markdown format, from which tad simple [script](src/index.ts) generates the necessary html output.
+The content can be found in the [pages](pages) folder in markdown format, from which a tad simple [script](src/index.ts) generates the necessary html output.
 
 Happy juggling anyone!
 
