@@ -839,9 +839,9 @@ Everything you need from the basics to intermediate level.
 
 ### Behind the Back Patterns
 
-1.  [Elkapás a hát mögött](#elkapas-a-hat-mogott.html)
-1.  [Átadás a hát mögött](#atadas-a-hat-mogott.html)
-1.  [Indítás a hát mögül](#inditas-a-hat-mogul.html)
+1.  [Behind the Back Catch](#/en/behindthebackcatch.html)
+1.  [Behind the Back](#/en/behindtheback.html)
+1.  [Behind the Back Start](#/en/behindthebackstart.html)
 
 ### Special Catches
 
