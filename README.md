@@ -5,8 +5,8 @@ or Wildcat Zsonglőr oldalak in Hungarian. This is a
 statically generated site created by Rob Abram and 
 David Nemeth-Csoka. 
 
-The site's origins go back to the beginning of the new 
-century. It was later translated to Hungarian, went around 
+The site's origins go back to the beginning of the century. 
+It was later translated to Hungarian, went around 
 multiple domains and lived in different formats. Today it's 
 hosted at https://zsonglor.csokavar.hu.
 
