@@ -6,21 +6,6 @@ const md = MarkdownIt({
     html: true
 });
 
-function hashCode(st: string){
-    let hash = 0
-    if (st.length === 0) {
-        return hash;
-    }
-    for (let i = 0; i < st.length; i++) {
-        const charC = st.charCodeAt(i);
-        hash = ((hash<<5)-hash)+charC;
-        hash = hash & hash; 
-    }
-    
-    return hash & 0xefff;
-}
-
-
 function stripMargin(strings: TemplateStringsArray, ...values: any[]): string {
 	let s = strings[0];
 	for (let i = 0; i < values.length; i++) {
@@ -61,7 +46,7 @@ md.renderer.rules.link_open = function (tokens, idx, options, _, self) {
     return self.renderToken(tokens, idx, options);
 };
 
-function generate(fpat: string) {
+function generate(fpat: string, ipage: number) {
     const content = fs.readFileSync(fpat, "utf-8");
     const html = md.render(content);
     const loc = fpat.replace('.md', '.html').replace('pages', 'build');
@@ -85,7 +70,7 @@ function generate(fpat: string) {
         "/images/tandem-macska.png",
         "/images/zsonglor-macska.png"
     ];
-    const footerImage = footerImages[hashCode(fpat) % footerImages.length];
+    const footerImage = footerImages[ipage % footerImages.length];
 
     fs.writeFileSync(loc, stripMargin`
         | <!DOCTYPE HTML>
@@ -134,16 +119,16 @@ function generate(fpat: string) {
     `);
 }
 
-function process(dir) {
+function process(dir, ipage: number) {
     const items = fs.readdirSync(dir);
     items.forEach(item => {
         const p = dir + "/" + item;
         if (fs.lstatSync(p).isDirectory()) {
-            process(p);
+            process(p, ipage);
         } else {
-            generate(p)
+            generate(p, ipage++)
         }
     })
 }
 
-process('pages');
+process('pages', 0);
