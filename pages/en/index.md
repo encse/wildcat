@@ -149,5 +149,3 @@ It's worth trying the rings as well.
 
 -  [Boomerang Rubber Band (twanging)](#/en/boomerang-rubber-band)
 
- ![img](/images/dobol-macska.png)
-
