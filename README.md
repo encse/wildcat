@@ -29,12 +29,12 @@ better this way. To handle these properly the following is
 to be added to your nginx config:
 
 ```
-	location / {
-		if ($request_uri ~ ^/(.*)\.html$) {
-			return 302 /$1;
-		}
-		try_files $uri $uri.html $uri/ =404;
-	}
+location / {
+    if ($request_uri ~ ^/(.*)\.html$) {
+        return 302 /$1;
+    }
+    try_files $uri $uri.html $uri/ =404;
+}
 ```
 
 Happy juggling anyone!
