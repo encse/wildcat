@@ -1,7 +1,7 @@
 # Dupla jojó
 
-![doubleyoyo](/videos/mp4/doubleyoyo.mp4)
+![doubleyoyo](/resources/videos/poster/doubleyoyo.jpg)
 
- [Jojózz](#jojo) egyet valamelyik oldalon, aztán – mintha a két labda össze lenne kötve -, húzd át őket alul és jojózz a másik oldalon is.
+ [Jojózz](jojo.md) egyet valamelyik oldalon, aztán – mintha a két labda össze lenne kötve -, húzd át őket alul és jojózz a másik oldalon is.
 
 

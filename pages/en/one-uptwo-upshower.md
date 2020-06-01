@@ -1,6 +1,6 @@
 # One-up Two-up Shower
 
-![One-upTwo-upShower](/videos/mp4/oneuptwoupshower.mp4)
+![One-upTwo-upShower](/resources/videos/poster/oneuptwoupshower.jpg)
 
-This is another [One-up Two-up](one-uptwo-up) trick. The one up ball is thrown in a [Shower](shower) pattern around the other two balls.
+This is another [One-up Two-up](one-uptwo-up.md) trick. The one up ball is thrown in a [Shower](shower.md) pattern around the other two balls.
 

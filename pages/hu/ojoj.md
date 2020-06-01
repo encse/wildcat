@@ -1,7 +1,7 @@
 # Ójoj
 
-![oy-oy](/videos/mp4/oy-oy.mp4)
+![oy-oy](/resources/videos/poster/oy-oy.jpg)
 
-Az Ójoj egy felfordított [Jojó](#jojo).
+Az Ójoj egy felfordított [Jojó](jojo.md).
 
 

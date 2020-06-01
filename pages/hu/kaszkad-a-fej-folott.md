@@ -1,6 +1,6 @@
 # Kaszkád a fej fölött
 
-![overheadcascade](/videos/mp4/overheadcascade.mp4)
+![overheadcascade](/resources/videos/poster/overheadcascade.jpg)
 
 Ez ugyanaz mint a kaszkád, csak a fejed fölött csinálod…
 

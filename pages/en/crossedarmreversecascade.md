@@ -1,6 +1,6 @@
 # Crossed Arm Reverse Cascade
 
-![CrossedArmReverseCascade](/videos/mp4/crossedreversecascade.mp4)
+![CrossedArmReverseCascade](/resources/videos/poster/crossedreversecascade.jpg)
 
-This is the same as the [Reverse Cascade](reversecascade), but your arms are crossed.
+This is the same as the [Reverse Cascade](reversecascade.md), but your arms are crossed.
 

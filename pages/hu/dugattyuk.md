@@ -1,7 +1,7 @@
 # Dugattyúk
 
-![fourpistons](/videos/mp4/fourpistons.mp4)
+![fourpistons](/resources/videos/poster/fourpistons.jpg)
 
-Először tanuld meg az [Oszlopok](#oszlopok) figurát mindkét kezeddel, aztán próbáld egyszerre mindkét oldalon…
+Először tanuld meg az [Oszlopok](oszlopok.md) figurát mindkét kezeddel, aztán próbáld egyszerre mindkét oldalon…
 
 

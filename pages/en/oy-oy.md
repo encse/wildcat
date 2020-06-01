@@ -1,6 +1,6 @@
 # Oy-Oy
 
-![Oy-Oy](/videos/mp4/oy-oy.mp4)
+![Oy-Oy](/resources/videos/poster/oy-oy.jpg)
 
-The Oy-Oy is the [Yo-Yo](yo-yo) upside-down.
+The Oy-Oy is the [Yo-Yo](yo-yo.md) upside-down.
 

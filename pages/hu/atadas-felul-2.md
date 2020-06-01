@@ -1,6 +1,6 @@
 # Átadás felül
 
-![cluboverthetop](/videos/mp4/cluboverthetop.mp4)
+![cluboverthetop](/resources/videos/poster/cluboverthetop.jpg)
 
 Az egyik buzogányt a többi fölött dobd át, kapd el a másik kezeddel, és folytasd a zsonglőrködést.
 

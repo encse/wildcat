@@ -1,6 +1,6 @@
 # Yo-Yo Orbit
 
-![Yo-YoOnBothSides](/videos/mp4/yo-yobothides.mp4)
+![Yo-YoOnBothSides](/resources/videos/poster/yo-yobothides.jpg)
 
 I don't know what to say about this. Just do it.
 

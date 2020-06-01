@@ -1,6 +1,6 @@
 # One-up Two-up Hops
 
-![One-upTwo-upHops](/videos/mp4/oneuptwouphops.mp4)
+![One-upTwo-upHops](/resources/videos/poster/oneuptwouphops.jpg)
 
-Learn [One-up Two-up](one-uptwo-up) first. Now, take the middle ball and throw it so it hops over one ball, then the other, then back again.
+Learn [One-up Two-up](one-uptwo-up.md) first. Now, take the middle ball and throw it so it hops over one ball, then the other, then back again.
 

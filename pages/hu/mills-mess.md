@@ -1,20 +1,20 @@
 # Mills mess
 
-![millsmess](/videos/mp4/millsmess.mp4)
+![millsmess](/resources/videos/poster/millsmess.jpg)
 
 A Mills mess nagy kedvenc lehet, ha valahogy sikerül megérteni…
 
 Először csak a kézcserélgetést tanuljuk meg. Tedd a jobb kezed a bal fölé, cseréld fel őket (a bal legyen felül), aztán vissza. Eddig egyszerű, de azért gyakorold egy kicsit, hogy ezzel se kelljen foglalkozni a továbbiakban.
 
-![millsmessarmcross](/videos/mp4/millsmessarmcross.mp4)
+![millsmessarmcross](/resources/videos/poster/millsmessarmcross.jpg)
 
 Oké, most gyakoroljunk két labdával! Mindkét kezedben egy-egy labdával tedd a jobb kezed a bal fölé. A jobb kezedből dobd el a labdát visszafelé (a jobb oldaladra). Nyisd szét a karjaidat és dobd el a bal kezedben levő labdát is. Tedd a bal kezed a jobb fölé és kapd el a labdákat: az elsőt bal kézzel, a másikat jobbal. Gyakorold be úgy is, hogy a bal kezed van felül!
 
-![millsmess2balls](/videos/mp4/millsmess2balls.mp4)
+![millsmess2balls](/resources/videos/poster/millsmess2balls.jpg)
 
 Most vedd elő a harmadik labdát, és fogd az felső kezedbe. Ezt utoljára dobd fel, a fenti mozdulatsor végén, és csinálj vele egy kis cserét. Gyakorold mindkét irányba!
 
-![millsmess3ballpractice](/videos/mp4/millsmess3ballpractice.mp4)
+![millsmess3ballpractice](/resources/videos/poster/millsmess3ballpractice.jpg)
 
 Ha már elég gyakorlott vagy, jöhet a két mozdulatsor összekötése. Ez előző gyakorlat végén levő csere nem része a Mills mess-nek, csak arról van szó, hogy így lehet jól részekre bontani a mutatványt. Most azt javaslom, menj fel az oldal tetejére, és nézd meg az egész trükköt újra. Figyeld meg, hogy a három labdából kettő nyolcas alakú pályán követi egymást, a harmadik pedig csak alul utazik.
 

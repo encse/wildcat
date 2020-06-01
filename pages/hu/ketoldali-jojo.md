@@ -1,6 +1,6 @@
 # Kétoldali jojó
 
-![yo-yobothsides](/videos/mp4/yo-yobothsides.mp4)
+![yo-yobothsides](/resources/videos/poster/yo-yobothsides.jpg)
 
 Erről nem sokat tudok mondani. Csak próbálgasd…
 

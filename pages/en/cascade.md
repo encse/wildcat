@@ -1,6 +1,6 @@
 # Cascade
 
-![Cascade](/videos/mp4/cascade.mp4)
+![Cascade](/resources/videos/poster/cascade.jpg)
 
-This is the basic move in juggling. Check out [Learning the Three Ball Cascade](learningthecascade) if you don't know how to do this and want to learn.
+This is the basic move in juggling. Check out [Learning the Three Ball Cascade](learningthecascade.md) if you don't know how to do this and want to learn.
 

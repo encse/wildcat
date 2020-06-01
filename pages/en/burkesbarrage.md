@@ -1,6 +1,6 @@
 # Burke's Barrage
 
-![BurkesBarrage](/videos/mp4/burkesbarrage.mp4)
+![BurkesBarrage](/resources/videos/poster/burkesbarrage.jpg)
 
-Burke's Barrage is a lot like [Take Outs](takeouts). In [Take Outs](takeouts), you carry the ball up and around the other two ball. When doing Burke's Barrage, you pause slightly until there's time to carry the ball between the other two.
+Burke's Barrage is a lot like [Take Outs](takeouts.md). In [Take Outs](takeouts.md), you carry the ball up and around the other two ball. When doing Burke's Barrage, you pause slightly until there's time to carry the ball between the other two.
 

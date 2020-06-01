@@ -1,6 +1,6 @@
 # Four Ball Columns
 
-![FourBallColumns](/videos/mp4/fourcolumns.mp4)
+![FourBallColumns](/resources/videos/poster/fourcolumns.jpg)
 
-This is just like [One-up Two-up](one-uptwo-up), except that the one-up is a two-up.
+This is just like [One-up Two-up](one-uptwo-up.md), except that the one-up is a two-up.
 

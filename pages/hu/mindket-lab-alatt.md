@@ -1,7 +1,7 @@
 # Mindkét láb alatt
 
-![clubunderbothlegs](/videos/mp4/clubunderbothlegs.mp4)
+![clubunderbothlegs](/resources/videos/poster/clubunderbothlegs.jpg)
 
-Ha már megy a [láb alatti dobás](#lab-alatt-2), ez lehet a következő lépés.
+Ha már megy a [láb alatti dobás](lab-alatt-2.md), ez lehet a következő lépés.
 
 

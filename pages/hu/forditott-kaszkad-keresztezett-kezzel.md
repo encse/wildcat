@@ -1,7 +1,7 @@
 # Fordított kaszkád, keresztezett kézzel
 
-![crossedreversecascade](/videos/mp4/crossedreversecascade.mp4)
+![crossedreversecascade](/resources/videos/poster/crossedreversecascade.jpg)
 
-Ugyanaz mint a [Fordított kaszkád](#forditott-kaszkad)  [](trukkok/harom-labda/kaszkad/forditott-kaszkad/), csak keresztbe tett kézzel :)
+Ugyanaz mint a [Fordított kaszkád](forditott-kaszkad.md)  [](trukkok/harom-labda/kaszkad/forditott-kaszkad/.md), csak keresztbe tett kézzel :)
 
 
