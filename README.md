@@ -20,10 +20,10 @@ npm run build
 This will set up everything and create a new version in the 
 build directory.
 
-The content can be found in the [pages](pages) folder in 
+The content can be found in the [site](site) folder in 
 markdown format, from which a super simple [script](src/index.ts) 
 generates the necessary html output.
 
 Happy juggling anyone!
 
-![img](resources/images/diabolo-macska.png)
+![img](site/images/diabolo-macska.png)

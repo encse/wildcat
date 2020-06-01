@@ -1,5 +1,4 @@
 import fs from 'fs';
-import path from 'path';
 import MarkdownIt from 'markdown-it'
 
 const md = MarkdownIt({
@@ -23,11 +22,12 @@ md.renderer.rules.image = function (tokens, idx, options, env, self) {
     const aIndex = token.attrIndex('src');
 
     const src = token.attrs[aIndex][1];
-    if (src.endsWith(".mp4")) {
+    if (src.startsWith("/site/videos/poster/")) {
         const parts = src.split("/");
         const file = parts[parts.length-1];
-        const poster = "/videos/poster/" + file.replace(".mp4", ".jpg");
-        return `<video loop playsinline autoplay src="${src}" poster="${poster}"></video>\n`
+        const mp4 = "/videos/mp4/" + file.replace(".jpg", ".mp4");
+        const poster = "/videos/poster/" + file;
+        return `<video loop playsinline autoplay src="${mp4}" poster="${poster}"></video>\n`
     }
 
     return defaultRender(tokens, idx, options, env, self);
@@ -38,24 +38,18 @@ md.renderer.rules.link_open = function (tokens, idx, options, _, self) {
     var aIndex = tokens[idx].attrIndex('href');
 
     let href = tokens[idx].attrs[aIndex][1];
-    if (href.startsWith("#")) {
-        href = href.substr(1);
-        tokens[idx].attrs[aIndex][1] = href;
+    if (href.endsWith(".md")) {
+        tokens[idx].attrs[aIndex][1] = href.replace('.md', '');
     }
 
     return self.renderToken(tokens, idx, options);
 };
 
-function generate(fpat: string, ipage: number) {
-    const content = fs.readFileSync(fpat, "utf-8");
+function generate(fpatIn: string, fpatOut: string, ipage: number) {
+    const content = fs.readFileSync(fpatIn, "utf-8");
     const html = md.render(content);
-    const loc = fpat.replace('.md', '.html').replace('pages', 'build');
-    
-    if (!fs.existsSync(path.parse(loc).dir)) {
-        fs.mkdirSync(path.parse(loc).dir);
-    }
 
-    const en = fpat.indexOf('/en/') > 0;
+    const en = fpatIn.indexOf('/en/') > 0;
     const lang = en ? 'en' : 'hu';
     const title = en ? 'Wildcat Jugglers tutorial' : 'Wildcat Zsonglőr oldalak';
     const nav = en ? 
@@ -72,7 +66,7 @@ function generate(fpat: string, ipage: number) {
     ];
     const footerImage = footerImages[ipage % footerImages.length];
 
-    fs.writeFileSync(loc, stripMargin`
+    fs.writeFileSync(fpatOut, stripMargin`
         | <!DOCTYPE HTML>
         | <html lang="${lang}">
         | <head>
@@ -119,16 +113,26 @@ function generate(fpat: string, ipage: number) {
     `);
 }
 
-function process(dir, ipage: number) {
-    const items = fs.readdirSync(dir);
+function process(inputDir: string, outputDir: string, ipage: number) {
+    const items = fs.readdirSync(inputDir);
+    if (!fs.existsSync(outputDir)) {
+        fs.mkdirSync(outputDir);
+    }
     items.forEach(item => {
-        const p = dir + "/" + item;
-        if (fs.lstatSync(p).isDirectory()) {
-            process(p, ipage);
+        const fpatIn = inputDir + "/" + item;
+
+        if (fs.lstatSync(fpatIn).isDirectory()) {
+            const fpatOut = outputDir + "/" + item;
+            process(fpatIn, fpatOut, ipage);
+        } else if(fpatIn.endsWith('.md')){
+            generate(
+                fpatIn,
+                outputDir + "/" + item.replace('.md', '.html'),
+                ipage++);
         } else {
-            generate(p, ipage++)
+            fs.copyFileSync(fpatIn, outputDir + "/" + item);
         }
     })
 }
 
-process('pages', 0);
+process('site', 'build', 0);

@@ -6,10 +6,9 @@
   "license": "MIT",
   "keywords": [],
   "scripts": {
-    "build": "npm run clean && npm run copy && npx ts-node src/index.ts",
+    "build": "npm run clean && npx ts-node src/index.ts",
     "make-posters": "source ./makeposters.sh",
-    "clean": "rm -rf build",
-    "copy": "cp -r resources/ build"
+    "clean": "rm -rf build"
   },
   "dependencies": {
     "@types/jsdom": "^16.2.3",
