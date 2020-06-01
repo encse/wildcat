@@ -1,5 +1,3 @@
-# Tricks
-
 Wildcat Jugglers were a group of students who met once a week to juggle. The club met at Thunder Bay Junior High in Alpena, Michigan.
 
 This tutorial is designed to teach beginning to intermediate juggling patterns.
