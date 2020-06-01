@@ -6,7 +6,7 @@ profi zsonglőr legyen, de egy-egy trükk elsajátítása mindig újabb lökést
 Ez az oldal egy amerikai zsonglőr klub (Wildcat Jugglers) honlapjának magyar változata. Rob Abrammal, a klub vezetőjével 
 együttműködve hoztuk létre azért, hogy azok számára is elérhetővé tegyük, akik szeretnének megtanulni zsonglőrködni, de nem 
 tudnak eléggé angolul ahhoz, hogy eredetiben olvassák. Az évek során persze sok minden változott, a klub szünetel de a 
-leírások [itt találhatók](/en/index.md).
+leírások [itt találhatók](/site/en/index.md).
 
 ## Első lépések
 

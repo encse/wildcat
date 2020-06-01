@@ -39,8 +39,15 @@ md.renderer.rules.link_open = function (tokens, idx, options, _, self) {
 
     let href = tokens[idx].attrs[aIndex][1];
     if (href.endsWith(".md")) {
-        tokens[idx].attrs[aIndex][1] = href.replace('.md', '');
+        href = href.replace('.md', '');
+
     }
+
+    if (href.startsWith("/site")){
+        href = href.substring("/site".length);
+    }
+
+    tokens[idx].attrs[aIndex][1] = href;
 
     return self.renderToken(tokens, idx, options);
 };
