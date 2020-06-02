@@ -39,12 +39,8 @@ md.renderer.rules.link_open = function (tokens, idx, options, _, self) {
     const aIndex = tokens[idx].attrIndex('href');
 
     let href = tokens[idx].attrs[aIndex][1];
-    if (href.endsWith("index.md")) {
-        href = href.replace('index.md', '');
-    }
-
-    if (href.endsWith(".md")) {
-        href = href.replace('.md', '');
+    if (href.endsWith("README.md")) {
+        href = href.replace('README.md', '');
     }
 
     if (href.startsWith("/site")){
@@ -64,8 +60,8 @@ function generate(fpatIn: string, fpatOut: string, ipage: number) {
     const lang = en ? 'en' : 'hu';
     const title = en ? 'Wildcat Jugglers tutorial' : 'Wildcat Zsonglőr oldalak';
     const nav = en ? 
-        '<a href="/en">Home</a> | <a href="/en/about">About</a> | <a href="/hu">Magyarul</a>' : 
-        '<a href="/hu">Főoldal</a> | <a href="/hu/tortenet">Történet</a> | <a href="/en">English</a>';
+        '<a href="/en">Home</a> | <a href="/en/about/">About</a> | <a href="/hu">Magyarul</a>' :
+        '<a href="/hu">Főoldal</a> | <a href="/hu/tortenet/">Történet</a> | <a href="/en">English</a>';
 
 
     const footerImages = [
@@ -138,12 +134,13 @@ function process(inputDir: string, outputDir: string, ipage: number) {
         } else if(fpatIn.endsWith('.md')){
             generate(
                 fpatIn,
-                outputDir + "/" + item.replace('.md', '.html'),
+                outputDir + "/" + item.replace('README.md', 'index.html'),
                 ipage++);
         } else {
             fs.copyFileSync(fpatIn, outputDir + "/" + item);
         }
     })
 }
+
 
 process('site', 'build', 0);
