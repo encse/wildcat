@@ -1,16 +1,17 @@
 # Learning the Cascade
-If you are just learning to juggle for the first time, you should start with the cascade. Follow the link to see what the cascade looks like. Start with one ball. Scoop your hand under to the other side of your body as you throw. See the videos below to see how it should look. Keep your hand low to catch. Do not reach up to catch the ball, let gravity do its job! Most of the movement should be in your forearms. Your elbows should stay by your sides. Look up. You do not need to look at your hands to know where they are. You do not need to spend much time at this level if you are not having any problems.
+If you are just learning to juggle for the first time, you should start with the cascade. Start with one ball. Scoop your hand under to the other side of your body as you throw. See the videos below to see how it should look. Keep your hand low to catch. Do not reach up to catch the ball, let gravity do its job! Most of the movement should be in your forearms. Your elbows should stay by your sides. Look up. You do not need to look at your hands to know where they are. You do not need to spend much time at this level if you are not having any problems.
 
 ![CascadeOneBall](/site/videos/poster/cascadeoneball.jpg)
 
 **Wrong**
 ![CascadeOneBallOver](/site/videos/poster/cascadeoneballover.jpg)
 
-The next step is to move up to two balls. Remember that you are learning the cascade. Many people have tried to learn how to juggle before without help and tried to learn theshower, which is much more difficult than the cascade. What you will do next is start with a ball in each hand and throw them both UP to the other hand. They switch hands. Throw one ball first, then wait for it to reach its peak before throwing the other. Your throws should be a little over your head. Remember, both hands throw up, no handing across the bottom allowed. If you've tried doing the shower before, you might be having problems with that. The best thing you can do to correct it is start with the opposite hand.
+The next step is to move up to two balls. Remember that you are learning the cascade. Many people have tried to learn how to juggle before without help and tried to learn the shower, which is much more difficult than the cascade. What you will do next is start with a ball in each hand and throw them both UP to the other hand. They switch hands. Throw one ball first, then wait for it to reach its peak before throwing the other. Your throws should be a little over your head. Remember, both hands throw up, no handing across the bottom allowed. If you've tried doing the shower before, you might be having problems with that. The best thing you can do to correct it is start with the opposite hand.
 
 Another problem most people have is throwing the balls away from themselves, especially the second ball. If you're doing this, try to stand by a wall. Try not to hit the wall. If you do hit the wall, though, you can keep juggling. Also, try not to roll the balls off the ends of your fingers.
 
 The balls should pop off the middle of your fingers.
+
 You should spend a lot of time on this step and come back to it if you're having trouble with three balls. Note that you cannot keep the balls going with only two. Do two, then stop and do it again. Once you get good at starting with one hand, practice starting with the other hand. When you're good starting with either hand, alternate starting hands.
 
 ![CascadeTwoBalls](/site/videos/poster/cascadetwoballs.jpg)
