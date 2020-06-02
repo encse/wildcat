@@ -1,10 +1,6 @@
 import fs from 'fs';
 import MarkdownIt from 'markdown-it'
 
-const md = MarkdownIt({
-    html: true
-});
-
 function stripMargin(strings: TemplateStringsArray, ...values: any[]): string {
 	let s = strings[0];
 	for (let i = 0; i < values.length; i++) {
@@ -13,6 +9,11 @@ function stripMargin(strings: TemplateStringsArray, ...values: any[]): string {
 	}
 	return s.trim().split("\n").map(line => line.replace(/^\s*\| /, "")).join('\n');
 }
+
+
+const md = MarkdownIt({
+    html: true
+});
 
 
 const defaultRender = md.renderer.rules.image;
@@ -35,12 +36,15 @@ md.renderer.rules.image = function (tokens, idx, options, env, self) {
 
 
 md.renderer.rules.link_open = function (tokens, idx, options, _, self) {
-    var aIndex = tokens[idx].attrIndex('href');
+    const aIndex = tokens[idx].attrIndex('href');
 
     let href = tokens[idx].attrs[aIndex][1];
+    if (href.endsWith("index.md")) {
+        href = href.replace('index.md', '');
+    }
+
     if (href.endsWith(".md")) {
         href = href.replace('.md', '');
-
     }
 
     if (href.startsWith("/site")){
@@ -61,7 +65,7 @@ function generate(fpatIn: string, fpatOut: string, ipage: number) {
     const title = en ? 'Wildcat Jugglers tutorial' : 'Wildcat Zsonglőr oldalak';
     const nav = en ? 
         '<a href="/en">Home</a> | <a href="/en/about">About</a> | <a href="/hu">Magyarul</a>' : 
-        '<a href="/hu">Trükkök</a> | <a href="/hu/tortenet">Történet</a> | <a href="/en">English</a>';
+        '<a href="/hu">Főoldal</a> | <a href="/hu/tortenet">Történet</a> | <a href="/en">English</a>';
 
 
     const footerImages = [
