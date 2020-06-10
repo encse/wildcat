@@ -11,77 +11,82 @@ function stripMargin(strings: TemplateStringsArray, ...values: any[]): string {
 	return s.trim().split("\n").map(line => line.replace(/^\s*\| /, "")).join('\n');
 }
 
-
-const md = MarkdownIt({
-    html: true
-});
-
-
-const defaultRender = md.renderer.rules.image;
+function getLang(fpatIn: string): string{
+    return fpatIn.indexOf('/en/') >=0 ?'en' : 'hu';
+}
 
 
-md.renderer.rules.h1_open = function (tokens, idx, options, env, self) {
-    env.title  = "hello";
-    console.log('xxx');
-    return self.renderToken(tokens, idx, options);
-};
-
-md.renderer.rules.image = function (tokens, idx, options, env, self) {
-    const token = tokens[idx];
-    const aIndex = token.attrIndex('src');
-
-    const src = token.attrs[aIndex][1];
-    if (src.startsWith("/site/videos/poster/")) {
-        const parts = src.split("/");
-        const file = parts[parts.length-1];
-        const mp4 = "/videos/mp4/" + file.replace(".jpg", ".mp4");
-        const poster = "/videos/poster/" + file;
-        // <script type="application/ld+json">{
-        //         "@context": "http://schema.org",
-        //         "@type": "VideoObject",
-        //         "name": "Oszlopok",
-        //         "description": "Oszlopok",
-        //         "thumbnailUrl": "/videos/poster/twoinonecolumns.jpg",
-        //         "contentUrl": "/videos/mp4/twoinonecolumns.mp4",
-        //         "uploadDate": "2015-02-05T08:00:00+08:00"
-        //     }
-        //     </script>
-        return `<video loop playsinline autoplay src="${mp4}" poster="${poster}"></video>\n`
-    }
-
-    return defaultRender(tokens, idx, options, env, self);
-};
-
-
-md.renderer.rules.link_open = function (tokens, idx, options, _, self) {
-    const aIndex = tokens[idx].attrIndex('href');
-
-    let href = tokens[idx].attrs[aIndex][1];
-    if (href.endsWith("README.md")) {
-        href = href.replace('README.md', '');
-    }
-
-    if (href.startsWith("/site")){
-        href = href.substring("/site".length);
-    }
-
-    tokens[idx].attrs[aIndex][1] = href;
-
-    return self.renderToken(tokens, idx, options);
-};
+function fail(st: string): never {
+  throw new Error(st);
+}
 
 function generate(fpatIn: string, fpatOut: string, ipage: number) {
     const input = fs.readFileSync(fpatIn, "utf-8");
-    console.log(fpatIn);
 
     const {metadata, content} = metadataParse(input);
-    console.log(metadata);
-    const html = md.render(content);
 
-    const en = fpatIn.indexOf('/en/') > 0;
-    const lang = en ? 'en' : 'hu';
-    const title = en ? 'Wildcat Jugglers tutorial' : 'Wildcat Zsonglőr oldalak';
-    const nav = en ? 
+    const md = MarkdownIt({
+        html: true
+    });
+
+    const lang = getLang(fpatIn);
+
+    const defaultRender = md.renderer.rules.image;
+
+    md.renderer.rules.image = function (tokens, idx, options, env, self) {
+        const token = tokens[idx];
+        const aIndex = token.attrIndex('src');
+        const src = token.attrs[aIndex][1];
+        if (src.startsWith("/site/videos/poster/")) {
+            const parts = src.split("/");
+            const file = parts[parts.length-1];
+            const mp4 = "/videos/mp4/" + file.replace(".jpg", ".mp4");
+            const poster = "/videos/poster/" + file;
+
+
+            return `<script type="application/ld+json">{
+                "@context": "http://schema.org",
+                "@type": "VideoObject",
+                "name":  "${lang == 'en' ? 
+                    `Juggling with ${metadata.props}` : 
+                    `Zsonglőrködés ${
+                        metadata.props == 'balls' ? "labdával" :
+                        metadata.props == 'club' ? "buzogánnyal" :
+                        metadata.props == 'ring' ? "karikával" :
+                        metadata.props == 'rubber-band' ? "befőttes gumival" :
+                        fail("invalid prop " + metadata.props)
+                    }`}; ${token.content.replace(/\"/g,"&quot;")}",
+                "thumbnailUrl": "${poster}",
+                "contentUrl": "${mp4}",
+                "uploadDate": "2015-02-05T08:00:00+08:00"
+            }
+            </script><video loop playsinline autoplay src="${mp4}" poster="${poster}"></video>\n`
+        }
+
+        return defaultRender(tokens, idx, options, env, self);
+    };
+
+
+    md.renderer.rules.link_open = function (tokens, idx, options, _, self) {
+        const aIndex = tokens[idx].attrIndex('href');
+
+        let href = tokens[idx].attrs[aIndex][1];
+        if (href.endsWith("README.md")) {
+            href = href.replace('README.md', '');
+        }
+
+        if (href.startsWith("/site")){
+            href = href.substring("/site".length);
+        }
+
+        tokens[idx].attrs[aIndex][1] = href;
+
+        return self.renderToken(tokens, idx, options);
+    };
+
+    const html = md.render(content);
+    const title = lang === 'en' ? 'Wildcat Jugglers tutorial' : 'Wildcat Zsonglőr oldalak';
+    const nav = lang === 'en' ?
         '<a href="/en">Home</a> | <a href="/en/about/">About</a> | <a href="/hu">Magyarul</a>' :
         '<a href="/hu">Főoldal</a> | <a href="/hu/tortenet/">Történet</a> | <a href="/en">English</a>';
 
