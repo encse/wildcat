@@ -43,22 +43,31 @@ function generate(fpatIn: string, fpatOut: string, ipage: number) {
             const mp4 = "/videos/mp4/" + file.replace(".jpg", ".mp4");
             const poster = "/videos/poster/" + file;
 
-
-            return `<script type="application/ld+json">{
-                "@context": "http://schema.org",
-                "@type": "VideoObject",
-                "name":  "${lang == 'en' ? 
-                    `Juggling with ${metadata.props}` : 
+            const name = token.content.replace(/"/g,"&quot;");
+            const description = lang == 'en' ?
+                    `How to juggle the ${
+                        metadata.props == 'balls' ? "balls" :
+                        metadata.props == 'club' ? "clubs" :
+                        metadata.props == 'ring' ? "rings" :
+                        metadata.props == 'rubber-band' ? "rubber bands" :
+                        fail("invalid prop " + metadata.props)
+                    }? Instructor: Rob Abram (Wildcat Jugglers)` :
                     `Zsonglőrködés ${
                         metadata.props == 'balls' ? "labdával" :
                         metadata.props == 'club' ? "buzogánnyal" :
                         metadata.props == 'ring' ? "karikával" :
                         metadata.props == 'rubber-band' ? "befőttes gumival" :
                         fail("invalid prop " + metadata.props)
-                    }`}; ${token.content.replace(/\"/g,"&quot;")}",
+                    }. Bemutatja: Rob Abram (Wildcat Jugglers)`;
+
+            return `<script type="application/ld+json">{
+                "@context": "http://schema.org",
+                "@type": "VideoObject",
+                "name": "${name}",
+                "description": "${description}",
                 "thumbnailUrl": "${poster}",
                 "contentUrl": "${mp4}",
-                "uploadDate": "2015-02-05T08:00:00+08:00"
+                "uploadDate": "2003-02-05T08:00:00+08:00"
             }
             </script><video loop playsinline autoplay src="${mp4}" poster="${poster}"></video>\n`
         }
