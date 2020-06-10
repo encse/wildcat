@@ -101,7 +101,7 @@ function generate(fpatIn: string, fpatOut: string, ipage: number) {
         | <head>
         |     <meta charset="UTF-8">
         |     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        |     <title>Wildcat</title>
+        |     <title>${title} - ${metadata.title}</title>
         |     <link href="//fonts.googleapis.com/css?family=Merriweather&subset=latin" rel="stylesheet" type="text/css">
         |     <link href="//fonts.googleapis.com/css?family=Francois One&subset=latin" rel="stylesheet" type="text/css">
         |     <link rel="stylesheet" href="/css/awsm.css">
