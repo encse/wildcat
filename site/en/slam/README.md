@@ -1,4 +1,7 @@
-# Slam
+---
+title: Slam
+props: balls
+---
 
 ![Slam](/site/videos/poster/slam.jpg)
 

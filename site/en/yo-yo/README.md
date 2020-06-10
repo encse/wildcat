@@ -1,4 +1,7 @@
-# Yo-Yo
+---
+title: Yo-Yo
+props: balls
+---
 
 ![Yo-Yo](/site/videos/poster/yo-yo.jpg)
 

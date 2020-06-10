@@ -1,4 +1,7 @@
-# Boomerang Rubber Band (Twanging)
+---
+title: Boomerang Rubber Band (Twanging)
+props: rubber-band
+---
 
 ![Boomerang Rubber Band](/site/videos/poster/boomerangrubberband.jpg)
 

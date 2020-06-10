@@ -1,4 +1,7 @@
-# Oy-Oy
+---
+title: Oy-Oy
+props: balls
+---
 
 ![Oy-Oy](/site/videos/poster/oy-oy.jpg)
 

@@ -1,4 +1,7 @@
-# Chops
+---
+title: Chops
+props: balls
+---
 
 ![Chops](/site/videos/poster/chops.jpg)
 

@@ -1,4 +1,7 @@
-# Factory
+---
+title: Factory
+props: balls
+---
 
 ![Factory](/site/videos/poster/factory.jpg)
 

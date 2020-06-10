@@ -1,6 +1,9 @@
-# Igazi tenisz
+---
+title: Igazi tenisz
+props: balls
+---
 
-![realtennis](/site/videos/poster/realtennis.jpg)
+![Igazi tenisz](/site/videos/poster/realtennis.jpg)
 
 A [teniszből](/site/hu/tenisz/README.md) úgy lesz igazi tenisz, hogy az alul átadott labdákat nem egyik kézből a másikba dobjuk, hanem függőlegesen felfelé, és – mielőtt leesnének – a felülről érkező labdát vissza is dobjuk. Az elnevezés onnan ered, hogy a két függőlegesen mozgó labda olyan mintha egy teniszhálót rajzolna ki, és a harmadik labda efölött ugrál oda-vissza. A trükk tulajdonképpen a [Jobb, közép, bal](/site/hu/jobb-kozep-bal/README.md) egy változatának is tekinthető, ha így jobban megérted…
 

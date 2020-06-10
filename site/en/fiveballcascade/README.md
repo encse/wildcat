@@ -1,6 +1,9 @@
-# Five Ball Cascade
+---
+title: Five Ball Cascade
+props: balls
+---
 
-![FiveBallCascade](/site/videos/poster/fiveballcascade.jpg)
+![Five Ball Cascade](/site/videos/poster/fiveballcascade.jpg)
 
 Before trying this, you should know how to do a three ball [Flash](/site/en/flash/README.md). You may also want to learn how to juggle
  [Four Balls](/site/en/fourballasynchronousfountain/README.md) before learning five. The patterns for four and five are completely different, but just getting used to having more balls in the air might be a good idea. As the name implies, the Five Ball Cascade is the exact same pattern as the three ball [Cascade](/site/en/cascade/README.md), only with two extra balls. The first three throws of a five ball cascade are the same as a three ball [Flash](/site/en/flash/README.md). Once you throw those three balls up, it's just a matter of replacing them with the two balls in your hands as they come down. I know that's easier said than done.
@@ -14,5 +17,5 @@ Here are a few tips:
 - As with any juggling pattern, the throws are more important than the catches. If you make good throws, the catches should be easy.
 - Here's how I hold three balls in one hand. There are other ways to do it, but this works for me. I throw them in the order that they're numbered.
 
-![Holding5](/images/holding5.jpg)
+![Holding 5](/images/holding5.jpg)
 

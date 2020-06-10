@@ -1,6 +1,9 @@
-# Kétoldali jojó
+---
+title: Kétoldali jojó
+props: balls
+---
 
-![yo-yobothsides](/site/videos/poster/yo-yobothsides.jpg)
+![Kétoldali jojó](/site/videos/poster/yo-yobothsides.jpg)
 
 Erről nem sokat tudok mondani. Csak próbálgasd…
 

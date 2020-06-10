@@ -1,6 +1,9 @@
-# Egyet fel, kettőt fel – végtelen
+---
+title: Egyet fel, kettőt fel – végtelen
+props: balls
+---
 
-![oneuptwoupinfinity](/site/videos/poster/oneuptwoupinfinity.jpg)
+![Egyet fel, kettőt fel – végtelen](/site/videos/poster/oneuptwoupinfinity.jpg)
 
 Ebben az [egyet fel, kettőt fel](/site/hu/egyet-fel-kettot-fel-merleg/README.md) trükkben az első labdát egy végtelen jelet (fektetett nyolcast) formáló úton vezesd a másik két labda körül.
 

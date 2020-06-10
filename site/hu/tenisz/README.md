@@ -1,6 +1,9 @@
-# Tenisz
+---
+title: Tenisz
+props: balls
+---
 
-![tennis](/site/videos/poster/tennis.jpg)
+![Tenisz](/site/videos/poster/tennis.jpg)
 
 A tenisz az [Átadás felül](/site/hu/atadas-felul/README.md) egy variációja.
 

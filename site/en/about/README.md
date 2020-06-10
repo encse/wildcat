@@ -1,4 +1,6 @@
-# About Rob
+---
+title: About Rob
+---
 
 I'm Rob Abram, the angry looking guy in the videos. I'm not really angry, but it's hard to keep a constant smile on while juggling for a video camera in my basement. I'm really much happier than I look in the videos!
 

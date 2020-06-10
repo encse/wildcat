@@ -1,4 +1,7 @@
-# Főoldal
+---
+title: Főoldal
+props: balls
+---
 
 A zsonglőrködés alapjait kis türelemmel bárki elsajátíthatja. Persze hosszú évekig tartó gyakorlás kell ahhoz, hogy valakiből 
 profi zsonglőr legyen, de egy-egy trükk elsajátítása mindig újabb lökést ad a következő akadály leküzdéséhez.

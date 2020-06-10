@@ -1,5 +1,6 @@
 import fs from 'fs';
 import MarkdownIt from 'markdown-it'
+import metadataParse from 'markdown-yaml-metadata-parser';
 
 function stripMargin(strings: TemplateStringsArray, ...values: any[]): string {
 	let s = strings[0];
@@ -18,6 +19,13 @@ const md = MarkdownIt({
 
 const defaultRender = md.renderer.rules.image;
 
+
+md.renderer.rules.h1_open = function (tokens, idx, options, env, self) {
+    env.title  = "hello";
+    console.log('xxx');
+    return self.renderToken(tokens, idx, options);
+};
+
 md.renderer.rules.image = function (tokens, idx, options, env, self) {
     const token = tokens[idx];
     const aIndex = token.attrIndex('src');
@@ -28,6 +36,16 @@ md.renderer.rules.image = function (tokens, idx, options, env, self) {
         const file = parts[parts.length-1];
         const mp4 = "/videos/mp4/" + file.replace(".jpg", ".mp4");
         const poster = "/videos/poster/" + file;
+        // <script type="application/ld+json">{
+        //         "@context": "http://schema.org",
+        //         "@type": "VideoObject",
+        //         "name": "Oszlopok",
+        //         "description": "Oszlopok",
+        //         "thumbnailUrl": "/videos/poster/twoinonecolumns.jpg",
+        //         "contentUrl": "/videos/mp4/twoinonecolumns.mp4",
+        //         "uploadDate": "2015-02-05T08:00:00+08:00"
+        //     }
+        //     </script>
         return `<video loop playsinline autoplay src="${mp4}" poster="${poster}"></video>\n`
     }
 
@@ -53,7 +71,11 @@ md.renderer.rules.link_open = function (tokens, idx, options, _, self) {
 };
 
 function generate(fpatIn: string, fpatOut: string, ipage: number) {
-    const content = fs.readFileSync(fpatIn, "utf-8");
+    const input = fs.readFileSync(fpatIn, "utf-8");
+    console.log(fpatIn);
+
+    const {metadata, content} = metadataParse(input);
+    console.log(metadata);
     const html = md.render(content);
 
     const en = fpatIn.indexOf('/en/') > 0;
@@ -108,6 +130,7 @@ function generate(fpatIn: string, fpatOut: string, ipage: number) {
         | </header>
         | <main>
         | <article>
+        | <h1>${metadata.title}</h1>
         | ${html}
         | <img src="${footerImage}" />
         | </article>

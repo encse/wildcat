@@ -1,4 +1,7 @@
-# Box
+---
+title: Box
+props: balls
+---
 
 ![Box](/site/videos/poster/box.jpg)
 

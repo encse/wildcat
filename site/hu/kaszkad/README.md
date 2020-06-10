@@ -1,6 +1,9 @@
-# Kaszkád
+---
+title: Kaszkád
+props: balls
+---
 
-![cascade](/site/videos/poster/cascade.jpg)
+![Kaszkád](/site/videos/poster/cascade.jpg)
 
 A zsonglőrködés alapfigurája. Röviden úgy foglalhatnánk össze, hogy mindig amikor egy labda eléri a 
 pályája csúcspontját, feldobunk egyet a másik (fogadó) oldalról.

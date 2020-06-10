@@ -1,4 +1,7 @@
-# Tennis
+---
+title: Tennis
+props: balls
+---
 
 ![Tennis](/site/videos/poster/tennis.jpg)
 

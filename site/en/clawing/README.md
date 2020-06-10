@@ -1,4 +1,7 @@
-# Clawing
+---
+title: Clawing
+props: balls
+---
 
 ![Clawing](/site/videos/poster/clawing.jpg)
 

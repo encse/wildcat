@@ -1,4 +1,7 @@
-# Shower
+---
+title: Shower
+props: balls
+---
 
 ![Shower](/site/videos/poster/shower.jpg)
 

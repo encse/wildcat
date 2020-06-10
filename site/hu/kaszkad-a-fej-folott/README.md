@@ -1,6 +1,9 @@
-# Kaszkád a fej fölött
+---
+title: Kaszkád a fej fölött
+props: balls
+---
 
-![overheadcascade](/site/videos/poster/overheadcascade.jpg)
+![Kaszkád a fej fölött](/site/videos/poster/overheadcascade.jpg)
 
 Ez ugyanaz mint a kaszkád, csak a fejed fölött csinálod…
 

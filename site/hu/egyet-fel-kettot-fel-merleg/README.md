@@ -1,6 +1,9 @@
-# Egyet fel, kettőt fel – mérleg
+---
+title: Egyet fel, kettőt fel – mérleg
+props: balls
+---
 
-![oneuptwoup](/site/videos/poster/oneuptwoup.jpg)
+![Egyet fel, kettőt fel – mérleg](/site/videos/poster/oneuptwoup.jpg)
 
 Miközben az egyik kezedben két labdát dobálsz egymás mellett [oszlopban](/site/hu/oszlopok/README.md), a másik kezeddel dobálj egyet függőlegesen. Eleinte vicces lesz, mert azt gondolnád, hogy miután megtanultad az oszlopokat, már azt csinálsz a másik kezeddel amit akarsz – majd meglátod mire gondolok. Nyugi, hamar bele lehet jönni. (A ford.)
 

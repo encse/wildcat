@@ -1,6 +1,9 @@
-# Wimpy
+---
+title: Wimpy
+props: balls
+---
 
-![fourwimpy](/site/videos/poster/fourwimpy.jpg)
+![Wimpy](/site/videos/poster/fourwimpy.jpg)
 
 A labdák egymás útját keresztezik, majd a másik kézben landolnak. Ha páros számú labdával így zsonglőrködsz, azt mondják határozatlan vagy. (Wimpy magyarul: határozatlan, döntésképtelen.) Szerintem ez rossz név, hiszen elég nehéz mondjuk tíz labdával *határozatlanul* zsonglőrködni. Mások *szinkron keresztezésnek* is nevezik, ami találóbb, de nem olyan fülbemászó.
 

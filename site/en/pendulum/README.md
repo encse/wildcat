@@ -1,4 +1,7 @@
-# Pendulum
+---
+title: Pendulum
+props: balls
+---
 
 ![Pendulum](/site/videos/poster/pendulum.jpg)
 

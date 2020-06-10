@@ -1,4 +1,7 @@
-# Kaszkád – lépésről lépésre
+---
+title: Kaszkád – lépésről lépésre
+props: balls
+---
 
 A zsonglőrködés egyáltalán nem olyan ördöngösség, mint amilyennek látszik. Ha már láttál zsonglőrt biztosan 
 ismered a [kaszkád](/site/hu/kaszkad/README.md) figurát. A kaszkádot bárki megtanulhatja pár nap alatt, 
@@ -19,10 +22,10 @@ kapd el a másik kezeddel! A videó segít, ha nem sikerült elképzelni… Nagy
  szép, ha főleg az alkarod dolgozik, és a felkar végig a tested mellett marad. Dobás közben a labdát nézd, a kezednek 
  érezni kell, hová kell nyúlnia!
 
-![cascadeoneball](/site/videos/poster/cascadeoneball.jpg)
+![Kaszkád lépésről lépésre - egy labda](/site/videos/poster/cascadeoneball.jpg)
 
 **Ez nem jó:**
-![cascadeoneballover](/site/videos/poster/cascadeoneballover.jpg)
+![Kaszkád lépésről lépésre - egy labda felül](/site/videos/poster/cascadeoneballover.jpg)
 
 Oké, ez egyszerű volt. Nem kell unalomig gyakorolni, előbb-utóbb úgyis belerázódsz ahogy egyre jobban 
 elmélyülsz a zsonglőrködés tudományában. A következő lépéshez még egy labdára lesz szükség: most kettőt 
@@ -52,7 +55,7 @@ Fontos, hogy mindkét kezeddel meg kell tanulnod elkezdeni a figurát, nem elég
 Sajnos a dolog szimmetrikus, tehát amíg nem tanulsz meg mindkét kézzel indítani, nem fogsz tudni három 
 labdával sem zsonglőrködni… A legjobb ha felváltva csinálod, egyszer jobb kézzel indítasz, aztán ballal.
 
-![cascadetwoballs](/site/videos/poster/cascadetwoballs.jpg)
+![Kaszkád lépésről lépésre - két labda](/site/videos/poster/cascadetwoballs.jpg)
 
 Feltéve, hogy jól begyakoroltad a fentieket, elkezdtetünk három labdával foglalkozni. Izgatott vagy, 
 ugye? Örömmel jelenthetem be, hogy túl vagyunk a nehezén. Már csak egy harmadik labda kell, ami összeköti 
@@ -77,6 +80,6 @@ nem tudják, mert a kezük utánakap. Szeretném hangsúlyozni, hogy nem baj, ha
 hiszen vonzza a Föld! A lényeg az, hogy a fogadó kézben levő labdát fel kell dobni. Ahelyett, hogy utánakapsz a 
 másiknak, kényszerítsd magad arra, hogy eldobd a kezedben levőt, és csak ezután keresd meg az elgurult labdát a földön!
 
-![cascadehigh](/site/videos/poster/cascadehigh.jpg)
+![Kaszkád lépésről lépésre - magas dobások](/site/videos/poster/cascadehigh.jpg)
 
 

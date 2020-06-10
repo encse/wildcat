@@ -1,8 +1,11 @@
-# Bumeráng befőttesgumiból
+---
+title: Bumeráng befőttesgumiból
+props: rubber-band
+---
 
 Nem zsonglőr trükk, de nagyon népszerű a zsonglőrtalálkozókon (legalábbis ahol eddig jártam). Sajnos nincs felvételem róla, mert a befőttes gumik idehaza pont olyan színűek, mint a padló… A trükk lényege, hogy ellövünk egy befőttes gumit, ami aztán bumeráng módjára visszagurul a földön.
 
-![boomerangrubberband](/site/videos/poster/boomerangrubberband.jpg)
+![Bumeráng befőttesgumiból](/site/videos/poster/boomerangrubberband.jpg)
 
 Először keress pár befőttes gumit (kb. 4 és fél centi átmérőjűt). Feszítsd szét az ujjaidat (különösen a hüvelyk- és kisujjadat), amennyire csak tudod! A tenyered feléd nézzen, a mutató ujjad felfelé, a kis- és a hüvelykujjad pedig oldalra. A befőttes gumi egyik végét a kisujjadra tedd (ha nem túl hosszú a körmöd, akkor alá). A másik vége a hüvelykujjadra kerül, mégpedig úgy, hogy a gumi alsó fele kifeszüljön (a felső fele persze így nagyon laza lesz).
 

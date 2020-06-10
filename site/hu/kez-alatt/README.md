@@ -1,6 +1,9 @@
-# Kéz alatt
+---
+title: Kéz alatt
+props: balls
+---
 
-![underthearm](/site/videos/poster/underthearm.jpg)
+![Kéz alatt](/site/videos/poster/underthearm.jpg)
 
 Dobj át egy labdát a kezed alatt. Mi mást is mondhatnék?
 

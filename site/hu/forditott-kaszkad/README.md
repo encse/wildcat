@@ -1,6 +1,9 @@
-# Fordított kaszkád
+---
+title: Fordított kaszkád
+props: balls
+---
 
-![reversecascade](/site/videos/poster/reversecascade.jpg)
+![Fordított kaszkád](/site/videos/poster/reversecascade.jpg)
 
 Nagyon szép kaszkád variáció, egyesek szerint kényelmesebb csinálni mint az alap kaszkádot.
 

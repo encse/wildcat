@@ -1,6 +1,9 @@
-# Koszorú
+---
+title: Koszorú
+props: balls
+---
 
-![shower](/site/videos/poster/shower.jpg)
+![Koszorú](/site/videos/poster/shower.jpg)
 
 Ez az a trükk, amit a legtöbben elkezdenek próbálgatni, amikor zsonglőrködni tanulnak. Ugyanakkor ez nem a legjobb kezdés… Első trükknek a [Kaszkádot](/site/hu/kaszkad/README.md) érdemes megtanulni, a Koszorú ugyanis **sokkal** gyorsabb.
 

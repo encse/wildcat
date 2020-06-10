@@ -1,4 +1,7 @@
-# Swoop
+---
+title: Swoop
+props: balls
+---
 
 ![Swoop](/site/videos/poster/swoop.jpg)
 

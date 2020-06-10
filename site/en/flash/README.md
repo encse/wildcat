@@ -1,4 +1,7 @@
-# Flash
+---
+title: Flash
+props: balls
+---
 
 ![Flash](/site/videos/poster/flash.jpg)
 

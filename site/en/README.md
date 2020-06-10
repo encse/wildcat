@@ -1,4 +1,6 @@
-# Home
+---
+title: Home
+---
 
 Wildcat Jugglers were a group of students who met once a week to juggle. The club met at Thunder Bay Junior High in Alpena, Michigan.
 

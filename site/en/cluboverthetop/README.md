@@ -1,6 +1,9 @@
-# Club Over the Top
+---
+title: Club Over the Top
+props: club
+---
 
-![ClubOverTheTop](/site/videos/poster/cluboverthetop.jpg)
+![Club Over the Top](/site/videos/poster/cluboverthetop.jpg)
 
 Just throw a club over the top, catch it on the other side, and continue juggling.
 

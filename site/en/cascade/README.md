@@ -1,4 +1,7 @@
-# Cascade
+---
+title: Cascade
+props: balls
+---
 
 ![Cascade](/site/videos/poster/cascade.jpg)
 

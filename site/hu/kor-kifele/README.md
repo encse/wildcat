@@ -1,4 +1,7 @@
-# Kör kifelé
+---
+title: Kör kifelé
+props: balls
+---
 
 ![twoinoneoutside](/site/videos/poster/twoinoneoutside.jpg)
 

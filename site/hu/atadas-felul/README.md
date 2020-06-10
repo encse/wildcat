@@ -1,6 +1,9 @@
-# Átadás felül
+---
+title: Átadás felül
+props: balls
+---
 
-![overthetop](/site/videos/poster/overthetop.jpg)
+![Átadás felül](/site/videos/poster/overthetop.jpg)
 
 Ezt a trükköt a [Kaszkád](/site/hu/kaszkad/README.md) közben lehet "bedobni".
 
