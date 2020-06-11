@@ -20,7 +20,12 @@ function fail(st: string): never {
   throw new Error(st);
 }
 
-function generate(fpatIn: string, fpatOut: string, ipage: number) {
+type SitemapEntry = {
+    name: string;
+    fpat: string;
+}
+
+function generate(fpatIn: string, fpatOut: string, ipage: number): SitemapEntry {
     const input = fs.readFileSync(fpatIn, "utf-8");
 
     const {metadata, content} = metadataParse(input);
@@ -155,29 +160,44 @@ function generate(fpatIn: string, fpatOut: string, ipage: number) {
         | </body>
         | </html>
     `);
+
+    return {
+        name: metadata.title,
+        fpat: fpatOut
+    };
 }
 
-function process(inputDir: string, outputDir: string, ipage: number) {
+function process(inputDir: string, outputDir: string, ipage: number): SitemapEntry[] {
     const items = fs.readdirSync(inputDir);
     if (!fs.existsSync(outputDir)) {
         fs.mkdirSync(outputDir);
     }
+    let res = [];
     items.forEach(item => {
         const fpatIn = inputDir + "/" + item;
 
         if (fs.lstatSync(fpatIn).isDirectory()) {
             const fpatOut = outputDir + "/" + item;
-            process(fpatIn, fpatOut, ipage);
+            res.push(...process(fpatIn, fpatOut, ipage));
         } else if(fpatIn.endsWith('.md')){
-            generate(
+            res.push(generate(
                 fpatIn,
                 outputDir + "/" + item.replace('README.md', 'index.html'),
-                ipage++);
+                ipage++));
         } else {
             fs.copyFileSync(fpatIn, outputDir + "/" + item);
         }
-    })
+    });
+    return res;
 }
 
 
-process('site', 'build', 0);
+const sitemapEntries = process('site', 'build', 0);
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    ${sitemapEntries.map(
+        entry => `<url><loc>https://zsonglor.csokavar.hu/${entry.fpat.replace('/index.html', '/').replace('build/','')}</loc></url>`
+    ).join("\n\t")}
+</urlset>`;
+fs.writeFileSync('build/sitemap.xml', sitemap);
+
