@@ -12,25 +12,22 @@ function stripMargin(strings: TemplateStringsArray, ...values: any[]): string {
 	return s.trim().split("\n").map(line => line.replace(/^\s*\| /, "")).join('\n');
 }
 
-
 const pick: <T> (items: T[]) => T = (() => {
     let i = 0;
     return items => items[(i++) % items.length];
 })();
 
-function fail(st: string): never {
+const fail = (st: string): never => {
     throw new Error(st);
-}
+};
 
 type I18n = ((en: string, hu: string) => string) & {lang: "en" | "hu"};
-
-function i18n(fpatIn: string): I18n {
+const i18n = (fpatIn: string): I18n => {
     const lang = fpatIn.indexOf('/en/') >=0 ? "en" : "hu";
     const fn = (en, hu) => lang == "en" ? en : hu;
     fn.lang = lang  as "en" | "hu";
     return fn;
-}
-
+};
 
 enum ItemKind {
     Page,
@@ -193,7 +190,7 @@ function getSitemap(inputDir: string): Sitemap {
         } else if (item.startsWith(".")) {
             // skip
             return;
-        } else if (item.endsWith('.md')){
+        } else if (item.endsWith('.md')) {
             sitemap.push({
                 kind: ItemKind.Page,
                 path: path.join(fpatOut, item.replace("README", "index").replace("md", "html")),
@@ -210,13 +207,13 @@ function getSitemap(inputDir: string): Sitemap {
     return sitemap;
 }
 
-function generate(fpatIn: string, fpatOut: string, writeFileSync: (fpat: string, content: string | NodeJS.ArrayBufferView) => void) {
+function generate(fpatIn: string, fpatOut: string, writeFile: (fpat: string, content: string | NodeJS.ArrayBufferView) => void) {
     const sitemap = getSitemap(fpatIn);
     for (let item of sitemap){
-        writeFileSync(path.join(fpatOut, item.path), item.content());
+        writeFile(path.join(fpatOut, item.path), item.content());
     }
 
-    writeFileSync(path.join(fpatOut, 'sitemap.xml'), stripMargin`
+    writeFile(path.join(fpatOut, 'sitemap.xml'), stripMargin`
         | <?xml version="1.0" encoding="UTF-8"?>
         | <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
         |     ${sitemap.filter(item => item.kind === ItemKind.Page).map(
