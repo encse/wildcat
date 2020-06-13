@@ -3,14 +3,14 @@ title: Five Ball Cascade
 props: balls
 ---
 
-![Five Ball Cascade](site/videos/poster/fiveballcascade.jpg)
+![Five Ball Cascade](/site/videos/poster/fiveballcascade.jpg)
 
-Before trying this, you should know how to do a three ball [Flash](site/en/flash/README.md). You may also want to learn how to juggle
- [Four Balls](site/en/fourballasynchronousfountain/README.md) before learning five. The patterns for four and five are completely different, but just getting used to having more balls in the air might be a good idea. As the name implies, the Five Ball Cascade is the exact same pattern as the three ball [Cascade](site/en/cascade/README.md), only with two extra balls. The first three throws of a five ball cascade are the same as a three ball [Flash](site/en/flash/README.md). Once you throw those three balls up, it's just a matter of replacing them with the two balls in your hands as they come down. I know that's easier said than done.
+Before trying this, you should know how to do a three ball [Flash](/site/en/flash/README.md). You may also want to learn how to juggle
+ [Four Balls](/site/en/fourballasynchronousfountain/README.md) before learning five. The patterns for four and five are completely different, but just getting used to having more balls in the air might be a good idea. As the name implies, the Five Ball Cascade is the exact same pattern as the three ball [Cascade](/site/en/cascade/README.md), only with two extra balls. The first three throws of a five ball cascade are the same as a three ball [Flash](/site/en/flash/README.md). Once you throw those three balls up, it's just a matter of replacing them with the two balls in your hands as they come down. I know that's easier said than done.
 
 Here are a few tips:
 - Use beanbags. You'll spend less time chasing balls rolling or bouncing.
-- Keep practicing the three ball [Flash](site/en/flash/README.md).
+- Keep practicing the three ball [Flash](/site/en/flash/README.md).
 - Some people watch the top of the two peaks the balls make, some watch the intersection of the paths just before the peaks. In any case, you should be looking up. I look up before I make my first throw.
 - It is slower and more relaxed than it looks when someone else is doing it. I think I was rushing it when I first started. I was also too tense. Relax.
 - Try not to move your elbows too much. They should be near your sides, not flailing all over the place.

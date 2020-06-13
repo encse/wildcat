@@ -3,9 +3,9 @@ title: Kaszkád öt labdával
 props: balls
 ---
 
-![Kaszkád öt labdával](site/videos/poster/fiveballcascade.jpg)
+![Kaszkád öt labdával](/site/videos/poster/fiveballcascade.jpg)
 
-Mindenek előtt tanuld meg a [Villanást](site/hu/villanas/README.md), és esetleg próbálj ki pár trükköt négy labdával (erre ugyan nincs szükség a figurához, de segít megszokni, hogy egynél több labda van a levegőben). A trükk – nevéhez hűen – nagyon hasonlít a három labdás kaszkádhoz, csak kettővel több labdával… Az első három dobás ugyanaz mint a villanásban, ezután már "csak" annyi a dolgod, hogy amikor egy labda visszaesik egy másikat dobsz fel helyette.
+Mindenek előtt tanuld meg a [Villanást](/site/hu/villanas/README.md), és esetleg próbálj ki pár trükköt négy labdával (erre ugyan nincs szükség a figurához, de segít megszokni, hogy egynél több labda van a levegőben). A trükk – nevéhez hűen – nagyon hasonlít a három labdás kaszkádhoz, csak kettővel több labdával… Az első három dobás ugyanaz mint a villanásban, ezután már "csak" annyi a dolgod, hogy amikor egy labda visszaesik egy másikat dobsz fel helyette.
 
 Tanácsok az első lépésekhez:
 

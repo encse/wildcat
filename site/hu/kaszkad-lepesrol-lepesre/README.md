@@ -4,7 +4,7 @@ props: balls
 ---
 
 A zsonglőrködés egyáltalán nem olyan ördöngösség, mint amilyennek látszik. Ha már láttál zsonglőrt biztosan 
-ismered a [kaszkád](site/hu/kaszkad/README.md) figurát. A kaszkádot bárki megtanulhatja pár nap alatt, 
+ismered a [kaszkád](/site/hu/kaszkad/README.md) figurát. A kaszkádot bárki megtanulhatja pár nap alatt, 
 csak egy kis türelemre és kitartásra van szükség hozzá.
 
 Kezdetnek vegyünk egy labdát… illetve, ha jobban meggondolom eleinte még labdára sincs szükség. Vegyünk bármit 
@@ -22,15 +22,15 @@ kapd el a másik kezeddel! A videó segít, ha nem sikerült elképzelni… Nagy
  szép, ha főleg az alkarod dolgozik, és a felkar végig a tested mellett marad. Dobás közben a labdát nézd, a kezednek 
  érezni kell, hová kell nyúlnia!
 
-![Kaszkád lépésről lépésre - egy labda](site/videos/poster/cascadeoneball.jpg)
+![Kaszkád lépésről lépésre - egy labda](/site/videos/poster/cascadeoneball.jpg)
 
 **Ez nem jó:**
-![Kaszkád lépésről lépésre - egy labda felül](site/videos/poster/cascadeoneballover.jpg)
+![Kaszkád lépésről lépésre - egy labda felül](/site/videos/poster/cascadeoneballover.jpg)
 
 Oké, ez egyszerű volt. Nem kell unalomig gyakorolni, előbb-utóbb úgyis belerázódsz ahogy egyre jobban 
 elmélyülsz a zsonglőrködés tudományában. A következő lépéshez még egy labdára lesz szükség: most kettőt 
 fogunk cserélgetni a két kezünk között. A kaszkád tanulásakor mindkét labdát felfelé kell dobni, ezt 
-fontos megjegyezni, mert a legtöbb ember zsonglőrködés alatt a [koszorú](site/hu/koszoru/README.md) nevű 
+fontos megjegyezni, mert a legtöbb ember zsonglőrködés alatt a [koszorú](/site/hu/koszoru/README.md) nevű 
 figurát érti, és ha egyedül próbál zsonglőrködni tanulni rögtön ezzel kezdi. Ez aztán vagy nagyon sokáig 
 tart, vagy sose sikerül… A kaszkád sokkal egyszerűbb figura, és ebből érdemes kiindulni sok más trükk tanuláskor is.
 
@@ -55,7 +55,7 @@ Fontos, hogy mindkét kezeddel meg kell tanulnod elkezdeni a figurát, nem elég
 Sajnos a dolog szimmetrikus, tehát amíg nem tanulsz meg mindkét kézzel indítani, nem fogsz tudni három 
 labdával sem zsonglőrködni… A legjobb ha felváltva csinálod, egyszer jobb kézzel indítasz, aztán ballal.
 
-![Kaszkád lépésről lépésre - két labda](site/videos/poster/cascadetwoballs.jpg)
+![Kaszkád lépésről lépésre - két labda](/site/videos/poster/cascadetwoballs.jpg)
 
 Feltéve, hogy jól begyakoroltad a fentieket, elkezdtetünk három labdával foglalkozni. Izgatott vagy, 
 ugye? Örömmel jelenthetem be, hogy túl vagyunk a nehezén. Már csak egy harmadik labda kell, ami összeköti 
@@ -71,7 +71,7 @@ Ezen a ponton néhányan elakadnak. Vannak akik túl gyorsan csinálják. Nem sz
 labdát eldobni, amikor a közeledő a pályája csúcsán van. Ha megnézed a videót alul, láthatod, hogy az idő 
 nagy részében csak egy(!) labda van a levegőben. Úgy is lassíthatsz a dolgon, hogy magasabbakat dobsz. 
 Minél magasabbra dobod a labdát, annál több időd lesz felkészülni a fogadására. Idővel fokozatosan 
-csökkentheted a magasságot ([úgy jobban néz ki](site/hu/kaszkad/README.md)), de egyelőre maradjunk inkább kicsivel 
+csökkentheted a magasságot ([úgy jobban néz ki](/site/hu/kaszkad/README.md)), de egyelőre maradjunk inkább kicsivel 
 fejmagasság fölött.
 
 Vannak olyanok is, akik "elfelejtik" eldobni a labdát, egyszerűen csak elkapják a levegőben levőt. Dobálnak 
@@ -80,6 +80,6 @@ nem tudják, mert a kezük utánakap. Szeretném hangsúlyozni, hogy nem baj, ha
 hiszen vonzza a Föld! A lényeg az, hogy a fogadó kézben levő labdát fel kell dobni. Ahelyett, hogy utánakapsz a 
 másiknak, kényszerítsd magad arra, hogy eldobd a kezedben levőt, és csak ezután keresd meg az elgurult labdát a földön!
 
-![Kaszkád lépésről lépésre - magas dobások](site/videos/poster/cascadehigh.jpg)
+![Kaszkád lépésről lépésre - magas dobások](/site/videos/poster/cascadehigh.jpg)
 
 

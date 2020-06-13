@@ -24,6 +24,6 @@ The content can be found in the [site](site) folder in
 markdown format, from which a super simple [script](src/index.ts) 
 generates the necessary html output.
 
-Happy juggling everyone!
+Happy juggling anyone!
 
 ![img](site/images/diabolo-macska.png)

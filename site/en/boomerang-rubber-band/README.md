@@ -3,7 +3,7 @@ title: Boomerang Rubber Band (Twanging)
 props: rubber-band
 ---
 
-![Boomerang Rubber Band](site/videos/poster/boomerangrubberband.jpg)
+![Boomerang Rubber Band](/site/videos/poster/boomerangrubberband.jpg)
 
 This is not a juggling trick, but is popular at juggling conventions that I have been to. I originally heard it called the boomerang rubber band, but more recently I've heard it called "twanging". I don't have a video of the actual trick here because the rubber bands I have are almost exactly the same color as the floor and carpet in my house and it doesn't show up. The trick is to shoot a rubber band, have it land on the floor and roll all the way back to you. It's really cool.
 
