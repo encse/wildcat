@@ -144,7 +144,7 @@ You can start practicing clubs right after learning the three balls cascade.
 
 ## Three Rings
 
-It's worth trying the rings as well.
+Worth trying the rings as well.
 -  [Cascade](/site/en/ringcascade/README.md)
 
 ## Non-Juggling Stuff
