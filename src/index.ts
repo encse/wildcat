@@ -12,9 +12,11 @@ function stripMargin(strings: TemplateStringsArray, ...values: any[]): string {
 	return s.trim().split("\n").map(line => line.replace(/^\s*\| /, "")).join('\n');
 }
 
-function pick<T>(items: T[]):T {
-    return items[Math.floor(Math.random() * items.length)];
-}
+
+const pick: <T> (items: T[]) => T = (() => {
+    let i = 0;
+    return items => items[Math.floor((i++) * items.length)];
+})();
 
 function fail(st: string): never {
     throw new Error(st);
