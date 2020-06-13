@@ -3,7 +3,7 @@ title: Kaszkád a fej fölött
 props: balls
 ---
 
-![Kaszkád a fej fölött](/site/videos/poster/overheadcascade.jpg)
+![Kaszkád a fej fölött](site/videos/poster/overheadcascade.jpg)
 
 Ez ugyanaz mint a kaszkád, csak a fejed fölött csinálod…
 

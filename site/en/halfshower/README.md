@@ -3,7 +3,7 @@ title: Half Shower
 props: balls
 ---
 
-![Half Shower](/site/videos/poster/halfshower.jpg)
+![Half Shower](site/videos/poster/halfshower.jpg)
 
-The Half Shower is just [Over the Top](/site/en/overthetop/README.md) done continuously in one direction. Every throw from one hand goes over the top.
+The Half Shower is just [Over the Top](site/en/overthetop/README.md) done continuously in one direction. Every throw from one hand goes over the top.
 

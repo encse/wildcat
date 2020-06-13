@@ -56,7 +56,7 @@ function pageFromMarkdown(i18n: I18n, markdown: string): string {
         const token = tokens[idx];
         const aIndex = token.attrIndex('src');
         const src = token.attrs[aIndex][1];
-        if (src.startsWith("/site/videos/poster/")) {
+        if (src.startsWith("site/videos/poster/")) {
             const parts = src.split("/");
             const file = parts[parts.length-1];
             const mp4 = "/videos/mp4/" + file.replace(".jpg", ".mp4");
@@ -106,8 +106,8 @@ function pageFromMarkdown(i18n: I18n, markdown: string): string {
             href = href.replace('README.md', '');
         }
 
-        if (href.startsWith("/site")){
-            href = href.substring("/site".length);
+        if (href.startsWith("site")){
+            href = href.substring("site".length);
         }
 
         tokens[idx].attrs[aIndex][1] = href;
