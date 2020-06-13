@@ -1,6 +1,4 @@
----
-title: Wildcat Jugglers Tutorial
----
+# Wildcat Jugglers Tutorial
 
 This repository is the home of the Wildcat Jugglers Tutorial 
 or Wildcat Zsonglőr oldalak in Hungarian. This is a 
