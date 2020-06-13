@@ -15,7 +15,7 @@ function stripMargin(strings: TemplateStringsArray, ...values: any[]): string {
 
 const pick: <T> (items: T[]) => T = (() => {
     let i = 0;
-    return items => items[Math.floor((i++) * items.length)];
+    return items => items[(i++) % items.length];
 })();
 
 function fail(st: string): never {
