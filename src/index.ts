@@ -123,11 +123,11 @@ function pageFromMarkdown(i18n: I18n, markdown: string): string {
 
 
     const footerImage = pick([
-        "/images/dobol-macska.png",
-        "/images/diabolo-macska.png",
-        "/images/macska-alszik.png",
-        "/images/tandem-macska.png",
-        "/images/zsonglor-macska.png"
+        "/images/dobol-macska.svg",
+        "/images/diabolo-macska.svg",
+        "/images/macska-alszik.svg",
+        "/images/tandem-macska.svg",
+        "/images/zsonglor-macska.svg"
     ]);
 
     return stripMargin`
@@ -167,7 +167,7 @@ function pageFromMarkdown(i18n: I18n, markdown: string): string {
         | <article>
         | <h1>${metadata.title}</h1>
         | ${html}
-        | <img src="${footerImage}" />
+        | <img src="${footerImage}" style="width: 80%" />
         | </article>
         | </main>
         | <footer>
