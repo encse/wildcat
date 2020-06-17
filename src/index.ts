@@ -167,7 +167,7 @@ function pageFromMarkdown(i18n: I18n, markdown: string): string {
         | <article>
         | <h1>${metadata.title}</h1>
         | ${html}
-        | <img src="${footerImage}" style="width: 80%" />
+        | <img src="${footerImage}" />
         | </article>
         | </main>
         | <footer>
