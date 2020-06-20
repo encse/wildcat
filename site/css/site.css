@@ -276,17 +276,16 @@ a:hover {
 
 img, picture {
   display:block;
-  width: 90%;
-  max-width: 90%;
+  width: 100%;
+  max-width: 100%;
   max-height: 80vh;
   margin:0 auto;
 }
 
 video {
-  width: 90%;
-  max-width: 90%;
+  width: 100%;
+  max-width: 100%;
   max-height: 80vh;
-  border-radius: 16px;
   display: block;
   margin: 0.5em auto;
 }
