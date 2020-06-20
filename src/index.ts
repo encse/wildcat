@@ -137,17 +137,7 @@ function pageFromMarkdown(i18n: I18n, markdown: string): string {
         |     <meta charset="UTF-8">
         |     <meta name="viewport" content="width=device-width, initial-scale=1.0">
         |     <title>${title} - ${metadata.title}</title>
-        |     <link href="//fonts.googleapis.com/css?family=Merriweather&subset=latin" rel="stylesheet" type="text/css">
-        |     <link href="//fonts.googleapis.com/css?family=Francois One&subset=latin" rel="stylesheet" type="text/css">
         |     <link rel="stylesheet" href="/css/awsm.css">
-        |     <style>
-        |         * {
-        |             font-family: 'Merriweather', sans-serif;
-        |         }
-        |         h1, h2, h3, h4, h5, h6 {
-        |             font-family: 'Francois One', sans-serif;
-        |         }
-        |     </style>
         |    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-203054-6"></script>
         |    <script>
         |         window.dataLayer = window.dataLayer || [];
