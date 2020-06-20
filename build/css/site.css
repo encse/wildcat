@@ -2,13 +2,15 @@
 @import url("//fonts.googleapis.com/css?family=Francois One&subset=latin");
 
 :root {
-  --bg-color: brown;
-  --text-color: white;
+  --bg-color: white;
+  --text-color: black;
   --text-color-2: #aaaaaa;
 
   --link-color: #30064c1;
   --hover-link-color: #f00000;;
   --visited-link-color: #30064c1;
+
+  --heading-text-color: #bf8614;
 
   --header-text-color: #000000;
   --header-link-color: #000000;
@@ -21,7 +23,7 @@
   --header-overlay-color: rgba(163, 152, 122, 0.3)
 }
 
-:root {
+:root.dark {
   --bg-color: #111820;
   --text-color: white;
   --text-color-2: rgb(136, 153, 166);
@@ -97,7 +99,6 @@ body > header {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  border-radius: 32px;
 }
 
 body > header, body > header a, body > header a:visited {
@@ -275,13 +276,15 @@ a:hover {
 
 img, picture {
   display:block;
-  max-width:100%;
+  width: 90%;
+  max-width: 90%;
+  max-height: 80vh;
   margin:0 auto;
 }
 
-audio, video {
-  width:80%;
-  max-width:80%;
+video {
+  width: 90%;
+  max-width: 90%;
   max-height: 80vh;
   border-radius: 16px;
   display: block;

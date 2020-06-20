@@ -139,6 +139,7 @@ function pageFromMarkdown(i18n: I18n, markdown: string): string {
         |     <title>${title} - ${metadata.title}</title>
         |     <link rel="stylesheet" href="/css/site.css?v=0620.1">
         |    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-203054-6"></script>
+        |    <script async src="/index.js" type="module"></script>
         |    <script>
         |         window.dataLayer = window.dataLayer || [];
         |         function gtag(){dataLayer.push(arguments);}
