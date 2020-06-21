@@ -20,17 +20,19 @@
   --nav-link-color: #0064c1;
   --nav-hover-link-color: #f00000;
   --nav-visited-link-color: #0064c1;
-  --header-overlay-color: rgba(163, 152, 122, 0.3)
+  --header-overlay-color: rgba(163, 152, 122, 0.1);
+
+  --bg: linear-gradient(0deg, var(--header-overlay-color), var(--header-overlay-color)), url("/images/mountain-day.svg");
 }
 
 :root.dark {
-  --bg-color: #2e1f18;
+  --bg-color: #2e3030;
   --text-color: white;
   --text-color-2: rgb(136, 153, 166);
 
-  --link-color: rgb(121, 75, 196);
+  --link-color: white;
   --hover-link-color: rgb(121, 75, 196);
-  --visited-link-color: rgb(121, 75, 196);
+  --visited-link-color: white;
 
   --heading-text-color: #bf8614;
 
@@ -42,7 +44,9 @@
   --nav-link-color: #0064c1;
   --nav-hover-link-color: #f00000;
   --nav-visited-link-color: #0064c1;
-  --header-overlay-color: rgba(0, 0, 0, 0.1)
+  --header-overlay-color: rgba(163, 152, 122, 0.1);
+
+  --bg: linear-gradient(0deg, var(--header-overlay-color), var(--header-overlay-color)), url("/images/mountain-night.svg");
 }
 
 html {
@@ -89,9 +93,7 @@ body > header {
   position: relative;
   max-width:70rem;
   margin:0 auto;
-  background-image:
-    linear-gradient(0deg, var(--header-overlay-color), var(--header-overlay-color)),
-    url("/images/mountains.jpg");
+  background-image: var(--bg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
