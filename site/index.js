@@ -8,18 +8,226 @@ document.documentElement.classList.toggle("dark", getCookie("theme") === "dark")
 
 window.onload = () => {
     const button = document.createElement('div');
-    button.style.backgroundImage=`url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8' standalone='no'%3F%3E%3C!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'%3E%3Csvg width='100%25' height='100%25' viewBox='0 0 32 16' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xml:space='preserve' xmlns:serif='http://www.serif.com/' style='fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;'%3E%3Cpath d='M7.948,16C3.557,15.972 0,12.398 0,8C0,3.585 3.585,0 8,0L24,0C28.415,0 32,3.585 32,8C32,12.415 28.415,16 24,16L8,16L7.948,16Z' style='fill:rgb(235,235,235);'/%3E%3Cpath d='M24,16L8,16L7.948,16C3.557,15.972 0,12.398 0,8C0,3.585 3.585,0 8,0L24,0C28.415,0 32,3.585 32,8C32,12.415 28.415,16 24,16ZM24,0.867L8,0.867C4.063,0.867 0.867,4.063 0.867,8C0.867,11.922 4.038,15.108 7.954,15.133L8,15.133L24,15.133C27.937,15.133 31.133,11.937 31.133,8C31.133,4.063 27.937,0.867 24,0.867Z'/%3E%3Cg transform='matrix(0.0225786,0,0,0.0225786,-2.50355,-26.3388)'%3E%3Ccircle cx='481.272' cy='1520.86' r='233.081' style='fill:rgb(66,70,90);'/%3E%3Cpath d='M481.272,1237.58C324.928,1237.58 197.997,1364.51 197.997,1520.86C197.997,1677.2 324.928,1804.13 481.272,1804.13C637.616,1804.13 764.548,1677.2 764.548,1520.86C764.548,1364.51 637.616,1237.58 481.272,1237.58ZM481.272,1287.78C609.913,1287.78 714.353,1392.22 714.353,1520.86C714.353,1649.5 609.913,1753.94 481.272,1753.94C352.632,1753.94 248.192,1649.5 248.192,1520.86C248.192,1392.22 352.632,1287.78 481.272,1287.78Z'/%3E%3C/g%3E%3C/svg%3E%0A")`;
-    button.style.width="48px";
-    button.style.height="24px";
+    button.innerHTML=`
+        <div class="wrapper">
+            <div class="toggle">
+                <input class="toggle-input" type="checkbox" />
+                <div class="toggle-bg"></div>
+                <div class="toggle-switch">
+                <div class="toggle-switch-figure"></div>
+                <div class="toggle-switch-figureAlt"></div>
+                </div>  
+            </div>
+        </div>`;
+
+    const style = document.createElement('style');
+
+    style.innerHTML=`/*
+        F5EB42 - sun inner
+        E4C74D - sun outer
+        FFFFFF - cloud inner
+        D4D4D2 - cloud outer
+        81C0D5 - parent outer
+        C0E6F6 - parent inner
+        FFFDF2 - moon inner
+        DEE1C5 - moon outer
+        FCFCFC - stars
+        */
+        // body {
+        // background-color: #F3F3F3;
+        // }
+        
+        .wrapper {
+            padding-top: 40px;
+            text-align: center;
+        }
+        
+        .toggle {
+            position: relative;
+            display: inline-block;
+            width: 100px;
+            padding: 4px;
+            border-radius: 40px;
+        }
+        
+        .toggle:before,
+        .toggle:after {
+            content: '';
+            display: table;
+        }
+        
+        .toggle:after {
+            clear: both;
+        }
+        
+        .toggle-bg {
+            position: absolute;
+            top: -4px;
+            left: -4px;
+            width: 100%;
+            height: 100%;
+            background-color: #C0E6F6;
+            border-radius: 40px;
+            border: 4px solid #81C0D5;
+            -webkit-transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+        }
+        
+        .toggle-input {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: 1px solid red;
+            border-radius: 40px;
+            z-index: 2;
+            opacity: 0;
+        }
+        
+        .toggle-switch {
+            position: relative;
+            width: 40px;
+            height: 40px;
+            margin-left: 50px;
+            background-color: #F5EB42;
+            border: 4px solid #E4C74D;
+            border-radius: 50%;
+            -webkit-transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+        }
+        
+        .toggle-switch-figure {
+            position: absolute;
+            bottom: -14px;
+            left: -50px;
+            display: block;
+            width: 80px;
+            height: 30px;
+            border: 8px solid #D4D4D2;
+            border-radius: 20px;
+            background-color: #fff;
+            -webkit-transform: scale(0.4);
+                    transform: scale(0.4);
+            -webkit-transition: all 0.12s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            transition: all 0.12s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+        }
+        .toggle-switch-figure:after {
+            content: '';
+            display: block;
+            position: relative;
+            top: -65px;
+            right: -42px;
+            width: 15px;
+            height: 15px;
+            border: 8px solid #D4D4D2;
+            border-radius: 100%;
+            border-right-color: transparent;
+            border-bottom-color: transparent;
+            -webkit-transform: rotateZ(70deg);
+                    transform: rotateZ(70deg);
+            background-color: #fff;
+        }
+        .toggle-switch-figure:before {
+            content: '';
+            display: block;
+            position: relative;
+            top: -25px;
+            right: -10px;
+            width: 30px;
+            height: 30px;
+            border: 8px solid #D4D4D2;
+            border-radius: 100%;
+            border-right-color: transparent;
+            border-bottom-color: transparent;
+            -webkit-transform: rotateZ(30deg);
+                    transform: rotateZ(30deg);
+            background-color: #fff;
+        }
+        
+        .toggle-switch-figureAlt {
+            content: '';
+            position: absolute;
+            top: 5px;
+            left: 2px;
+            width: 2px;
+            height: 2px;
+            background-color: #EFEEDA;
+            border-radius: 100%;
+            border: 4px solid #DEE1C5;
+            box-shadow: 42px -7px 0 -3px #FCFCFC, 75px -10px 0 -3px #FCFCFC, 54px 4px 0 -4px #FCFCFC, 83px 7px 0 -2px #FCFCFC, 63px 18px 0 -4px #FCFCFC, 44px 28px 0 -2px #FCFCFC, 78px 23px 0 -3px #FCFCFC;
+            -webkit-transition: all 0.12s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            transition: all 0.12s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            -webkit-transform: scale(0);
+                    transform: scale(0);
+        }
+        
+        .toggle-switch-figureAlt:before {
+            content: '';
+            position: absolute;
+            top: -6px;
+            left: 18px;
+            width: 7px;
+            height: 7px;
+            background-color: #EFEEDA;
+            border-radius: 100%;
+            border: 4px solid #DEE1C5;
+        }
+        
+        .toggle-switch-figureAlt:after {
+            content: '';
+            position: absolute;
+            top: 19px;
+            left: 15px;
+            width: 2px;
+            height: 2px;
+            background-color: #EFEEDA;
+            border-radius: 100%;
+            border: 4px solid #DEE1C5;
+        }
+        
+        .toggle-input:checked ~ .toggle-switch {
+            margin-left: 0;
+            border-color: #DEE1C5;
+            background-color: #FFFDF2;
+        }
+        
+        .toggle-input:checked ~ .toggle-bg {
+            background-color: #484848;
+            border-color: #202020;
+        }
+        
+        .toggle-input:checked ~ .toggle-switch .toggle-switch-figure {
+            margin-left: 40px;
+            opacity: 0;
+            -webkit-transform: scale(0.1);
+                    transform: scale(0.1);
+        }
+        
+        .toggle-input:checked ~ .toggle-switch .toggle-switch-figureAlt {
+            -webkit-transform: scale(1);
+                    transform: scale(1);
+        }
+    `;
+
+    button.appendChild(style);
+
+    button.style.width="100px";
+    button.style.height="100px";
     button.style.position="absolute";
-    button.style.top="24px";
-    button.style.right="24px";
+    button.style.top="0";
+    button.style.right="0";
+    button.style.transform="scale(.6)";
     document.getElementsByTagName('header')[0].appendChild(button);
+
     let theme = "light";
     const applyTheme = (newTheme) => {
             theme = newTheme;
+            if (theme === "dark"){
+                document.getElementsByClassName('toggle-input')[0].checked = true;
+            }
             document.documentElement.classList.toggle("dark", theme === "dark");
-            button.style.transform = theme === "dark" ? "rotate(180deg)" : "";
+            document.documentElement.classList.toggle("dark", theme === "dark");
             document.cookie = `theme=${theme};path=/`;
     };
 
@@ -27,4 +235,5 @@ window.onload = () => {
     button.onclick = () => {
         applyTheme(theme === "dark" ? "light" : "dark");
     }
+
 };
