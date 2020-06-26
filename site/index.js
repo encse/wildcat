@@ -33,12 +33,12 @@ window.onload = () => {
         DEE1C5 - moon outer
         FCFCFC - stars
         */
-        // body {
-        // background-color: #F3F3F3;
-        // }
+        
+        html {
+            transition: background-color 0.5s ease;
+        }
         
         .wrapper {
-            padding-top: 40px;
             text-align: center;
         }
         
@@ -66,9 +66,9 @@ window.onload = () => {
             left: -4px;
             width: 100%;
             height: 100%;
-            background-color: #C0E6F6;
+            background-color: rgba(0,0,0,10%);
             border-radius: 40px;
-            border: 4px solid #81C0D5;
+            border: 2px solid rgba(0,0,0,40%);
             -webkit-transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
             transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
         }
@@ -193,8 +193,8 @@ window.onload = () => {
         }
         
         .toggle-input:checked ~ .toggle-bg {
-            background-color: #484848;
-            border-color: #202020;
+            background-color: rgba(0,0,0,10%);
+            border-color: rgba(0,0,0,40%)
         }
         
         .toggle-input:checked ~ .toggle-switch .toggle-switch-figure {
