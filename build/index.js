@@ -35,7 +35,6 @@ window.onload = () => {
         */
         
         html {
-            transition: background-color 0.5s ease;
         }
         
         .wrapper {
