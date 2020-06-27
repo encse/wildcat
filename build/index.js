@@ -61,8 +61,8 @@ window.onload = () => {
         
         .toggle-bg {
             position: absolute;
-            top: -4px;
-            left: -4px;
+            top: -2px;
+            left: -2px;
             width: 100%;
             height: 100%;
             background-color: rgba(0,0,0,10%);
