@@ -149,6 +149,8 @@ function pageFromMarkdown(i18n: I18n, markdown: string): string {
         | </head>
         | <body>
         | <header>
+        | <div id="background1"></div>
+        | <div id="background2"></div>
         | <h1>${title}</h1>
         | <nav>
         |     ${nav}
