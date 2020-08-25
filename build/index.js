@@ -231,6 +231,9 @@ window.onload = () => {
     };
 
     applyTheme(getCookie("theme"));
+
+    document.documentElement.style.setProperty('--day-night-animation', "0.5s ease-out");
+
     button.onclick = () => {
         applyTheme(theme === "dark" ? "light" : "dark");
     }

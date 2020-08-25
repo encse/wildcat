@@ -23,7 +23,6 @@
   --bg-day: 1;
   --bg-night: 0;
 
-  --day-night-animation: 0.5s ease-out;
 }
 
 :root.dark {
@@ -90,7 +89,7 @@ body article {
   position:relative;
   max-width:40rem;
   margin:0 auto;
-  padding: 1.2em;
+  padding: 0 1.2em;
 }
 
 
@@ -287,7 +286,7 @@ article > footer {
 }
 
 a {
-  color: initial;
+  color: inherit;
 }
 
 a:hover, a:active {
