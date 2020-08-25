@@ -65,7 +65,7 @@ html{
 }
 
 body {
-  margin:1.2em;
+  margin:0;
   font-size:1rem;
   color:var(--text-color);
 
@@ -90,6 +90,7 @@ body article {
   position:relative;
   max-width:40rem;
   margin:0 auto;
+  padding: 1.2em;
 }
 
 
