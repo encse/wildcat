@@ -19,7 +19,6 @@
   --nav-link-color: #0064c1;
   --nav-hover-link-color: #f00000;
   --nav-visited-link-color: #0064c1;
-  --header-overlay-color: rgba(163, 152, 122, 0.1);
   --bg-day: 1;
   --bg-night: 0;
 
@@ -43,7 +42,6 @@
   --nav-link-color: #0064c1;
   --nav-hover-link-color: #f00000;
   --nav-visited-link-color: #0064c1;
-  --header-overlay-color: rgba(163, 152, 122, 0.1);
   --bg-day: 0;
   --bg-night: 1;
 }
@@ -100,7 +98,7 @@ body article {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: linear-gradient(0deg, var(--header-overlay-color), var(--header-overlay-color)), url("/images/mountain-day.svg");
+  background-image: url("/images/mountain-day.svg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -113,7 +111,7 @@ body article {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: linear-gradient(0deg, var(--header-overlay-color), var(--header-overlay-color)), url("/images/mountain-night.svg");
+  background-image: url("/images/mountain-night.svg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
