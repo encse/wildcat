@@ -235,7 +235,8 @@ window.onload = () => {
     document.documentElement.style.setProperty('--day-night-animation', "0.5s ease-out");
 
     button.onclick = () => {
-        applyTheme(theme === "dark" ? "light" : "dark");
+        const newTheme = theme === "dark" ? "light" : "dark";
+        fetch(`/?applyTheme=${newTheme}`);
+        applyTheme(newTheme);
     }
-
 };
