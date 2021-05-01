@@ -8,7 +8,8 @@
   "scripts": {
     "build": "npm run clean && npx ts-node src/index.ts",
     "make-posters": "source ./makeposters.sh",
-    "clean": "rm -rf build"
+    "clean": "rm -rf build",
+    "deploy": "ssh csokavar.hu 'cd /var/www/zsonglor/assets; git pull'"
   },
   "dependencies": {
     "@types/jsdom": "^16.2.3",
