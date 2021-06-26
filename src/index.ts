@@ -161,10 +161,10 @@ function pageFromMarkdown(i18n: I18n, markdown: string): string {
         | <article>
         | <h1>${metadata.title}</h1>
         | ${html}
-        | <img src="${footerImage}" />
         | </article>
         | </main>
         | <footer>
+        | <img src="${footerImage}" />
         | © 2004-<script>document.write( new Date().getFullYear() );</script> Wildcat Zsonglőr Oldalak | <a href="https://github.com/encse/wildcat/">GitHub</a>
         | </footer>
         | </body>

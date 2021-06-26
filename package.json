@@ -1,24 +1,26 @@
 {
-  "name": "wildcat",
-  "version": "1.0.0",
-  "description": "Wildcat Jugglers Tutorial",
-  "repository": "https://github.com/encse/wildcat",
-  "license": "MIT",
-  "keywords": [],
-  "scripts": {
-    "build": "npm run clean && npx ts-node src/index.ts",
-    "make-posters": "source ./makeposters.sh",
-    "clean": "rm -rf build",
-    "deploy": "ssh csokavar.hu 'cd /var/www/zsonglor/assets; git pull'"
-  },
-  "dependencies": {
-    "@types/jsdom": "^16.2.3",
-    "@types/markdown-it": "^10.0.1",
-    "@types/node": "^14.0.6",
-    "jsdom": "^16.2.2",
-    "markdown-it": "^11.0.0",
-    "markdown-yaml-metadata-parser": "^2.0.5",
-    "node-html-parser": "^1.2.18",
-    "typescript": "^3.5.3"
-  }
+    "name": "wildcat",
+    "version": "1.0.0",
+    "description": "Wildcat Jugglers Tutorial",
+    "repository": "https://github.com/encse/wildcat",
+    "license": "MIT",
+    "keywords": [],
+    "scripts": {
+        "build": "npm run clean && npx ts-node src/index.ts",
+        "dev": "npx http-server -c-1 build",
+        "make-posters": "source ./makeposters.sh",
+        "clean": "rm -rf build",
+        "deploy": "ssh csokavar.hu 'cd /var/www/zsonglor/assets; git pull'"
+    },
+    "dependencies": {
+        "@types/jsdom": "^16.2.3",
+        "@types/markdown-it": "^10.0.1",
+        "@types/node": "^14.0.6",
+        "jsdom": "^16.2.2",
+        "markdown-it": "^11.0.0",
+        "markdown-yaml-metadata-parser": "^2.0.5",
+        "node-html-parser": "^1.2.18",
+        "ts-node": "^10.0.0",
+        "typescript": "^3.5.3"
+    }
 }

@@ -1,321 +1,434 @@
 @import url("//fonts.googleapis.com/css?family=Merriweather&subset=latin");
 @import url("//fonts.googleapis.com/css?family=Francois One&subset=latin");
+* {
+    box-sizing: border-box;
+}
 
 :root {
-  --bg-color: #f5f4f1;
-  --text-color: black;
-  --text-color-2: #aaaaaa;
-
-  --hover-link-color: #f00000;;
-  --visited-link-color: #30064c1;
-
-  --heading-text-color: #bf8614;
-
-  --header-text-color: #000000;
-  --header-link-color: #000000;
-  --header-visited-link-color: #000000;
-  --header-hover-link-color: #aaaaaa;
-
-  --nav-link-color: #0064c1;
-  --nav-hover-link-color: #f00000;
-  --nav-visited-link-color: #0064c1;
-  --bg-day: 1;
-  --bg-night: 0;
-
+    --bg-color: #f5f4f1;
+    --text-color: black;
+    --text-color-2: #aaaaaa;
+    --hover-link-color: #f00000;
+    --visited-link-color: #30064c1;
+    --heading-text-color: #bf8614;
+    --header-text-color: #000000;
+    --header-link-color: #000000;
+    --header-visited-link-color: #000000;
+    --header-hover-link-color: #aaaaaa;
+    --nav-link-color: #0064c1;
+    --nav-hover-link-color: #f00000;
+    --nav-visited-link-color: #0064c1;
+    --bg-day: 1;
+    --bg-night: 0;
 }
 
 :root.dark {
-  --bg-color: #293030;
-  --text-color: white;
-  --text-color-2: rgb(136, 153, 166);
+    --bg-color: #293030;
+    --text-color: white;
+    --text-color-2: rgb(136, 153, 166);
+    --hover-link-color: rgb(121, 75, 196);
+    --visited-link-color: white;
+    --heading-text-color: #bf8614;
+    --header-text-color: #000000;
+    --header-link-color: #000000;
+    --header-visited-link-color: #000000;
+    --header-hover-link-color: #aaaaaa;
+    --nav-link-color: #0064c1;
+    --nav-hover-link-color: #f00000;
+    --nav-visited-link-color: #0064c1;
+    --bg-day: 0;
+    --bg-night: 1;
+}
 
-  --hover-link-color: rgb(121, 75, 196);
-  --visited-link-color: white;
+:root {
+    --xxl-text-size: 64px;
+}
 
-  --heading-text-color: #bf8614;
-
-  --header-text-color: #000000;
-  --header-link-color: #000000;
-  --header-visited-link-color: #000000;
-  --header-hover-link-color: #aaaaaa;
-
-  --nav-link-color: #0064c1;
-  --nav-hover-link-color: #f00000;
-  --nav-visited-link-color: #0064c1;
-  --bg-day: 0;
-  --bg-night: 1;
+@media only screen and (max-width:600px) {
+     :root {
+        --xxl-text-size: 40px;
+    }
 }
 
 html {
-  font-family: 'Merriweather', sans-serif;
-}
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Francois One', sans-serif;
+    font-family: 'Merriweather', sans-serif;
 }
 
-html{
-  font-size:100%;
-  line-height:1.4;
-  
-  transition: color var(--day-night-animation);
-  -webkit-overflow-scrolling:touch;
-  margin:0;
-  padding:0;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Francois One', sans-serif;
+}
+
+html {
+    font-size: 100%;
+    line-height: 1.4;
+    transition: color var(--day-night-animation);
+    -webkit-overflow-scrolling: touch;
+    margin: 0;
+    padding: 0;
 }
 
 body {
-  margin:0;
-  padding:0;
-  font-size:1rem;
-  color:var(--text-color);
-
-  background:var(--bg-color);
-  transition: background-color var(--day-night-animation);
+    margin: 0;
+    padding: 0;
+    font-size: 1rem;
+    color: var(--text-color);
+    background: var(--bg-color);
+    transition: background-color var(--day-night-animation);
 }
 
 @media (min-width: 20rem) {
-  body{
-    font-size:calc(1rem + 0.00625 * (100vw - 20rem));
-  }
+    body {
+        font-size: calc(1rem + 0.00625 * (100vw - 20rem));
+    }
 }
+
 @media (min-width: 40rem) {
-  body{
-    font-size:1.125rem;
-  }
+    body {
+        font-size: 1.125rem;
+    }
 }
 
 body main,
-body footer,
 body article {
-  position:relative;
-  max-width:40rem;
-  margin:0 auto;
-  padding: 0 .8em;
+    position: relative;
+    max-width: 40rem;
+    margin: 0 auto;
+    padding: 0 .8em;
 }
 
-
 #background1 {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background-image: url("/images/mountain-day.svg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  z-index: -1;
-  opacity: var(--bg-day);
-  transition: opacity var(--day-night-animation);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url("/images/mountain-day.svg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: -1;
+    opacity: var(--bg-day);
+    transition: opacity var(--day-night-animation);
 }
 
 #background2 {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background-image: url("/images/mountain-night.svg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  z-index: -1;
-  opacity: var(--bg-night);
-  transition: opacity var(--day-night-animation);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url("/images/mountain-night.svg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: -1;
+    opacity: var(--bg-night);
+    transition: opacity var(--day-night-animation);
 }
 
-body > header {
-  position: relative;
-  max-width:70rem;
-  margin:0 auto;
-  height: 20rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+body>header {
+    position: relative;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 55vh;
+    max-height: 480px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
-body > header, body > header a, body > header a:visited {
-  color:var(--header-text-color);
-}
-body > header > * {
-  margin:0.1em auto;
-  text-align: center;
+body>header,
+body>header a,
+body>header a:visited {
+    color: var(--header-text-color);
 }
 
-body > header h1 {
-  font-size:1.5em;
-  color:var(--header-text-color);
-}
-body > header p {
-  margin:0;
-  font-size:0.85em;
+body>header>* {
+    margin: 0.1em auto;
+    text-align: center;
 }
 
-body > footer {
-  margin-top:6em;
-  padding-bottom:1.5em;
-  text-align:center;
-  font-size:0.8rem;
-  color:var(--text-color-2);
+body>header h1 {
+    font-size: var(--xxl-text-size);
+    color: var(--header-text-color);
+}
+
+body>header p {
+    margin: 0;
+    font-size: 0.85em;
+}
+
+body>footer {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    text-align: center;
+    font-size: 0.8rem;
+    color: var(--text-color);
+    --footer-bg-color: #147406;
+    background: linear-gradient( 0deg, var(--footer-bg-color) 0%, var(--footer-bg-color) 50%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0) 100%);
+}
+
+footer img {
+    max-width: 40rem;
+    padding: 16px;
 }
 
 nav {
-  margin:1em 0;
+    margin: 1em 0;
 }
 
-ul, ol {
-  margin-top:0.5em;
-  padding-top:0;
-  padding-left:2.5em;
+ul,
+ol {
+    margin-top: 0.5em;
+    padding-top: 0;
+    padding-left: 2.5em;
 }
-
 
 p {
-  margin:1em 0;
-  -webkit-hyphens:auto;
-  -ms-hyphens:auto;
-  hyphens:auto;
+    margin: 1em 0;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
 }
 
 p:first-child {
-  margin-top:0;
-}
-p:last-child {
-  margin-bottom:0;
+    margin-top: 0;
 }
 
-p + ul, p + ol{
-  margin-top:-0.75em;
+p:last-child {
+    margin-bottom: 0;
 }
-p img, p picture {
-  margin-bottom:0.5em;
-  margin-left:0.5em;
+
+p+ul,
+p+ol {
+    margin-top: -0.75em;
+}
+
+p img,
+p picture {
+    margin-bottom: 0.5em;
+    margin-left: 0.5em;
 }
 
 p picture img {
-  margin:0;
+    margin: 0;
 }
 
-h1, h2, h3, h4, h5, h6{
-  margin:1.25em 0 0;
-  line-height:1.2;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 1.25em 0 0;
+    line-height: 1.2;
 }
-h1:hover > a[href^="#"][id]:empty, h1:focus > a[href^="#"][id]:empty, h2:hover > a[href^="#"][id]:empty, h2:focus > a[href^="#"][id]:empty, h3:hover > a[href^="#"][id]:empty, h3:focus > a[href^="#"][id]:empty, h4:hover > a[href^="#"][id]:empty, h4:focus > a[href^="#"][id]:empty, h5:hover > a[href^="#"][id]:empty, h5:focus > a[href^="#"][id]:empty, h6:hover > a[href^="#"][id]:empty, h6:focus > a[href^="#"][id]:empty{
-  opacity:1;
+
+h1:hover>a[href^="#"][id]:empty,
+h1:focus>a[href^="#"][id]:empty,
+h2:hover>a[href^="#"][id]:empty,
+h2:focus>a[href^="#"][id]:empty,
+h3:hover>a[href^="#"][id]:empty,
+h3:focus>a[href^="#"][id]:empty,
+h4:hover>a[href^="#"][id]:empty,
+h4:focus>a[href^="#"][id]:empty,
+h5:hover>a[href^="#"][id]:empty,
+h5:focus>a[href^="#"][id]:empty,
+h6:hover>a[href^="#"][id]:empty,
+h6:focus>a[href^="#"][id]:empty {
+    opacity: 1;
 }
-h1 + p, h1 + details, h2 + p, h2 + details, h3 + p, h3 + details, h4 + p, h4 + details, h5 + p, h5 + details, h6 + p, h6 + details{
-  margin-top:0.5em;
+
+h1+p,
+h1+details,
+h2+p,
+h2+details,
+h3+p,
+h3+details,
+h4+p,
+h4+details,
+h5+p,
+h5+details,
+h6+p,
+h6+details {
+    margin-top: 0.5em;
 }
-h1 > a[href^="#"][id]:empty, h2 > a[href^="#"][id]:empty, h3 > a[href^="#"][id]:empty, h4 > a[href^="#"][id]:empty, h5 > a[href^="#"][id]:empty, h6 > a[href^="#"][id]:empty{
-  position:absolute;
-  left:-0.65em;
-  opacity:0;
-  text-decoration:none;
-  font-weight:400;
-  line-height:1;
-  color:var(--text-color-2);
+
+h1>a[href^="#"][id]:empty,
+h2>a[href^="#"][id]:empty,
+h3>a[href^="#"][id]:empty,
+h4>a[href^="#"][id]:empty,
+h5>a[href^="#"][id]:empty,
+h6>a[href^="#"][id]:empty {
+    position: absolute;
+    left: -0.65em;
+    opacity: 0;
+    text-decoration: none;
+    font-weight: 400;
+    line-height: 1;
+    color: var(--text-color-2);
 }
-@media (min-width: 40rem){
-  h1 > a[href^="#"][id]:empty, h2 > a[href^="#"][id]:empty, h3 > a[href^="#"][id]:empty, h4 > a[href^="#"][id]:empty, h5 > a[href^="#"][id]:empty, h6 > a[href^="#"][id]:empty{
-    left:-0.8em;
-  }
+
+@media (min-width: 40rem) {
+    h1>a[href^="#"][id]:empty,
+    h2>a[href^="#"][id]:empty,
+    h3>a[href^="#"][id]:empty,
+    h4>a[href^="#"][id]:empty,
+    h5>a[href^="#"][id]:empty,
+    h6>a[href^="#"][id]:empty {
+        left: -0.8em;
+    }
 }
-h1 > a[href^="#"][id]:empty:target, h1 > a[href^="#"][id]:empty:hover, h1 > a[href^="#"][id]:empty:focus, h2 > a[href^="#"][id]:empty:target, h2 > a[href^="#"][id]:empty:hover, h2 > a[href^="#"][id]:empty:focus, h3 > a[href^="#"][id]:empty:target, h3 > a[href^="#"][id]:empty:hover, h3 > a[href^="#"][id]:empty:focus, h4 > a[href^="#"][id]:empty:target, h4 > a[href^="#"][id]:empty:hover, h4 > a[href^="#"][id]:empty:focus, h5 > a[href^="#"][id]:empty:target, h5 > a[href^="#"][id]:empty:hover, h5 > a[href^="#"][id]:empty:focus, h6 > a[href^="#"][id]:empty:target, h6 > a[href^="#"][id]:empty:hover, h6 > a[href^="#"][id]:empty:focus{
-  opacity:1;
-  box-shadow:none;
-  color:var(--text-color);
+
+h1>a[href^="#"][id]:empty:target,
+h1>a[href^="#"][id]:empty:hover,
+h1>a[href^="#"][id]:empty:focus,
+h2>a[href^="#"][id]:empty:target,
+h2>a[href^="#"][id]:empty:hover,
+h2>a[href^="#"][id]:empty:focus,
+h3>a[href^="#"][id]:empty:target,
+h3>a[href^="#"][id]:empty:hover,
+h3>a[href^="#"][id]:empty:focus,
+h4>a[href^="#"][id]:empty:target,
+h4>a[href^="#"][id]:empty:hover,
+h4>a[href^="#"][id]:empty:focus,
+h5>a[href^="#"][id]:empty:target,
+h5>a[href^="#"][id]:empty:hover,
+h5>a[href^="#"][id]:empty:focus,
+h6>a[href^="#"][id]:empty:target,
+h6>a[href^="#"][id]:empty:hover,
+h6>a[href^="#"][id]:empty:focus {
+    opacity: 1;
+    box-shadow: none;
+    color: var(--text-color);
 }
-h1 > a[href^="#"][id]:empty:target:focus, h2 > a[href^="#"][id]:empty:target:focus, h3 > a[href^="#"][id]:empty:target:focus, h4 > a[href^="#"][id]:empty:target:focus, h5 > a[href^="#"][id]:empty:target:focus, h6 > a[href^="#"][id]:empty:target:focus{
-  outline:none;
+
+h1>a[href^="#"][id]:empty:target:focus,
+h2>a[href^="#"][id]:empty:target:focus,
+h3>a[href^="#"][id]:empty:target:focus,
+h4>a[href^="#"][id]:empty:target:focus,
+h5>a[href^="#"][id]:empty:target:focus,
+h6>a[href^="#"][id]:empty:target:focus {
+    outline: none;
 }
-h1 > a[href^="#"][id]:empty::before, h2 > a[href^="#"][id]:empty::before, h3 > a[href^="#"][id]:empty::before, h4 > a[href^="#"][id]:empty::before, h5 > a[href^="#"][id]:empty::before, h6 > a[href^="#"][id]:empty::before{
-  content:"§ ";
+
+h1>a[href^="#"][id]:empty::before,
+h2>a[href^="#"][id]:empty::before,
+h3>a[href^="#"][id]:empty::before,
+h4>a[href^="#"][id]:empty::before,
+h5>a[href^="#"][id]:empty::before,
+h6>a[href^="#"][id]:empty::before {
+    content: "§ ";
 }
 
 h1 {
-  font-size:2.5em;
-  color:var(--heading-text-color);
+    font-size: 2.5em;
+    color: var(--heading-text-color);
 }
 
 h2 {
-  font-size:1.75em;
-  color:var(--heading-text-color);
+    font-size: 1.75em;
+    color: var(--heading-text-color);
 }
 
 h3 {
-  font-size:1.25em;
-  color:var(--heading-text-color);
+    font-size: 1.25em;
+    color: var(--heading-text-color);
 }
 
 h4 {
-  font-size:1.15em;
-  color:var(--heading-text-color);
+    font-size: 1.15em;
+    color: var(--heading-text-color);
 }
 
 h5 {
-  font-size:1em;
-  color:var(--heading-text-color);
+    font-size: 1em;
+    color: var(--heading-text-color);
 }
 
 h6 {
-  margin-top:1em;
-  font-size:1em;
-  color:var(--heading-text-color-2);
+    margin-top: 1em;
+    font-size: 1em;
+    color: var(--heading-text-color-2);
 }
 
-article + article {
-  margin-top:4em;
+article+article {
+    margin-top: 4em;
 }
+
 article header p {
-  font-size:0.6em;
-  color:var(--text-color-2);
+    font-size: 0.6em;
+    color: var(--text-color-2);
 }
-article header p + h1, article header p + h2 {
-  margin-top:-0.25em;
+
+article header p+h1,
+article header p+h2 {
+    margin-top: -0.25em;
 }
-article header h1 + p, article header h2 + p {
-  margin-top:0.25em;
+
+article header h1+p,
+article header h2+p {
+    margin-top: 0.25em;
 }
-article header h1 a, article header h2 a{
-  color:var(--header-link-color);
+
+article header h1 a,
+article header h2 a {
+    color: var(--header-link-color);
 }
-article header h1 a:visited, article header h2 a:visited {
-  color:var(--header-visited-link-color);
+
+article header h1 a:visited,
+article header h2 a:visited {
+    color: var(--header-visited-link-color);
 }
-article header h1 a:visited:hover, article header h2 a:visited:hover {
-  color:var(--header-hover-link-color);
+
+article header h1 a:visited:hover,
+article header h2 a:visited:hover {
+    color: var(--header-hover-link-color);
 }
-article > footer {
-  margin-top:1.5em;
-  font-size:0.85em;
+
+article>footer {
+    margin-top: 1.5em;
+    font-size: 0.85em;
 }
 
 a {
-  color: inherit;
+    color: inherit;
 }
 
-a:hover, a:active {
-  outline-width:0;
+a:hover,
+a:active {
+    outline-width: 0;
 }
 
 a:visited {
-  color: var(--visited-link-color);
+    color: var(--visited-link-color);
 }
 
 a:hover {
-  color: var(--hover-link-color);
+    color: var(--hover-link-color);
 }
 
+img,
+picture {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    max-height: 80vh;
+    margin: 0 auto;
+}
 
-img, picture {
-  display:block;
-  width: 100%;
-  max-width: 100%;
-  max-height: 80vh;
-  margin:0 auto;
+article video,
+article img,
+article picture {
+    border: 16px solid white;
 }
 
 video {
-  width: 100%;
-  max-width: 100%;
-  max-height: 80vh;
-  display: block;
-  margin: 0.5em auto;
+    width: 100%;
+    max-width: 100%;
+    max-height: 80vh;
+    display: block;
+    margin: 16px auto;
+    border: 16px solid white;
 }
-

@@ -1,0 +1,18 @@
+{
+    
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug Program",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "args": ["-r", "ts-node/register", "${workspaceFolder}/src/index.ts", "local"],
+            "protocol": "inspector",
+            "cwd": "${workspaceRoot}",
+        }
+    ]
+    
+}
