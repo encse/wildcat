@@ -9,7 +9,7 @@
     --text-color: black;
     --text-color-2: #aaaaaa;
     --hover-link-color: #f00000;
-    --visited-link-color: #30064c1;
+    --visited-link-color: auto;
     --heading-text-color: #bf8614;
     --header-text-color: #000000;
     --header-link-color: #000000;
@@ -27,7 +27,7 @@
     --text-color: white;
     --text-color-2: rgb(136, 153, 166);
     --hover-link-color: rgb(121, 75, 196);
-    --visited-link-color: white;
+    --visited-link-color: auto;
     --heading-text-color: #bf8614;
     --header-text-color: #000000;
     --header-link-color: #000000;
@@ -139,8 +139,7 @@ body>header {
 }
 
 body>header,
-body>header a,
-body>header a:visited {
+body>header a {
     color: var(--header-text-color);
 }
 
