@@ -20,6 +20,7 @@
     --nav-visited-link-color: #0064c1;
     --bg-day: 1;
     --bg-night: 0;
+    --footer-bg-color: #147406;
 }
 
 :root.dark {
@@ -38,6 +39,7 @@
     --nav-visited-link-color: #0064c1;
     --bg-day: 0;
     --bg-night: 1;
+    --footer-bg-color: #454d33;
 }
 
 :root {
@@ -164,7 +166,6 @@ body>footer {
     text-align: center;
     font-size: 0.8rem;
     color: var(--text-color);
-    --footer-bg-color: #147406;
     background: linear-gradient( 0deg, var(--footer-bg-color) 0%, var(--footer-bg-color) 50%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0) 100%);
 }
 
