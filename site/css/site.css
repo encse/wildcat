@@ -418,10 +418,11 @@ picture {
     margin: 0 auto;
 }
 
-article video,
+video,
 article img,
 article picture {
-    border: 16px solid white;
+    background: white;
+    padding: 8px;
 }
 
 video {
@@ -430,5 +431,4 @@ video {
     max-height: 80vh;
     display: block;
     margin: 16px auto;
-    border: 16px solid white;
 }
