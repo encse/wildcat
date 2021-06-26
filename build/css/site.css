@@ -5,22 +5,19 @@
 }
 
 :root {
-    --bg-color: #f5f4f1;
+    --bg-color: #f2e8d9;
     --text-color: black;
     --text-color-2: #aaaaaa;
     --hover-link-color: #f00000;
     --visited-link-color: auto;
-    --heading-text-color: #bf8614;
+    --heading-text-color: #258405;
     --header-text-color: #000000;
     --header-link-color: #000000;
     --header-visited-link-color: #000000;
     --header-hover-link-color: #aaaaaa;
-    --nav-link-color: #0064c1;
-    --nav-hover-link-color: #f00000;
-    --nav-visited-link-color: #0064c1;
+    --footer-bg-color: #147406;
     --bg-day: 1;
     --bg-night: 0;
-    --footer-bg-color: #147406;
 }
 
 :root.dark {
@@ -34,9 +31,6 @@
     --header-link-color: #000000;
     --header-visited-link-color: #000000;
     --header-hover-link-color: #aaaaaa;
-    --nav-link-color: #0064c1;
-    --nav-hover-link-color: #f00000;
-    --nav-visited-link-color: #0064c1;
     --bg-day: 0;
     --bg-night: 1;
     --footer-bg-color: #454d33;
@@ -114,6 +108,7 @@ body article {
     z-index: -1;
     opacity: var(--bg-day);
     transition: opacity var(--day-night-animation);
+    background-color: white;
 }
 
 #background2 {
@@ -203,16 +198,6 @@ p:last-child {
 p+ul,
 p+ol {
     margin-top: -0.75em;
-}
-
-p img,
-p picture {
-    margin-bottom: 0.5em;
-    margin-left: 0.5em;
-}
-
-p picture img {
-    margin: 0;
 }
 
 h1,
@@ -409,26 +394,18 @@ a:hover {
     color: var(--hover-link-color);
 }
 
-img,
-picture {
-    display: block;
-    width: 100%;
-    max-width: 100%;
-    max-height: 80vh;
-    margin: 0 auto;
-}
-
-video,
+article video,
 article img,
 article picture {
+    width: 80%;
+    max-height: 80vh;
+    display: block;
+    margin: 16px auto;
     background: white;
     padding: 8px;
 }
 
-video {
-    width: 100%;
-    max-width: 100%;
-    max-height: 80vh;
+footer img {
     display: block;
-    margin: 16px auto;
+    margin: auto;
 }
