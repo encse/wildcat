@@ -169,7 +169,11 @@ function pageFromMarkdown(i18n: I18n, markdown: string): string {
         | </main>
         | <footer>
         | <img src="${footerImage}" />
-        | © 2004-<script>document.write( new Date().getFullYear() );</script> Wildcat Zsonglőr Oldalak | <a href="https://github.com/encse/wildcat/">GitHub</a>
+        | © 2004-<span name="year"></span> Wildcat Zsonglőr Oldalak | <a href="https://github.com/encse/wildcat/">GitHub</a>
+        | <script>
+        |    const year =  "" + new Date().getFullYear();
+        |    document.getElementsByName("year").forEach(n => n.innerText = year);
+        | </script>
         | </footer>
         | </body>
         | </html>
