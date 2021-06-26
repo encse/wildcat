@@ -2,6 +2,8 @@ import fs from 'fs';
 import path from 'path';
 import MarkdownIt from 'markdown-it'
 import metadataParse from 'markdown-yaml-metadata-parser';
+import crypto from 'crypto';
+
 
 function stripMargin(strings: TemplateStringsArray, ...values: any[]): string {
 	let s = strings[0];
@@ -130,6 +132,9 @@ function pageFromMarkdown(i18n: I18n, markdown: string): string {
         "/images/zsonglor-macska.svg"
     ]);
 
+    const shasum = crypto.createHash('sha1')
+    shasum.update(fs.readFileSync('site/css/site.css', 'utf-8'));
+    const cssVersion = shasum.digest('hex');
     return stripMargin`
         | <!DOCTYPE HTML>
         | <html lang="${i18n.lang}">
@@ -137,7 +142,7 @@ function pageFromMarkdown(i18n: I18n, markdown: string): string {
         |     <meta charset="UTF-8">
         |     <meta name="viewport" content="width=device-width, initial-scale=1.0">
         |     <title>${title} - ${metadata.title}</title>
-        |     <link rel="stylesheet" href="/css/site.css?v=0620.1">
+        |     <link rel="stylesheet" href="/css/site.css?v=${cssVersion}">
         |    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-203054-6"></script>
         |    <script async src="/index.js" type="module"></script>
         |    <script>
