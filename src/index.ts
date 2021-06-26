@@ -44,6 +44,10 @@ type Item = {
 
 type Sitemap = Item[];
 
+function randomRotate(){
+    return pick(['rotateA', 'rotateB']);
+}
+
 function pageFromMarkdown(i18n: I18n, markdown: string): string {
 
     const {metadata, content} = metadataParse(markdown);
@@ -93,7 +97,7 @@ function pageFromMarkdown(i18n: I18n, markdown: string): string {
                 |     "uploadDate": "2003-02-05T08:00:00+08:00"
                 | }
                 | </script>
-                | <video loop playsinline autoplay src="${mp4}" poster="${poster}"></video>
+                | <video loop playsinline autoplay src="${mp4}" poster="${poster}" class="${randomRotate()}"></video>
             `
         }
 

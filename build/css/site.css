@@ -403,9 +403,22 @@ article picture {
     margin: 16px auto;
     background: white;
     padding: 8px;
+    box-shadow: 0px 0px 1px black;
 }
 
 footer img {
     display: block;
     margin: auto;
+    width: 80%;
+}
+
+article video,
+article img,
+article picture,
+.rotateA {
+    transform: rotate(1deg);
+}
+
+.rotateB {
+    transform: rotate(-1deg);
 }
