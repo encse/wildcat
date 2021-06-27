@@ -34,6 +34,10 @@
     --bg-night: 1;
 }
 
+.home {
+    --header-text-color: #000;
+}
+
 :root {
     --xxl-text-size: 64px;
 }
@@ -158,9 +162,6 @@ body>header h1 {
     font-size: var(--xxl-text-size);
     color: var(--header-text-color);
     width: 80%;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
 }
 
 body>header p {

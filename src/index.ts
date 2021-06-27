@@ -122,7 +122,10 @@ function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): st
     };
 
     const html = md.render(content);
-    const titleText = i18n('Wildcat Jugglers tutorial', 'Wildcat Zsonglőr oldalak');
+    const titleText = isFrontPage ? 
+        i18n('Wildcat Jugglers tutorial', 'Wildcat Zsonglőr oldalak') :
+        'Wildcat';
+   
     const title = isFrontPage ? 
         `<h1>${titleText}</h1>` : 
         `<h1>${i18n(
