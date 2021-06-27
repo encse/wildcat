@@ -44,6 +44,12 @@ type Item = {
 
 type Sitemap = Item[];
 
+function version(fpat: string){
+    const shasum = crypto.createHash('sha1')
+    shasum.update(fs.readFileSync(fpat, 'utf-8'));
+    return shasum.digest('hex');
+}
+
 function randomRotate(){
     return pick(['rotateA', 'rotateB']);
 }
@@ -147,9 +153,7 @@ function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): st
 
     const bodyClass = isFrontPage ? 'class="home"' : '';
 
-    const shasum = crypto.createHash('sha1')
-    shasum.update(fs.readFileSync('site/css/site.css', 'utf-8'));
-    const cssVersion = shasum.digest('hex');
+
     return stripMargin`
         | <!DOCTYPE HTML>
         | <html lang="${i18n.lang}">
@@ -157,9 +161,9 @@ function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): st
         |     <meta charset="UTF-8">
         |     <meta name="viewport" content="width=device-width, initial-scale=1.0">
         |     <title>${title} - ${metadata.title}</title>
-        |     <link rel="stylesheet" href="/css/site.css?v=${cssVersion}">
+        |     <link rel="stylesheet" href="/css/site.css?v=${version('site/css/site.css')}">
         |    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-203054-6"></script>
-        |    <script async src="/index.js" type="module"></script>
+        |    <script async src="/index.js?v=${version('site/index.js')}" type="module"></script>
         |    <script>
         |         window.dataLayer = window.dataLayer || [];
         |         function gtag(){dataLayer.push(arguments);}
