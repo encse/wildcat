@@ -2,13 +2,12 @@
 title: Impresszum
 ---
 
-Videók és szöveg: Rob Abram
+Videók és szöveg: *Rob Abram*
 
-Az oldal tetején felhasznált kép: <a href="https://commons.wikimedia.org/wiki/File:Day_%26_Night_Mountain_Scene.svg">Day & Night Mountain Scene</a>.
+Illusztráció: *Vass Mónika*
 
-További illusztrációk: Vass Mónika.
+Szerkesztette és fordította: *[Németh Cs. Dávid](https://csokavar.hu/about)*
 
-Fordította: Németh Cs. Dávid.
+Témaválasztó: [Pure CSS Day/Night Toggle Swith](https://codepen.io/jasontyler/pen/qEXzOQ)
 
-Html és programozás: Németh Cs. Dávid.
-
+Az oldal tetején felhasznált kép: *[Day & Night Mountain Scene](https://commons.wikimedia.org/wiki/File:Day_%26_Night_Mountain_Scene.svg)*
