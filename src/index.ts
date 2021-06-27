@@ -160,7 +160,7 @@ function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): st
         | <head>
         |     <meta charset="UTF-8">
         |     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        |     <title>${title} - ${metadata.title}</title>
+        |     <title>${titleText} - ${metadata.title}</title>
         |     <link rel="stylesheet" href="/css/site.css?v=${version('site/css/site.css')}">
         |    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-203054-6"></script>
         |    <script async src="/index.js?v=${version('site/index.js')}" type="module"></script>

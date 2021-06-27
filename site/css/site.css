@@ -441,12 +441,8 @@ article picture,
 .rotateA {
     transform: rotate(1deg);
     transition: 0.1s ease-in-out;
-    -webkit-backface-visibility: hidden;
-    -webkit-transform-style: preserve-3d;
 }
 
 .rotateB {
     transform: rotate(-1deg);
-    -webkit-backface-visibility: hidden;
-    -webkit-transform-style: preserve-3d;
 }
