@@ -128,9 +128,11 @@ function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): st
     };
 
     const html = md.render(content);
-    const titleText = isFrontPage ? 
-        i18n('Wildcat Jugglers tutorial', 'Wildcat Zsonglőr oldalak') :
-        'Wildcat';
+    const longTitle = i18n('Wildcat Jugglers tutorial', 'Wildcat Zsonglőr oldalak')
+    const titleText = isFrontPage ?  longTitle : "Wildcat";
+    const colophon = i18n(
+        `<a href="/hu/impresszum">Impressum</a>`,
+        `<a href="/hu/impresszum">Impresszum</a>`);
    
     const title = isFrontPage ? 
         `<h1>${titleText}</h1>` : 
@@ -186,7 +188,7 @@ function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): st
         | </main>
         | <footer>
         | <img src="${footerImage}" />
-        | © 2004-<span name="year"></span> Wildcat Zsonglőr Oldalak | <a href="https://github.com/encse/wildcat/">GitHub</a>
+        | © 2004-<span name="year"></span> ${longTitle} | ${colophon} | <a href="https://github.com/encse/wildcat/">GitHub</a>
         | <script>
         |    const year =  "" + new Date().getFullYear();
         |    document.getElementsByName("year").forEach(n => n.innerText = year);
