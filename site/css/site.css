@@ -440,8 +440,11 @@ article img,
 article picture,
 .rotateA {
     transform: rotate(1deg);
+    transition: 0.1s ease-in-out;
+    -webkit-backface-visibility: hidden;
 }
 
 .rotateB {
     transform: rotate(-1deg);
+    -webkit-backface-visibility: hidden;
 }

@@ -7,8 +7,16 @@ function getCookie(name) {
 document.documentElement.classList.toggle("dark", getCookie("theme") === "dark");
 
 window.onload = () => {
+
+    document.querySelectorAll('.rotateA,.rotateB').forEach(element => {
+        element.onclick = () => {
+            element.classList.toggle("rotateA");
+            element.classList.toggle("rotateB");
+        }
+    });
+
     const button = document.createElement('div');
-    button.innerHTML=`
+    button.innerHTML = `
         <div class="wrapper">
             <div class="toggle">
                 <input class="toggle-input" type="checkbox" />
@@ -22,7 +30,7 @@ window.onload = () => {
 
     const style = document.createElement('style');
 
-    style.innerHTML=`/*
+    style.innerHTML = `/*
         F5EB42 - sun inner
         E4C74D - sun outer
         FFFFFF - cloud inner
@@ -211,23 +219,23 @@ window.onload = () => {
 
     button.appendChild(style);
 
-    button.style.width="100px";
-    button.style.height="100px";
-    button.style.position="absolute";
-    button.style.top="0";
-    button.style.right="0";
-    button.style.transform="scale(.6)";
+    button.style.width = "100px";
+    button.style.height = "100px";
+    button.style.position = "absolute";
+    button.style.top = "0";
+    button.style.right = "0";
+    button.style.transform = "scale(.6)";
     document.getElementsByTagName('header')[0].appendChild(button);
 
     let theme = "light";
     const applyTheme = (newTheme) => {
-            theme = newTheme;
-            if (theme === "dark"){
-                document.getElementsByClassName('toggle-input')[0].checked = true;
-            }
-            document.documentElement.classList.toggle("dark", theme === "dark");
-            document.documentElement.classList.toggle("dark", theme === "dark");
-            document.cookie = `theme=${theme};path=/`;
+        theme = newTheme;
+        if (theme === "dark") {
+            document.getElementsByClassName('toggle-input')[0].checked = true;
+        }
+        document.documentElement.classList.toggle("dark", theme === "dark");
+        document.documentElement.classList.toggle("dark", theme === "dark");
+        document.cookie = `theme=${theme};path=/`;
     };
 
     applyTheme(getCookie("theme"));
