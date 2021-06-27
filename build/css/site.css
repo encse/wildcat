@@ -11,8 +11,8 @@
     --hover-link-color: #f00000;
     --visited-link-color: auto;
     --heading-text-color: #258405;
-    --header-text-color: #000000;
-    --header-link-color: #000000;
+    --header-text-color: #ffffff;
+    --header-link-color: #ffffff;
     --header-visited-link-color: #000000;
     --header-hover-link-color: #aaaaaa;
     --footer-bg-color: #619575;
@@ -27,8 +27,6 @@
     --hover-link-color: rgb(121, 75, 196);
     --visited-link-color: auto;
     --heading-text-color: #bf8614;
-    --header-text-color: #000000;
-    --header-link-color: #000000;
     --header-visited-link-color: #000000;
     --header-hover-link-color: #aaaaaa;
     --footer-bg-color: #343434;
@@ -103,7 +101,7 @@ body article {
     height: 100%;
     background-image: url("/images/mountain-day.svg");
     background-position-x: center;
-    background-position-y: top;
+    background-position-y: bottom;
     background-size: cover;
     background-repeat: no-repeat;
     z-index: -1;
@@ -118,7 +116,7 @@ body article {
     height: 100%;
     background-image: url("/images/mountain-night.svg");
     background-position-x: center;
-    background-position-y: top;
+    background-position-y: bottom;
     background-size: cover;
     background-repeat: no-repeat;
     z-index: -1;
@@ -126,15 +124,24 @@ body article {
     transition: opacity var(--day-night-animation);
 }
 
+.home #background1,
+.home #background2 {
+    background-position-y: top;
+}
+
 body>header {
     position: relative;
     max-width: 100%;
     margin: 0 auto;
     height: 55vh;
-    max-height: 480px;
+    max-height: 120px;
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+
+body.home>header {
+    max-height: 480px;
 }
 
 body>header,
@@ -150,11 +157,24 @@ body>header>* {
 body>header h1 {
     font-size: var(--xxl-text-size);
     color: var(--header-text-color);
+    width: 80%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 body>header p {
     margin: 0;
     font-size: 0.85em;
+}
+
+body>header h1 a {
+    text-decoration: none;
+}
+
+body>header h1 a:hover,
+body>header h1 a:visited {
+    color: inherit;
 }
 
 body>footer {

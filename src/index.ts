@@ -48,7 +48,7 @@ function randomRotate(){
     return pick(['rotateA', 'rotateB']);
 }
 
-function pageFromMarkdown(i18n: I18n, markdown: string): string {
+function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): string {
 
     const {metadata, content} = metadataParse(markdown);
 
@@ -122,11 +122,17 @@ function pageFromMarkdown(i18n: I18n, markdown: string): string {
     };
 
     const html = md.render(content);
-    const title = i18n('Wildcat Jugglers tutorial', 'Wildcat Zsonglőr oldalak');
-    const nav = i18n(
+    const titleText = i18n('Wildcat Jugglers tutorial', 'Wildcat Zsonglőr oldalak');
+    const title = isFrontPage ? 
+        `<h1>${titleText}</h1>` : 
+        `<h1>${i18n(
+            `<a href="/en">${titleText}</a>`,
+            `<a href="/hu">${titleText}</a>`)}
+        </h1>`;
+    const nav = isFrontPage ? `<nav>${i18n(
         '<a href="/en">Home</a> | <a href="/en/about/">About</a> | <a href="/hu">Magyarul</a>',
-        '<a href="/hu">Főoldal</a> | <a href="/hu/tortenet/">Történet</a> | <a href="/en">English</a>');
-
+        '<a href="/hu">Főoldal</a> | <a href="/hu/tortenet/">Történet</a> | <a href="/en">English</a>')
+    }</nav>`: '';
 
     const footerImage = pick([
         "/images/dobol-macska.svg",
@@ -135,6 +141,8 @@ function pageFromMarkdown(i18n: I18n, markdown: string): string {
         "/images/tandem-macska.svg",
         "/images/zsonglor-macska.svg"
     ]);
+
+    const bodyClass = isFrontPage ? 'class="home"' : '';
 
     const shasum = crypto.createHash('sha1')
     shasum.update(fs.readFileSync('site/css/site.css', 'utf-8'));
@@ -156,14 +164,12 @@ function pageFromMarkdown(i18n: I18n, markdown: string): string {
         |         gtag('config', 'UA-203054-6');
         |     </script>
         | </head>
-        | <body>
+        | <body ${bodyClass}>
         | <header>
         | <div id="background1"></div>
         | <div id="background2"></div>
-        | <h1>${title}</h1>
-        | <nav>
-        |     ${nav}
-        | </nav>
+        | ${title}
+        | ${nav}
         | </header>
         | <main>
         | <article>
@@ -197,10 +203,11 @@ function getSitemap(inputDir: string): Sitemap {
             // skip
             return;
         } else if (item.endsWith('.md')) {
+            const isFrontPage = fpatIn == 'site/en/README.md' || fpatIn == 'site/hu/README.md';
             sitemap.push({
                 kind: ItemKind.Page,
                 path: path.join(fpatOut, item.replace("README", "index").replace("md", "html")),
-                content: () => pageFromMarkdown(i18n(fpatIn), fs.readFileSync(fpatIn, "utf-8"))
+                content: () => pageFromMarkdown(isFrontPage, i18n(fpatIn), fs.readFileSync(fpatIn, "utf-8"))
             });
         } else {
             sitemap.push({
