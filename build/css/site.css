@@ -11,7 +11,7 @@
     --hover-link-color: #f00000;
     --visited-link-color: auto;
     --heading-text-color: #258405;
-    --header-text-color: #ffffff;
+    --header-text-color: #000;
     --header-link-color: #ffffff;
     --header-visited-link-color: #000000;
     --header-hover-link-color: #aaaaaa;
@@ -32,10 +32,6 @@
     --footer-bg-color: #343434;
     --bg-day: 0;
     --bg-night: 1;
-}
-
-.home {
-    --header-text-color: #000;
 }
 
 :root {
@@ -105,7 +101,7 @@ body article {
     height: 100%;
     background-image: url("/images/mountain-day.svg");
     background-position-x: center;
-    background-position-y: bottom;
+    background-position-y: center;
     background-size: cover;
     background-repeat: no-repeat;
     z-index: -1;
@@ -120,7 +116,7 @@ body article {
     height: 100%;
     background-image: url("/images/mountain-night.svg");
     background-position-x: center;
-    background-position-y: bottom;
+    background-position-y: center;
     background-size: cover;
     background-repeat: no-repeat;
     z-index: -1;
