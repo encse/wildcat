@@ -435,10 +435,18 @@ article video,
 article img,
 article picture,
 .rotateA {
-    transform: rotate(1deg);
-    transition: 0.1s ease-in-out;
+    transform: rotateZ(1deg);
+    transition: transform 0.5s ease-in-out;
 }
 
 .rotateB {
-    transform: rotate(-1deg);
+    transform: rotateZ(-1deg);
+}
+
+.rotateA.flip {
+    transform: rotateY(180deg) rotateZ(1deg);
+}
+
+.rotateB.flip {
+    transform: rotateY(180deg) rotateZ(-1deg);
 }

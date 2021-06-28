@@ -10,8 +10,7 @@ window.onload = () => {
 
     document.querySelectorAll('.rotateA,.rotateB').forEach(element => {
         element.onclick = () => {
-            element.classList.toggle("rotateA");
-            element.classList.toggle("rotateB");
+            element.classList.toggle("flip");
         }
     });
 
