@@ -429,6 +429,25 @@ footer img {
     width: 80%;
 }
 
+.video {
+    position: relative;
+    padding: 4px 0;
+    cursor: pointer;
+}
+
+.video:hover:before {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-position-y: top;
+    color: white;
+    pointer-events: none;
+    border-left: 1px dashed var(--text-color);
+    margin-left: 50%;
+}
+
 article video,
 article img,
 article picture,

@@ -11,6 +11,7 @@ window.onload = () => {
     document.querySelectorAll('.rotateA,.rotateB').forEach(element => {
         element.onclick = () => {
             element.classList.toggle("flip");
+            element.play();
         }
     });
 

@@ -103,7 +103,7 @@ function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): st
                 |     "uploadDate": "2003-02-05T08:00:00+08:00"
                 | }
                 | </script>
-                | <video muted loop playsinline autoplay src="${mp4}" poster="${poster}" class="${randomRotate()}"></video>
+                | <div class="video"><video muted loop playsinline autoplay src="${mp4}" poster="${poster}" class="${randomRotate()}"></video></div>
             `
         }
 
