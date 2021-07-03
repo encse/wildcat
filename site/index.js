@@ -8,11 +8,21 @@ document.documentElement.classList.toggle("dark", getCookie("theme") === "dark")
 
 window.onload = () => {
 
+    function handleVisibilityChange() {
+        document.querySelectorAll('video').forEach(element => {
+            if (document.hidden) {
+                element.pause();
+            } else {
+                element.play();
+            }
+        });
+    }
+    document.addEventListener("visibilityChange", handleVisibilityChange, false);
+
     document.querySelectorAll('.rotateA,.rotateB').forEach(element => {
         element.onclick = () => {
             element.classList.toggle("flip");
             fetch('/flip');
-            element.play();
         }
     });
 
@@ -248,4 +258,7 @@ window.onload = () => {
         fetch(`/?applyTheme=${newTheme}`);
         applyTheme(newTheme);
     }
+
+
+
 };
