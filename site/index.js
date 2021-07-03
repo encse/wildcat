@@ -8,16 +8,31 @@ document.documentElement.classList.toggle("dark", getCookie("theme") === "dark")
 
 window.onload = () => {
 
+    var hidden, visibilityChange;
+    if (typeof document.hidden !== "undefined") { // Opera 12.10 and Firefox 18 and later support
+        hidden = "hidden";
+        visibilityChange = "visibilitychange";
+    } else if (typeof document.msHidden !== "undefined") {
+        hidden = "msHidden";
+        visibilityChange = "msvisibilitychange";
+    } else if (typeof document.webkitHidden !== "undefined") {
+        hidden = "webkitHidden";
+        visibilityChange = "webkitvisibilitychange";
+    }
+
     function handleVisibilityChange() {
         document.querySelectorAll('video').forEach(element => {
-            if (document.hidden) {
+            if (document[hidden]) {
                 element.pause();
             } else {
                 element.play();
             }
         });
     }
-    document.addEventListener("visibilityChange", handleVisibilityChange, false);
+
+    if (visibilityChange) {
+        document.addEventListener(visibilityChange, handleVisibilityChange, false);
+    }
 
     document.querySelectorAll('.rotateA,.rotateB').forEach(element => {
         element.onclick = () => {
