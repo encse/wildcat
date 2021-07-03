@@ -456,7 +456,10 @@ article picture,
     transform: rotateY(180deg) rotateZ(-1deg);
 }
 
-.video:hover {
-    transform: scale(1.02);
-    transition: transform 0.1s;
+@media (hover:hover) {
+    /* prevent stickiness on touchscreens */
+    .video:hover {
+        transform: scale(1.02);
+        transition: transform 0.1s;
+    }
 }
