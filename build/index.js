@@ -25,8 +25,6 @@ window.onload = () => {
             if (document[hidden]) {
                 element.pause();
             } else {
-                console.log('sss');
-
                 element.play();
             }
         });
