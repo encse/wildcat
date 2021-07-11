@@ -429,13 +429,6 @@ footer img {
     width: 80%;
 }
 
-
-/* .video {
-    position: relative;
-    padding: 4px 0;
-    cursor: pointer;
-} */
-
 article video,
 article img,
 article picture,
@@ -456,10 +449,14 @@ article picture,
     transform: rotateY(180deg) rotateZ(-1deg);
 }
 
+
+/* don't do this on touchscreens to prevent stickiness */
+
 @media (hover:hover) {
-    /* prevent stickiness on touchscreens */
+    .video {
+        transition: transform 0.1s;
+    }
     .video:hover {
         transform: scale(1.02);
-        transition: transform 0.1s;
     }
 }
