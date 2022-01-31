@@ -179,6 +179,7 @@ function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): st
         |          gtag('js', new Date());
         |          gtag('config', 'UA-203054-6');
         |      </script>
+        |      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5815787374478753" crossorigin="anonymous"></script>
         | </head>
         | <body ${bodyClass}>
         | <header>
