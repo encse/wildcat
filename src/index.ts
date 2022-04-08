@@ -131,8 +131,8 @@ function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): st
     const longTitle = i18n('Wildcat Jugglers tutorial', 'Wildcat Zsonglőr oldalak')
     const titleText = isFrontPage ?  longTitle : "Wildcat";
     const colophon = i18n(
-        `<a href="/hu/impresszum">Impressum</a>`,
-        `<a href="/hu/impresszum">Impresszum</a>`);
+        `<a href="/hu/kolofon">Colophon</a>`,
+        `<a href="/hu/kolofon">Kolofon</a>`);
    
     const title = isFrontPage ? 
         `<h1>${titleText}</h1>` : 

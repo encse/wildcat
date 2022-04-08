@@ -1,5 +1,5 @@
 ---
-title: Impresszum
+title: Kolofon
 ---
 
 Videók és szöveg: *Rob Abram*
