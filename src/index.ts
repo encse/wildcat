@@ -216,7 +216,7 @@ function getSitemap(inputDir: string): Sitemap {
 
         if (fs.lstatSync(fpatIn).isDirectory()) {
             sitemap.push(...getSitemap(fpatIn));
-        } else if (item.startsWith(".")) {
+        } else if (item.startsWith(".") && item != '.nojekyll') {
             // skip
             return;
         } else if (item.endsWith('.md')) {
@@ -253,7 +253,7 @@ function generate(fpatIn: string, fpatOut: string, writeFile: (fpat: string, con
     `);
 }
 
-generate('site', 'build', (fpat: string, content: string | NodeJS.ArrayBufferView) => {
+generate('site', 'docs', (fpat: string, content: string | NodeJS.ArrayBufferView) => {
     fs.mkdirSync(path.parse(fpat).dir, { recursive: true });
     fs.writeFileSync(fpat, content);
 });

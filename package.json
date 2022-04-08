@@ -7,10 +7,9 @@
     "keywords": [],
     "scripts": {
         "build": "npm run clean && npx ts-node src/index.ts",
-        "dev": "npx http-server -c-1 build",
+        "dev": "npx http-server -c-1 docs",
         "make-posters": "source ./makeposters.sh",
-        "clean": "rm -rf build",
-        "deploy": "ssh csokavar.hu 'cd /var/www/zsonglor/assets; git pull'"
+        "clean": "rm -rf docs"
     },
     "dependencies": {
         "@types/jsdom": "^16.2.3",

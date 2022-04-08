@@ -18,7 +18,7 @@ npm run build
 ```
 
 This will set up everything and create a new version in the 
-build directory.
+docs directory.
 
 The content can be found in the [site](site) folder in 
 markdown format, from which a super simple [script](src/index.ts) 
