@@ -179,7 +179,6 @@ function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): st
         |          gtag('js', new Date());
         |          gtag('config', 'UA-203054-6');
         |      </script>
-        |      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5815787374478753" crossorigin="anonymous"></script>
         | </head>
         | <body ${bodyClass}>
         | <header>
@@ -195,7 +194,8 @@ function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): st
         | </article>
         | </main>
         | <footer>
-        | <img src="${footerImage}" />
+        | <a class="sponsorship" href="https://www.paypal.com/donate/?hosted_button_id=FMMVLP6ZN7AQ2" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+        | <img class="footer-image" src="${footerImage}" />
         | © 2004-<span name="year"></span> ${longTitle} | ${colophon} | <a href="https://github.com/encse/wildcat/">GitHub</a>
         | <script>
         |    const year =  "" + new Date().getFullYear();

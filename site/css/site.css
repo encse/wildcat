@@ -181,7 +181,7 @@ body>footer {
     background: linear-gradient( 0deg, var(--footer-bg-color) 0%, var(--footer-bg-color) 50%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0) 100%);
 }
 
-footer img {
+.footer-image {
     max-width: 40rem;
     padding: 16px;
 }
@@ -423,7 +423,7 @@ article picture {
     box-shadow: 0px 0px 1px black;
 }
 
-footer img {
+.footer-image {
     display: block;
     margin: auto;
     width: 80%;
