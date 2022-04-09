@@ -16,6 +16,7 @@
     --footer-bg-color: #619575;
     --bg-day: 1;
     --bg-night: 0;
+    --sponsor-image: url(/images/sponsor-button.png);
 }
 
 :root.dark {
@@ -30,6 +31,7 @@
     --footer-bg-color: #343434;
     --bg-day: 0;
     --bg-night: 1;
+    --sponsor-image: url(/images/sponsor-button-dark.png);
 }
 
 :root {
@@ -450,6 +452,14 @@ article picture,
 }
 
 
+.donate, .donate:hover {
+    padding: 16px 0;
+    display: inline-block;
+    background:var(--sponsor-image);
+    background-size: cover;
+    height: 60px;
+    width: 217px;
+}
 /* don't do this on touchscreens to prevent stickiness */
 
 @media (hover:hover) {

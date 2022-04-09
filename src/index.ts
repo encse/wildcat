@@ -194,7 +194,7 @@ function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): st
         | </article>
         | </main>
         | <footer>
-        | <a class="sponsorship" href="https://www.paypal.com/donate/?hosted_button_id=FMMVLP6ZN7AQ2" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+        | <a class="donate" href="https://www.paypal.com/donate/?hosted_button_id=FMMVLP6ZN7AQ2" target="_blank"></a>
         | <img class="footer-image" src="${footerImage}" />
         | © 2004-<span name="year"></span> ${longTitle} | ${colophon} | <a href="https://github.com/encse/wildcat/">GitHub</a>
         | <script>
@@ -213,6 +213,7 @@ function getSitemap(inputDir: string): Sitemap {
     items.forEach(item => {
         const fpatIn = path.join(inputDir, item);
         const fpatOut = path.join(...inputDir.split('/').slice(1));
+        console.log(`found ${fpatIn}`);
 
         if (fs.lstatSync(fpatIn).isDirectory()) {
             sitemap.push(...getSitemap(fpatIn));
@@ -255,6 +256,7 @@ function generate(fpatIn: string, fpatOut: string, writeFile: (fpat: string, con
 
 generate('site', 'docs', (fpat: string, content: string | NodeJS.ArrayBufferView) => {
     fs.mkdirSync(path.parse(fpat).dir, { recursive: true });
+    console.log(`writing ${fpat}`);
     fs.writeFileSync(fpat, content);
 });
 
