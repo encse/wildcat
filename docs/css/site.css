@@ -453,12 +453,13 @@ article picture,
 
 
 .donate, .donate:hover {
-    padding: 16px 0;
     display: inline-block;
     background:var(--sponsor-image);
     background-size: cover;
     height: 60px;
     width: 217px;
+    margin: 16px;
+    border-radius: 30px;
 }
 /* don't do this on touchscreens to prevent stickiness */
 
