@@ -194,7 +194,6 @@ function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): st
         | </article>
         | </main>
         | <footer>
-        | <a class="donate" href="https://www.paypal.com/donate/?hosted_button_id=FMMVLP6ZN7AQ2" target="_blank"></a>
         | <img class="footer-image" src="${footerImage}" />
         | © 2004-<span name="year"></span> ${longTitle} | ${colophon} | <a href="https://github.com/encse/wildcat/">GitHub</a>
         | <script>
