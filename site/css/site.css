@@ -466,8 +466,15 @@ article picture,
 @media (hover:hover) {
     .video {
         transition: transform 0.1s;
+        
     }
     .video:hover {
-        transform: scale(1.02);
+        transform: scale(1.03);
+        background: linear-gradient(var(--text-color), var(--text-color)) no-repeat center/1px 100%;
     }
+
+    .video  {
+        padding: 5px;
+    }
+ 
 }
