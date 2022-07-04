@@ -141,7 +141,8 @@ body>header {
 }
 
 body.home>header {
-    max-height: 480px;
+    max-height: 100vh;
+    height: 100vh;
 }
 
 body>header,
