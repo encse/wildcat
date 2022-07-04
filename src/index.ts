@@ -141,8 +141,8 @@ function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): st
             `<a href="/hu">${titleText}</a>`)}
         </h1>`;
     const nav = isFrontPage ? `<nav>${i18n(
-        '<a href="/en">Home</a> | <a href="/en/about/">About</a> | <a href="/hu">Magyarul</a>',
-        '<a href="/hu">Főoldal</a> | <a href="/hu/tortenet/">Történet</a> | <a href="/en">English</a>')
+        '<a href="#article">Home</a> | <a href="/en/about/">About</a> | <a href="/hu">Magyarul</a>',
+        '<a href="#article">Főoldal</a> | <a href="/hu/tortenet/">Történet</a> | <a href="/en">English</a>')
     }</nav>`: '';
 
     const footerImage = pick([
@@ -188,7 +188,7 @@ function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): st
         | ${nav}
         | </header>
         | <main>
-        | <article>
+        | <article id="article">
         | <h1>${metadata.title}</h1>
         | ${html}
         | </article>

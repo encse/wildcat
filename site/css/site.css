@@ -46,6 +46,7 @@
 
 html {
     font-family: 'Merriweather', sans-serif;
+    scroll-behavior: smooth;
 }
 
 h1,
