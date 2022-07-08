@@ -195,11 +195,7 @@ function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): st
         | </main>
         | <footer>
         | <img class="footer-image" src="${footerImage}" />
-        | © 2004-<span name="year"></span> ${longTitle} | ${colophon} | <a href="https://github.com/encse/wildcat/">GitHub</a>
-        | <script>
-        |    const year =  "" + new Date().getFullYear();
-        |    document.getElementsByName("year").forEach(n => n.innerText = year);
-        | </script>
+        | © 2004 ${longTitle} | ${colophon} | <a href="https://github.com/encse/wildcat/">GitHub</a>
         | </footer>
         | </body>
         | </html>
