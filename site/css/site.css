@@ -39,7 +39,7 @@
 }
 
 @media only screen and (max-width:600px) {
-     :root {
+    :root {
         --xxl-text-size: 40px;
     }
 }
@@ -125,10 +125,10 @@ body article {
     transition: opacity var(--day-night-animation);
 }
 
-.home #background1,
+/* .home #background1,
 .home #background2 {
     background-position-y: top;
-}
+} */
 
 body>header {
     position: relative;
@@ -142,8 +142,8 @@ body>header {
 }
 
 body.home>header {
-    max-height: 100vh;
-    height: 100vh;
+    max-height: 200px;
+    height: 30vh;
 }
 
 body>header,
@@ -182,7 +182,7 @@ body>footer {
     text-align: center;
     font-size: 0.8rem;
     color: var(--text-color);
-    background: linear-gradient( 0deg, var(--footer-bg-color) 0%, var(--footer-bg-color) 50%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0) 100%);
+    background: linear-gradient(0deg, var(--footer-bg-color) 0%, var(--footer-bg-color) 50%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0) 100%);
 }
 
 .footer-image {
@@ -277,6 +277,7 @@ h6>a[href^="#"][id]:empty {
 }
 
 @media (min-width: 40rem) {
+
     h1>a[href^="#"][id]:empty,
     h2>a[href^="#"][id]:empty,
     h3>a[href^="#"][id]:empty,
@@ -454,29 +455,32 @@ article picture,
 }
 
 
-.donate, .donate:hover {
+.donate,
+.donate:hover {
     display: inline-block;
-    background:var(--sponsor-image);
+    background: var(--sponsor-image);
     background-size: cover;
     height: 60px;
     width: 217px;
     margin: 16px;
     border-radius: 30px;
 }
+
 /* don't do this on touchscreens to prevent stickiness */
 
 @media (hover:hover) {
     .video {
         transition: transform 0.1s;
-        
+
     }
+
     .video:hover {
         transform: scale(1.03);
         background: linear-gradient(var(--text-color), var(--text-color)) no-repeat center/1px 100%;
     }
 
-    .video  {
+    .video {
         padding: 5px;
     }
- 
+
 }
