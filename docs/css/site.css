@@ -125,17 +125,12 @@ body article {
     transition: opacity var(--day-night-animation);
 }
 
-/* .home #background1,
-.home #background2 {
-    background-position-y: top;
-} */
-
 body>header {
     position: relative;
     max-width: 100%;
     margin: 0 auto;
     height: 55vh;
-    max-height: 120px;
+    max-height: 160px;
     display: flex;
     flex-direction: column;
     justify-content: center;

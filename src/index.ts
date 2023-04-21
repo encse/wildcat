@@ -6,12 +6,12 @@ import crypto from 'crypto';
 
 
 function stripMargin(strings: TemplateStringsArray, ...values: any[]): string {
-	let s = strings[0];
-	for (let i = 0; i < values.length; i++) {
-		s += values[i];
-		s += strings[i+1];
-	}
-	return s.trim().split("\n").map(line => line.replace(/^\s*\| /, "")).join('\n');
+    let s = strings[0];
+    for (let i = 0; i < values.length; i++) {
+        s += values[i];
+        s += strings[i + 1];
+    }
+    return s.trim().split("\n").map(line => line.replace(/^\s*\| /, "")).join('\n');
 }
 
 const pick: <T> (items: T[]) => T = (() => {
@@ -23,11 +23,11 @@ const fail = (st: string): never => {
     throw new Error(st);
 };
 
-type I18n = ((en: string, hu: string) => string) & {lang: "en" | "hu"};
+type I18n = ((en: string, hu: string) => string) & { lang: "en" | "hu" };
 const i18n = (fpatIn: string): I18n => {
-    const lang = fpatIn.indexOf('/en/') >=0 ? "en" : "hu";
+    const lang = fpatIn.indexOf('/en/') >= 0 ? "en" : "hu";
     const fn = (en, hu) => lang == "en" ? en : hu;
-    fn.lang = lang  as "en" | "hu";
+    fn.lang = lang as "en" | "hu";
     return fn;
 };
 
@@ -44,19 +44,19 @@ type Item = {
 
 type Sitemap = Item[];
 
-function version(fpat: string){
+function version(fpat: string) {
     const shasum = crypto.createHash('sha1')
     shasum.update(fs.readFileSync(fpat, 'utf-8'));
     return shasum.digest('hex');
 }
 
-function randomRotate(){
+function randomRotate() {
     return pick(['rotateA', 'rotateB']);
 }
 
-function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): string {
+function pageFromMarkdown(i18n: I18n, markdown: string): string {
 
-    const {metadata, content} = metadataParse(markdown);
+    const { metadata, content } = metadataParse(markdown);
 
     const md = MarkdownIt({
         html: true
@@ -70,26 +70,24 @@ function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): st
         const src = token.attrs[aIndex][1];
         if (src.startsWith("/site/videos/poster/")) {
             const parts = src.split("/");
-            const file = parts[parts.length-1];
+            const file = parts[parts.length - 1];
             const mp4 = "/videos/mp4/" + file.replace(".jpg", ".mp4");
             const poster = "/videos/poster/" + file;
 
-            const name = token.content.replace(/"/g,"&quot;");
+            const name = token.content.replace(/"/g, "&quot;");
             const description = i18n(
-                    `How to juggle the ${
-                        metadata.props === 'balls' ? "balls" :
-                        metadata.props === 'club' ? "clubs" :
+                `How to juggle the ${metadata.props === 'balls' ? "balls" :
+                    metadata.props === 'club' ? "clubs" :
                         metadata.props === 'ring' ? "rings" :
-                        metadata.props === 'rubber-band' ? "rubber bands" :
-                        fail("invalid prop " + metadata.props)
-                    }? Instructor: Rob Abram (Wildcat Jugglers)`,
-                    `Zsonglőrködés ${
-                        metadata.props === 'balls' ? "labdával" :
-                        metadata.props === 'club' ? "buzogánnyal" :
+                            metadata.props === 'rubber-band' ? "rubber bands" :
+                                fail("invalid prop " + metadata.props)
+                }? Instructor: Rob Abram (Wildcat Jugglers)`,
+                `Zsonglőrködés ${metadata.props === 'balls' ? "labdával" :
+                    metadata.props === 'club' ? "buzogánnyal" :
                         metadata.props === 'ring' ? "karikával" :
-                        metadata.props === 'rubber-band' ? "befőttes gumival" :
-                        fail("invalid prop " + metadata.props)
-                    }. Bemutatja: Rob Abram (Wildcat Jugglers)`);
+                            metadata.props === 'rubber-band' ? "befőttes gumival" :
+                                fail("invalid prop " + metadata.props)
+                }. Bemutatja: Rob Abram (Wildcat Jugglers)`);
 
             return stripMargin`
                 | <script type="application/ld+json">
@@ -118,7 +116,7 @@ function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): st
             href = href.replace('README.md', '');
         }
 
-        if (href.startsWith("/site")){
+        if (href.startsWith("/site")) {
             href = href.substring("/site".length);
         }
 
@@ -129,21 +127,16 @@ function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): st
 
     const html = md.render(content);
     const longTitle = i18n('Wildcat Jugglers tutorial', 'Wildcat Zsonglőr oldalak')
-    const titleText = isFrontPage ?  longTitle : "Wildcat";
+    const titleText = longTitle;
     const colophon = i18n(
         `<a href="/hu/kolofon">Colophon</a>`,
         `<a href="/hu/kolofon">Kolofon</a>`);
-   
-    const title = isFrontPage ? 
-        `<h1>${titleText}</h1>` : 
-        `<h1>${i18n(
-            `<a href="/en">${titleText}</a>`,
-            `<a href="/hu">${titleText}</a>`)}
-        </h1>`;
-    const nav = isFrontPage ? `<nav>${i18n(
-        '<a href="#article">Home</a> | <a href="/en/about/">About</a> | <a href="/hu">Magyarul</a>',
-        '<a href="#article">Főoldal</a> | <a href="/hu/tortenet/">Történet</a> | <a href="/en">English</a>')
-    }</nav>`: '';
+
+    const title = `<h1>${titleText}</h1>`
+    const nav = `<nav>${i18n(
+        '<a href="/en/index.html">Home</a> | <a href="/en/about/">About</a> | <a href="/hu">Magyarul</a>',
+        '<a href="/hu/index.html">Főoldal</a> | <a href="/hu/tortenet/">Történet</a> | <a href="/en">English</a>')
+        }</nav>`;
 
     const footerImage = pick([
         "/images/dobol-macska.svg",
@@ -153,7 +146,7 @@ function pageFromMarkdown(isFrontPage:boolean, i18n: I18n, markdown: string): st
         "/images/zsonglor-macska.svg"
     ]);
 
-    const bodyClass = isFrontPage ? 'class="home"' : '';
+    const bodyClass = '';
 
 
     return stripMargin`
@@ -216,11 +209,10 @@ function getSitemap(inputDir: string): Sitemap {
             // skip
             return;
         } else if (item.endsWith('.md')) {
-            const isFrontPage = fpatIn == 'site/en/README.md' || fpatIn == 'site/hu/README.md';
             sitemap.push({
                 kind: ItemKind.Page,
                 path: path.join(fpatOut, item.replace("README", "index").replace("md", "html")),
-                content: () => pageFromMarkdown(isFrontPage, i18n(fpatIn), fs.readFileSync(fpatIn, "utf-8"))
+                content: () => pageFromMarkdown(i18n(fpatIn), fs.readFileSync(fpatIn, "utf-8"))
             });
         } else {
             sitemap.push({
@@ -235,7 +227,7 @@ function getSitemap(inputDir: string): Sitemap {
 
 function generate(fpatIn: string, fpatOut: string, writeFile: (fpat: string, content: string | NodeJS.ArrayBufferView) => void) {
     const sitemap = getSitemap(fpatIn);
-    for (let item of sitemap){
+    for (let item of sitemap) {
         writeFile(path.join(fpatOut, item.path), item.content());
     }
 
@@ -243,8 +235,8 @@ function generate(fpatIn: string, fpatOut: string, writeFile: (fpat: string, con
         | <?xml version="1.0" encoding="UTF-8"?>
         | <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
         |     ${sitemap.filter(item => item.kind === ItemKind.Page).map(
-                 entry => `<url><loc>https://zsonglor.csokavar.hu/${entry.path.replace('/index.html', '/')}</loc></url>`
-             ).join("\n    ")}
+        entry => `<url><loc>https://zsonglor.csokavar.hu/${entry.path.replace('/index.html', '/')}</loc></url>`
+    ).join("\n    ")}
         | </urlset>
     `);
 }
