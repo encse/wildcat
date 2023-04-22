@@ -130,7 +130,7 @@ body>header {
     max-width: 100%;
     margin: 0 auto;
     height: 55vh;
-    max-height: 160px;
+    max-height: 200px;
     display: flex;
     flex-direction: column;
     justify-content: center;
