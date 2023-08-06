@@ -418,9 +418,8 @@ article picture {
     max-height: 80vh;
     display: block;
     margin: 16px auto;
-    background: white;
-    padding: 8px;
-    box-shadow: 0px 0px 1px black;
+    box-shadow: 0px 0px 12px black;
+    outline: 8px solid white;
 }
 
 .footer-image {
