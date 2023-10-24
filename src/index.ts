@@ -164,14 +164,7 @@ function pageFromMarkdown(i18n: I18n, markdown: string): string {
         |           onload="this.media='all'"
         |     >
         |     <link rel="stylesheet" href="/css/site.css?v=${version('site/css/site.css')}">
-        |     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-203054-6"></script>
         |     <script async src="/index.js?v=${version('site/index.js')}" type="module"></script>
-        |     <script>
-        |          window.dataLayer = window.dataLayer || [];
-        |          function gtag(){dataLayer.push(arguments);}
-        |          gtag('js', new Date());
-        |          gtag('config', 'UA-203054-6');
-        |      </script>
         | </head>
         | <body ${bodyClass}>
         | <header>
