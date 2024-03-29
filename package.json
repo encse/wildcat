@@ -15,7 +15,7 @@
         "@types/jsdom": "^16.2.3",
         "@types/markdown-it": "^10.0.1",
         "@types/node": "^14.0.6",
-        "jsdom": "^16.2.2",
+        "jsdom": "^16.7.0",
         "markdown-it": "^11.0.0",
         "markdown-yaml-metadata-parser": "^2.0.5",
         "node-html-parser": "^1.2.18",
