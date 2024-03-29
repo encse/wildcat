@@ -3,7 +3,7 @@ title: Történet
 props: balls
 ---
 
-A Wildcat Zsonglőr Oldalak története 2004-re nyúlik vissza. Bizony, az már több mint tíz éve volt… Akkoriban kezdtem zsonglőrködni, amit a főnökömtől és Lukács haveromtól tanultam az irodában. Az első hétvégét gyakorlatilag végigzsonglőrködtem zokniból készült kis labdákkal. Aztán nemsokára megtanultam néggyel is játszani, és akkor vettem magamnak egy garnitúra igazi labdát.
+A Wildcat Zsonglőr Oldalak története 2004-re nyúlik vissza. Bizony, az már több mint húsz éve volt… Akkoriban kezdtem zsonglőrködni, amit a főnökömtől és Lukács haveromtól tanultam az irodában. Az első hétvégét gyakorlatilag végigzsonglőrködtem zokniból készült kis labdákkal. Aztán nemsokára megtanultam néggyel is játszani, és akkor vettem magamnak egy garnitúra igazi labdát.
 
 Közben a neten megtaláltam a Wildcat Jugglers Tutorialt, és mivel akkoriban még nem volt ilyesmi magyar nyelven, nekiálltam lefordítani. Nagyjából így nézett ki az egyik első változat:
 
