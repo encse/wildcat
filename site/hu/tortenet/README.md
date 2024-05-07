@@ -13,4 +13,4 @@ Eleinte az amerikai címen volt elérhető a magyar változat is, de később mi
 
 Egy kedves, játékos oldalt akartam csinálni, ezért megkértem egy meseillusztrátort, hogy rajzoljon pár képet. Ezekből építkezek a mai napig. Persze közben vagy százszor alakítottam át mindent, hiszen mégiscsak programozó vagyok vagymi. 2015-ben egy letisztultabb, mobilbarát változatra tértem át, kevesebb tartalommal, de az összes régi trükkleírással. Sajnos a zsonglőrködés ma nem olyan népszerű mint az elején volt. Éppen a felfutó ágba szálltam bele én is. Mondjuk még előfordulhat, hogy később megint felpörög.
 
-Sokmindent megtanultam a zsonglőrködésről, és nem utolsó sorban a weboldal készítésről, ezért kétszeresen is szeretem ezt a kis oldalt.
+Sok mindent megtanultam a zsonglőrködésről, és nem utolsó sorban a weboldal készítésről, ezért kétszeresen is szeretem ezt a kis oldalt.
